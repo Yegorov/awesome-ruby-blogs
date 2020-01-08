@@ -140,7 +140,7 @@
 * [Semaphore](https://semaphoreci.com/blog)
 * [Shopify](https://engineering.shopify.com/blogs/engineering)
 * [Sqreen](https://blog.sqreen.com/category/ruby-on-rails/)
-* [Super Good Software](https://supergood.software/blog)
+* [Super Good Software](https://supergood.software/blog/)
 * [Svitla Systems](https://svitla.com/blog?tags%5B0%5D=ruby&tags%5B1%5D=rails)
 * [Syndicode](https://syndicode.com/ruby-on-rails-agency-blog/)
 * [Thoughtbot](https://thoughtbot.com/blog)
@@ -174,4 +174,4 @@
 
 
 ## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
