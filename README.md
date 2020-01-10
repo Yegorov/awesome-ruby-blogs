@@ -115,6 +115,7 @@
 * [Datarockets](https://datarockets.com/blog/)
 * [Engine Yard](https://www.engineyard.com/blog/topic/ruby-on-rails)
 * [Evil Martians](https://evilmartians.com/chronicles)
+* [Fast Ruby](https://www.fastruby.io/blog)
 * [Getaround](https://getaround.tech/)
 * [Hashrocket](https://hashrocket.com/blog/tags/ruby)
 * [Heroku](https://blog.heroku.com/)
