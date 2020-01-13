@@ -109,6 +109,7 @@
 * [Carbonfive](https://blog.carbonfive.com/category/ruby/)
 * [Chaps](https://blog.chaps.io/)
 * [Codeship](https://blog.codeship.com/)
+* [Codeminer 42](https://blog.codeminer42.com/)
 * [Codica](https://www.codica.com/blog/)
 * [Cookpad](https://sourcediving.com/tagged/ruby)
 * [Collective Idea](http://collectiveidea.com/blog/labels/rails)
