@@ -113,6 +113,7 @@
 * [Luan Nguye](https://fullstackrubyonrails.com/)
 * [Luca Guidi](https://lucaguidi.com/)
 * [Maciej Mensfeld](https://mensfeld.pl/)
+* [Mahbub Zaman](https://mahbub.ninja/blog.html)
 * [Matt Brictson](https://mattbrictson.com/archive)
 * [Matthew Hutchinson](https://matthewhutchinson.net/)
 * [Máximo Mussini](https://maximomussini.com/posts/)
