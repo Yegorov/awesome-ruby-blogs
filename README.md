@@ -223,6 +223,7 @@
 * [Scriptday](https://scriptday.com/blog/)
 * [Semaphore](https://semaphoreci.com/blog)
 * [Shopify](https://shopify.engineering)
+* [Sloboda Studio](https://sloboda-studio.com/)
 * [Sqreen](https://blog.sqreen.com/category/ruby-on-rails/)
 * [Square](https://developer.squareup.com/blog/archive/tags/ruby/)
 * [Super Good Software](https://supergood.software/blog/)
