@@ -359,6 +359,7 @@
 * [Twilio](https://www.twilio.com/blog/tag/ruby)
 * [Varvet](https://www.varvet.com/tag/ruby/)
 * [Vector Logic](https://www.vector-logic.com/blog/posts)
+* [Visuality](https://www.visuality.pl/posts)
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby)
 
 
