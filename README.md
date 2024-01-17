@@ -159,7 +159,7 @@
 * [Dwight Watson](https://www.dwightwatson.com/tags/ruby-on-rails)
 * [Eileen M. Uchitelle](https://eileencodes.com/)
 * [Eliot Sykes](https://eliotsykes.com/)
-* [Emmanuel Hayford (manny.codes)](https://manny.codes/)
+* [Emmanuel Hayford (hayford.dev)](https://hayford.dev/)
 * [Enrico Teotti](https://teotti.com/topics/ruby/)
 * [Evgeniy Demin](https://evgeniydemin.medium.com/)
 * [Felipe Philipp](https://felipeelias.github.io/)
