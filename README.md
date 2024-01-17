@@ -384,6 +384,7 @@
 * [Engine Yard](https://www.engineyard.com/blog/tag/ruby-on-rails/)
 * [Evil Martians](https://evilmartians.com/chronicles)
 * [Fast Ruby](https://www.fastruby.io/blog)
+* [Faster Than Light](https://fasterthanlight.me)
 * [Featurist](https://archive.featurist.co.uk/blog/)
 * [Fly.io](https://fly.io/ruby-dispatch/)
 * [Getaround](https://getaround.tech/)
