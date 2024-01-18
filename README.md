@@ -191,7 +191,7 @@
 * [Jamie Schembri](https://schembri.me/post/)
 * [Janko Marohnić](https://janko.io/)
 * [Jan Matuszewski](https://jmatuszewski.com/)
-* [Jared Norman](https://www.jardo.dev/ruby-rails)
+* [Jared Norman](https://jardo.dev/ruby-rails)
 * [Jason Charnes](https://jasoncharnes.com/articles/)
 * [Jason Swett](https://www.codewithjason.com/articles/)
 * [Jason York](https://predicatemethod.com/archives/)
