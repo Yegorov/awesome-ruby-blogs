@@ -235,6 +235,7 @@
 * [Lazarus Lazaridis](https://iridakos.com/)
 * [Luan Nguye - fullstackrubyonrails.com (Web archive)](http://web.archive.org/web/20210513003707/https://fullstackrubyonrails.com/), [Luan Nguyen](https://luanotes.medium.com/)
 * [Luca Guidi](https://lucaguidi.com/)
+* [Lucas Dohmen](https://lucas.dohmen.io/)
 * [Lucas Luitjes](https://blog.luitjes.it/)
 * [Lucian Ghinda](https://allaboutcoding.ghinda.com/)
 * [Lynn Chang](https://www.lynnbright.com/author/lynn/)
