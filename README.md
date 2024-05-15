@@ -11,6 +11,7 @@
 * [Full Stack Ruby on Rails Weekly Bookmarks](https://dcyoungdev.substack.com/)
 * [Joe Masilotti's newsletter](https://masilotti.com/newsletter/)
 * [One Ruby Thing](https://andycroll.com/ruby)
+* [Ruby Biscuit](https://www.rubybiscuit.fr/)
 * [Ruby Daily](https://rubydaily.org/)
 * [RubyFlow](https://rubyflow.com/)
 * [Rubyland](https://rubyland.news/)
