@@ -382,6 +382,7 @@
 * [Cookpad](https://sourcediving.com/tagged/ruby)
 * [Datarockets](https://datarockets.com/blog/)
 * [DeepSource](https://deepsource.com/blog-category/ruby)
+* [DotRuby](https://www.dotruby.com/articles)
 * [Doximity](https://technology.doximity.com/sitemaps)
 * [Engine Yard](https://www.engineyard.com/blog/tag/ruby-on-rails/)
 * [Evil Martians](https://evilmartians.com/chronicles)
