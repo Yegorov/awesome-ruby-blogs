@@ -295,6 +295,7 @@
 * [Premysl Donat](https://masa331.github.io/)
 * [Radan Skorić](https://radanskoric.com/tags/ruby/)
 * [Rafael Montas](https://www.rafaelmontas.com/)
+* [Remi Mercier](https://remimercier.com/blog)
 * [Richard Huang (Web archive)](http://web.archive.org/web/20210923031801/https://blog.huangzhimin.com/)
 * [Richard Schneeman](https://schneems.com/)
 * [Rich Steinmetz](https://richstone.io/tag/ruby/)
