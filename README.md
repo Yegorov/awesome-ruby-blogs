@@ -467,6 +467,7 @@
 * [Vector Logic](https://www.vector-logic.com/blog/posts)
 * [Visuality](https://www.visuality.pl/posts)
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby)
+* [Decode Fix](https://decodefix.com/tag/ruby/)
 
 
 ## Other Awesome Ruby (and blogs) Lists
