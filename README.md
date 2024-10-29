@@ -382,6 +382,7 @@
 * [Collective Idea](https://collectiveidea.com/blog/labels/rails)
 * [Cookpad](https://sourcediving.com/tagged/ruby)
 * [Datarockets](https://datarockets.com/blog/)
+* [Decode Fix](https://decodefix.com/tag/ruby/)
 * [DeepSource](https://deepsource.com/blog-category/ruby)
 * [DotRuby](https://www.dotruby.com/articles)
 * [Doximity](https://technology.doximity.com/sitemaps)
@@ -467,7 +468,6 @@
 * [Vector Logic](https://www.vector-logic.com/blog/posts)
 * [Visuality](https://www.visuality.pl/posts)
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby)
-* [Decode Fix](https://decodefix.com/tag/ruby/)
 
 
 ## Other Awesome Ruby (and blogs) Lists
