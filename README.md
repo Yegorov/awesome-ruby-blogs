@@ -382,6 +382,7 @@
 * [Collective Idea](https://collectiveidea.com/blog/labels/rails)
 * [Cookpad](https://sourcediving.com/tagged/ruby)
 * [Datarockets](https://datarockets.com/blog/)
+* [Decode Fix](https://decodefix.com/tag/ruby/)
 * [DeepSource](https://deepsource.com/blog-category/ruby)
 * [DotRuby](https://www.dotruby.com/articles)
 * [Doximity](https://technology.doximity.com/sitemaps)
