@@ -1,0 +1,60 @@
+#!/usr/bin/env ruby
+
+require "bundler/inline"
+
+gemfile(true) do
+  source "https://rubygems.org"
+  gem "debug"
+  gem "async"
+  gem "feedbag"
+end
+
+require "yaml"
+require "debug"
+require "async"
+require "async/barrier"
+require "async/semaphore"
+require "feedbag"
+
+def feedsearch(url)
+  print "."
+  site_host = URI(url).host
+  # Reject feed urls that are captured but from another site than the url
+  # provided and returns an array of at most one url.
+  Feedbag.find(url).select do |feed_url|
+    url.include? URI(feed_url).host
+  end.first(1)
+end
+
+data = YAML.load_file('data.yml')
+@force = ARGV[0] == 'force'
+
+Async do |task|
+  barrier = Async::Barrier.new
+  semaphore = Async::Semaphore.new(10, parent: barrier) # limit the number of concurrent searches
+
+  result = data.each.with_object({}) do |(category, blogs), new_data|
+    puts "\nQuerying category: #{category}"
+    new_data[category] = blogs.map do |blog|
+      semaphore.async do
+        rss_links = if @force
+                      feedsearch(blog['url'])
+                    else
+                      blog['rss']&.any? ? blog['rss'] : feedsearch(blog['url'])
+                    end
+
+        blog.merge('rss' => rss_links)
+      end
+    end
+  end
+
+  barrier.wait
+
+  result.transform_values! do |values|
+    values.map(&:result)
+  end
+
+  File.open('data.yml', 'wb') { |f| f.write result.to_yaml }
+ensure
+  barrier&.stop
+end

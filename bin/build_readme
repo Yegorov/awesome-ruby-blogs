@@ -1,0 +1,82 @@
+#!/usr/bin/env ruby
+require "yaml"
+
+def build_links(data)
+  data.sort_by { |blog| blog['site_name'].to_s.downcase }
+      .reduce("") do |result, blog|
+        result += format("* [%<site_name>s](%<url>s)",
+          site_name: blog['site_name'].to_s.gsub("|", "-"),
+          url: blog['url'],
+        )
+        if blog['rss']&.any?
+          result += format(" ([rss](%<rss>s))", rss: blog['rss'].first)
+        end
+        result += "\n"
+      end
+end
+
+yaml = YAML.load_file("data.yml")
+
+File.open('README.md', 'wb') do |f|
+  tables = {
+    newsletter:              build_links(yaml['newsletter']),
+    social_news_aggregation: build_links(yaml['social_news_aggregation']),
+    community:               build_links(yaml['community']),
+    personal:                build_links(yaml['personal']),
+    company:                 build_links(yaml['company']),
+    other:                   build_links(yaml['other']),
+  }
+
+  f.write format(<<~README, **tables)
+    # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+    > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
+    > Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs)
+
+    ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
+
+    ## Newsletter
+    %{newsletter}
+
+    ## Social news aggregation
+    %{social_news_aggregation}
+
+    ## Community
+    %{community}
+
+    ## Personal
+    %{personal}
+
+    ## Company
+    %{company}
+
+    ## Other Awesome Ruby (and blogs) Lists
+    %{other}
+
+    ## Contribution Guidelines
+
+    * Please search previous suggestions before making a new one, as yours may be a duplicate.
+    * If the blog has many articles, choose the link with `Ruby` / `Rails` category ( or tag).
+    * Feel free for send pull request!
+
+    ### Link a blog to Awesome Ruby blogs
+
+    1. **Fork** this repository.
+    2. **Edit** the `data.yml` file by adding your blog’s details: site name, URL, and (if available) its feed URL. Be sure to place it under the most appropriate category.
+    3. **Run** `bin/build_readme` to regenerate the `README.md` with your new entry.
+    4. **Commit** your changes and open a pull request against the `master` branch.
+
+    Available blog categories:
+
+    * `newsletter`
+    * `social_news_aggregation`
+    * `community`
+    * `personal`
+    * `company`
+    * `other`
+
+    ## License
+    [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+  README
+end

@@ -1,0 +1,2257 @@
+---
+newsletter:
+- site_name: Awesome Ruby Newsletter
+  url: https://ruby.libhunt.com/newsletter
+  rss:
+  - https://ruby.libhunt.com/newsletter/feed
+- site_name: FastRuby newsletter
+  url: https://www.fastruby.io/newsletter
+  rss: []
+- site_name: Full Stack Ruby on Rails Weekly Bookmarks
+  url: https://dcyoungdev.substack.com/
+  rss:
+  - https://dcyoungdev.substack.com/feed
+- site_name: Joe Masilotti's newsletter
+  url: https://masilotti.com/newsletter/
+  rss:
+  - https://masilotti.com/feed.xml
+- site_name: One Ruby Thing
+  url: https://andycroll.com/ruby
+  rss:
+  - https://andycroll.com/index.xml
+- site_name: Ruby Biscuit
+  url: https://www.rubybiscuit.fr/
+  rss:
+  - https://www.rubybiscuit.fr/feed
+- site_name: RubyCademy's Newsletter
+  url: https://newsletter.rubycademy.com/
+  rss: []
+- site_name: Ruby Daily
+  url: https://rubydaily.org/
+  rss:
+  - https://rubydaily.org/feeds_subdomain/RubyDaily/
+- site_name: RubyFlow
+  url: https://rubyflow.com/
+  rss:
+  - https://rubyflow.com/rss
+- site_name: Rubyland
+  url: https://rubyland.news/
+  rss:
+  - https://rubyland.news/feed.rss
+- site_name: Ruby on Rails - Monthly
+  url: https://sajjadumar.substack.com/
+  rss:
+  - https://sajjadumar.substack.com/feed
+- site_name: Ruby Weekly
+  url: https://rubyweekly.com/
+  rss:
+  - https://rubyweekly.com/rss/
+- site_name: Ruby weekly newsletter (discu.eu)
+  url: https://discu.eu/weekly/ruby/
+  rss: []
+- site_name: Short Ruby Newsletter
+  url: https://newsletter.shortruby.com/
+  rss: []
+- site_name: The Code Gardener
+  url: https://the.codegardener.com/
+  rss:
+  - https://the.codegardener.com/rss/
+- site_name: The RailsNotes Newsletter
+  url: https://railsnotes.xyz/newsletter
+  rss:
+  - https://railsnotes.xyz/feed.xml
+- site_name: This week in Rails
+  url: https://rails-weekly.ongoodbits.com/
+  rss:
+  - https://rails-weekly.ongoodbits.com/feed
+- site_name: Trailblazer newsletter
+  url: https://trailblazer.to/2.0/newsletter.html
+  rss: []
+- site_name: Women On Rails Newsletter
+  url: https://womenonrailsinternational.substack.com/
+  rss:
+  - https://womenonrailsinternational.substack.com/feed
+social_news_aggregation:
+- site_name: daily.dev
+  url: https://app.daily.dev/search?q=rails
+  rss: []
+- site_name: Dev.to Ruby
+  url: https://dev.to/t/ruby
+  rss: []
+- site_name: DevZone (Old Codeguida)
+  url: https://devzone.org.ua/tag/ruby
+  rss:
+  - https://devzone.org.ua/feed/tag/ruby
+- site_name: Habr Ruby
+  url: https://habr.com/ru/hubs/ruby/articles/
+  rss:
+  - https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru
+- site_name: Hashnode ruby
+  url: https://hashnode.com/n/ruby
+  rss: []
+- site_name: Hashnode rubyonrails
+  url: https://hashnode.com/n/rubyonrails
+  rss: []
+- site_name: Mastodon ruby.social
+  url: https://ruby.social/explore
+  rss: []
+- site_name: Medium Ruby
+  url: https://medium.com/tag/ruby
+  rss:
+  - https://medium.com/sitemap/sitemap.xml
+- site_name: Reddit Ruby
+  url: https://www.reddit.com/r/ruby/
+  rss: []
+- site_name: RubyNews
+  url: https://ruby.news/
+  rss: []
+community:
+- site_name: AnyCable
+  url: https://anycable.io/blog/
+  rss: []
+- site_name: BestWeb Ventures
+  url: https://blog.bestwebventures.in/archive
+  rss: []
+- site_name: Bloggie 'ruby'
+  url: https://bloggie.io/community/ruby
+  rss: []
+- site_name: Bloggie 'rails'
+  url: https://bloggie.io/community/rails
+  rss: []
+- site_name: Blogging On Rails
+  url: https://onrails.blog/
+  rss:
+  - https://onrails.blog/feed/
+- site_name: Blog Yet
+  url: https://blogyet.com/categories/coding/blog_posts
+  rss: []
+- site_name: Boring Rails
+  url: https://boringrails.com/articles
+  rss:
+  - https://boringrails.com/feed.xml
+- site_name: Bridgetown
+  url: https://www.bridgetownrb.com/blog/
+  rss:
+  - https://www.bridgetownrb.com/feed.xml
+- site_name: Bundler
+  url: https://bundler.io/blog/
+  rss:
+  - https://bundler.io/blog/feed.xml
+- site_name: Code With Rails
+  url: https://codewithrails.com/
+  rss:
+  - https://codewithrails.com/rss.xml
+- site_name: Daily Dev Tools
+  url: https://dailydevtools.com/blog
+  rss: []
+- site_name: Digital Ocean (Old scotch.io)
+  url: https://www.digitalocean.com/community/tutorials?q=%5BRuby%5D
+  rss:
+  - https://www.digitalocean.com/community/tutorials.atom
+- site_name: Drifting Ruby
+  url: https://www.driftingruby.com/episodes
+  rss:
+  - https://www.driftingruby.com//episodes/feed.atom
+- site_name: dry-rb
+  url: https://dry-rb.org/news/
+  rss:
+  - https://dry-rb.org/feed.xml
+- site_name: Fullstack Ruby (Old ruby3.dev)
+  url: https://www.fullstackruby.dev/articles
+  rss:
+  - https://www.fullstackruby.dev/feed.xml
+- site_name: GoRails
+  url: https://gorails.com/episodes
+  rss:
+  - https://gorails.com/blog.rss
+- site_name: Hanami
+  url: https://hanamirb.org/blog/
+  rss:
+  - https://hanamirb.org/atom.xml
+- site_name: HanamiMastery
+  url: https://hanamimastery.com/
+  rss:
+  - https://hanamimastery.com/feed.xml
+- site_name: Hexdevs
+  url: https://www.hexdevs.com/posts/
+  rss:
+  - https://www.hexdevs.com/index.xml
+- site_name: Maki Sushi Tech
+  url: https://makisushi.io/
+  rss: []
+- site_name: Monospace Mentor (Jochen Lillich)
+  url: https://monospacementor.com/blog/
+  rss:
+  - https://monospacementor.com/feed/
+- site_name: Opal
+  url: https://opalrb.com/blog/
+  rss: []
+- site_name: Past Rubies (Web archive)
+  url: https://web.archive.org/web/20230610191100/https://pastrubies.live/
+  rss: []
+- site_name: Practicing Ruby
+  url: https://practicingruby.com/
+  rss:
+  - https://practicingruby.com/feed.xml
+- site_name: Rails
+  url: https://rubyonrails.org/blog/
+  rss:
+  - https://rubyonrails.org/feed.xml
+- site_name: RailsApps
+  url: https://blog.railsapps.org/
+  rss:
+  - https://blog.railsapps.org/rss
+- site_name: Rails at Scale
+  url: https://railsatscale.com/
+  rss:
+  - https://railsatscale.com/feed.xml
+- site_name: Rails Designer
+  url: https://railsdesigner.com/articles/
+  rss:
+  - https://railsdesigner.com/feed.xml
+- site_name: Rails Explained
+  url: https://www.railsexplained.com/
+  rss:
+  - https://www.railsexplained.com/feed.xml
+- site_name: Rails Insights
+  url: https://railsinsights.com/
+  rss: []
+- site_name: RailsNotes Blog
+  url: https://railsnotes.xyz
+  rss:
+  - https://railsnotes.xyz/feed.xml
+- site_name: Rails Runner
+  url: https://therailsrunner.com/
+  rss: []
+- site_name: ROM
+  url: https://rom-rb.org/blog/
+  rss: []
+- site_name: Ronin
+  url: https://ronin-rb.dev/blog/
+  rss:
+  - https://ronin-rb.dev/blog/atom.xml
+- site_name: RorVsWild
+  url: https://www.rorvswild.com/blog
+  rss:
+  - https://www.rorvswild.com/blog.rss
+- site_name: RSpec
+  url: http://rspec.info/blog/
+  rss:
+  - http://rspec.info/blog/feed.xml
+- site_name: RubyCademy (Medium)
+  url: https://medium.com/rubycademy
+  rss:
+  - https://medium.com/feed/rubycademy
+- site_name: RubyCademy
+  url: https://www.rubycademy.com/blog
+  rss: []
+- site_name: RubyGems
+  url: https://blog.rubygems.org/
+  rss:
+  - https://blog.rubygems.org/atom.xml
+- site_name: RubyInside
+  url: https://medium.com/rubyinside
+  rss:
+  - https://medium.com/feed/rubyinside
+- site_name: Ruby Job Board (Web archive)
+  url: https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog
+  rss:
+  - https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog.rss
+- site_name: RubyOnRails.BA
+  url: https://rubyonrails.ba/
+  rss: []
+- site_name: RubyPigeon
+  url: https://www.rubypigeon.com/
+  rss:
+  - https://www.rubypigeon.com/feed.xml
+- site_name: RubyTapas
+  url: https://www.rubytapas.com/
+  rss:
+  - https://www.rubytapas.com/feed/
+- site_name: Ruby Tutorial (Web archive)
+  url: https://web.archive.org/web/20231230055220/https://rubytutorial.io/
+  rss:
+  - https://web.archive.org/web/20231230055220/https://rubytutorial.io/atom.xml
+- site_name: RubyWorks
+  url: http://rubyworks.github.io/index.html
+  rss: []
+- site_name: SciRuby
+  url: http://sciruby.com/blog/
+  rss:
+  - http://sciruby.com/atom.xml
+- site_name: Sequel
+  url: http://sequel.jeremyevans.net/blog.html
+  rss: []
+- site_name: Sinatra
+  url: https://sinatrarb.com/blog.html
+  rss:
+  - https://sinatrarb.com/sinatra.github.com/feed.xml
+- site_name: Sorbet
+  url: https://sorbet.org/blog/
+  rss:
+  - https://sorbet.org/blog/atom.xml
+- site_name: Taylor (Sean Earle)
+  url: https://taylormadetech.dev/blog/
+  rss:
+  - https://taylormadetech.dev/feed.xml
+- site_name: The JRuby Blog
+  url: https://blog.jruby.org/
+  rss:
+  - https://blog.jruby.org/feed
+- site_name: The Lazy Log
+  url: https://web.archive.org/web/20230924230511/https://thelazylog.com/
+  rss:
+  - https://web.archive.org/web/20230924230511/https://thelazylog.com/rss/
+- site_name: This Week in Rails
+  url: https://world.hey.com/this.week.in.rails
+  rss:
+  - https://world.hey.com/this.week.in.rails/feed.atom
+- site_name: Thnk And Grow
+  url: https://blog.thnkandgrow.com/
+  rss:
+  - https://blog.thnkandgrow.com/feed/
+- site_name: With a Twist
+  url: https://withatwist.dev/
+  rss:
+  - https://withatwist.dev/feed.xml
+personal:
+- site_name: Aaron Patterson
+  url: https://tenderlovemaking.com/
+  rss:
+  - https://tenderlovemaking.com/atom.xml
+- site_name: Aaron Sumner (Everyday Rails)
+  url: https://everydayrails.com/archives.html
+  rss: []
+- site_name: Abhay Nikam
+  url: https://www.abhaynikam.me/
+  rss:
+  - https://www.abhaynikam.me/rss.xml
+- site_name: Abhilash M A
+  url: https://abhionrails.com/
+  rss: []
+- site_name: Aboobacker MK
+  url: https://aboobacker.in/posts/
+  rss:
+  - https://aboobacker.in/feed.xml
+- site_name: Adrien Siami
+  url: https://blog.siami.fr/
+  rss:
+  - https://blog.siami.fr/feed.xml
+- site_name: Agnieszka Małaszkiewicz
+  url: https://womanonrails.com/tags/#Ruby
+  rss:
+  - https://womanonrails.com/feed.xml
+- site_name: Ahmed
+  url: https://aonemd.com/
+  rss:
+  - https://aonemd.com/index.xml
+- site_name: Ahmed Nadar (hashnode)
+  url: https://ahmednadar.hashnode.dev
+  rss: []
+- site_name: Ahmed Nadar (Web archive)
+  url: https://web.archive.org/web/20240719180311/http://www.ahmednadar.com/posts
+  rss: []
+- site_name: Akshay Birajdar
+  url: https://bytes.akshaybirajdar.com/
+  rss:
+  - https://bytes.akshaybirajdar.com/feed.xml
+- site_name: Akshay Khot (Write Software, Well)
+  url: https://www.writesoftwarewell.com/
+  rss:
+  - https://www.writesoftwarewell.com/rss/
+- site_name: Akshay Mohite
+  url: https://www.rubyinrails.com/
+  rss:
+  - https://www.rubyinrails.com/feed.xml
+- site_name: Alberto Almagro
+  url: https://albertoalmagro.com/blog/
+  rss:
+  - https://albertoalmagro.com/feed/
+- site_name: Aleksandr Ulanov
+  url: https://ualeks.dev/posts/
+  rss: []
+- site_name: Alessandro Rodi
+  url: https://medium.com/@coorasse
+  rss:
+  - https://medium.com/feed/@coorasse
+- site_name: Alexander Butt-Piercey
+  url: https://apiercey.github.io/posts/
+  rss:
+  - https://apiercey.github.io/posts/index.xml
+- site_name: Alexandre Barret
+  url: https://alexbarret.com/blog/
+  rss:
+  - https://alexbarret.com/feed.xml
+- site_name: Alexey Poimtsev
+  url: https://alec-c4.com/
+  rss:
+  - https://alec-c4.com/rss.xml
+- site_name: Alexey Vasiliev
+  url: https://leopard.in.ua/
+  rss:
+  - http://leopard.in.ua/rss.xml
+- site_name: Alexis Bernard
+  url: https://alexis.bernard.io/
+  rss:
+  - https://alexis.bernard.io/blog.rss
+- site_name: Alex Piechowski
+  url: https://piechowski.io/post/
+  rss: []
+- site_name: Alex Taylor
+  url: https://alextaylor.ca/archive/
+  rss:
+  - https://alextaylor.ca/atom.xml
+- site_name: Ana Nunes da Silva (Web archive)
+  url: https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/posts
+  rss:
+  - https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/feed.xml.rss
+- site_name: Andrea Fomera
+  url: https://afomera.dev/posts
+  rss: []
+- site_name: Andrei Kaleshka
+  url: https://blog.widefix.com/articles/
+  rss:
+  - https://widefix.com/blog/feed.xml
+- site_name: Andres Chacon
+  url: https://a-chacon.com/en/blog
+  rss:
+  - https://a-chacon.com/en/feed.xml
+- site_name: Andrew Atkinson
+  url: https://andyatkinson.com/tag#ruby-on-rails
+  rss: []
+- site_name: Andrew Kane
+  url: https://ankane.org/
+  rss:
+  - https://ankane.org/feed.rss
+- site_name: Andrii Konchyn
+  url: https://andrykonchin.github.io/
+  rss:
+  - https://andrykonchin.github.io/feed.xml
+- site_name: André Arko
+  url: https://andre.arko.net/
+  rss:
+  - https://andre.arko.net/atom.xml
+- site_name: Andy Croll
+  url: https://andycroll.com/
+  rss:
+  - https://andycroll.com/index.xml
+- site_name: Andy Leverenz
+  url: https://webcrunch.com/posts
+  rss:
+  - https://webcrunch.com/feed.rss
+- site_name: Andy Maleh
+  url: https://andymaleh.blogspot.com/
+  rss:
+  - https://andymaleh.blogspot.com/feeds/posts/default
+- site_name: Ankit Gupta
+  url: https://ankit-gupta.com/blog/tag/ruby
+  rss:
+  - https://ankit-gupta.com/feed.xml
+- site_name: Anna Gavrilova
+  url: https://kotogavr.vercel.app/blog
+  rss: []
+- site_name: Anthony Drake
+  url: https://www.t27duck.com/posts
+  rss:
+  - https://www.t27duck.com/posts.xml
+- site_name: Anton Davydov
+  url: https://www.davydovanton.com/blog/
+  rss:
+  - https://www.davydovanton.com/atom.xml
+- site_name: Aotokitsuruya
+  url: https://blog.aotoki.me/en/
+  rss:
+  - https://blog.aotoki.me/en/index.xml
+- site_name: Aristóteles Coutinho
+  url: https://aristotelescoutinho.com.br/
+  rss: []
+- site_name: Augusts Bautra
+  url: http://epigene.github.io/
+  rss:
+  - http://epigene.github.io/feed.xml
+- site_name: Avdi Grimm
+  url: https://avdi.codes/blog/
+  rss:
+  - https://avdi.codes/feed/
+- site_name: Avi Flombaum
+  url: https://code.avi.nyc
+  rss:
+  - https://code.avi.nyc/rss.xml
+- site_name: Axel Kee
+  url: https://rubyyagi.com/
+  rss:
+  - https://rubyyagi.com/feed.xml
+- site_name: Ayush Newatia
+  url: https://binarysolo.blog/
+  rss:
+  - https://binarysolo.blog/feed.xml
+- site_name: Balázs Kutil
+  url: https://balazs.kutilovi.cz/
+  rss:
+  - https://balazs.kutilovi.cz/index.xml
+- site_name: Benito Serna
+  url: https://bhserna.com/posts.html
+  rss:
+  - https://bhserna.com/feed.xml
+- site_name: Benoit Daloze
+  url: https://eregon.me/blog/
+  rss:
+  - https://eregon.me/blog/feed.xml
+- site_name: Benoit Tigeot
+  url: https://benoittgt.github.io/blog/
+  rss:
+  - https://benoittgt.github.io/feed/feed.xml
+- site_name: Ben Sheldon
+  url: https://island94.org/archives
+  rss:
+  - https://island94.org/feed.xml
+- site_name: Bernie Chiu
+  url: https://berniechiu.github.io/blog/
+  rss:
+  - https://berniechiu.github.io/blog/sitemap.xml
+- site_name: Bill Tihen
+  url: https://btihen.dev/posts/ruby/
+  rss:
+  - https://btihen.dev/posts/ruby/index.xml
+- site_name: Bohdan Pohorilets
+  url: https://bpohoriletz.github.io/
+  rss:
+  - https://bpohoriletz.github.io/feed.xml
+- site_name: Borja Garcia de Vinuesa Ordovás
+  url: https://bgvo.io/
+  rss:
+  - https://bgvo.io/feed.xml
+- site_name: Bozhidar Batsov
+  url: https://metaredux.com/
+  rss:
+  - https://metaredux.com/feed.xml
+- site_name: Brad Gessler
+  url: https://bradgessler.com/
+  rss: []
+- site_name: Bradley Schaefer (Soulcutter)
+  url: https://www.soulcutter.com/
+  rss:
+  - https://www.soulcutter.com/feed.xml
+- site_name: Brandon Casci
+  url: https://www.brandoncasci.com/
+  rss: []
+- site_name: Brendan Bondurant
+  url: https://brendanbondurant.com/35-2/
+  rss:
+  - https://brendanbondurant.com/feed/
+- site_name: Bruno Sutic
+  url: https://brunosutic.com/
+  rss:
+  - https://brunosutic.com/blog/feed
+- site_name: Bèr Kessels
+  url: https://berk.es/archive.html
+  rss:
+  - https://berk.es/2007/09/27/snipplr-drupals-code-snippet-feed/
+- site_name: Caleb Hearth
+  url: https://calebhearth.com/tags/rails
+  rss:
+  - https://calebhearth.com/atom.xml
+- site_name: Caleb Woods
+  url: https://www.calebwoods.com/
+  rss:
+  - https://www.calebwoods.com/feed.xml
+- site_name: Cezar Halmagean
+  url: https://mixandgo.com/learn
+  rss: []
+- site_name: Chris Blunt
+  url: https://www.chrisblunt.com/
+  rss:
+  - https://www.chrisblunt.com/feed/
+- site_name: Chris Dillon
+  url: https://squarism.com/archive/
+  rss:
+  - https://squarism.com/feed.xml
+- site_name: Chris Kottom
+  url: https://chriskottom.com/articles/
+  rss:
+  - https://chriskottom.com/articles/feed.xml
+- site_name: Chris Seaton
+  url: https://chrisseaton.com/
+  rss: []
+- site_name: Chris Sinjakli
+  url: https://blog.sinjakli.co.uk/
+  rss:
+  - https://blog.sinjakli.co.uk/feed.xml
+- site_name: Christoph Lupprich
+  url: https://christoph.luppri.ch/
+  rss: []
+- site_name: CJ Avilla
+  url: https://www.cjav.dev/articles
+  rss: []
+- site_name: Cody Norman
+  url: https://www.codynorman.com/posts/
+  rss:
+  - https://codynorman.com/feed.xml
+- site_name: Damian C. Rossney
+  url: https://rossney.net/articles/
+  rss:
+  - https://rossney.net/feed.xml
+- site_name: Daniela Baron
+  url: https://danielabaron.me/
+  rss:
+  - https://danielabaron.me/rss.xml
+- site_name: Daniil Svetlov
+  url: https://dansvetlov.me/
+  rss: []
+- site_name: Dan Mayer
+  url: https://www.mayerdan.com/
+  rss: []
+- site_name: Dave Faliskie
+  url: https://1manstartup.com/blogs
+  rss: []
+- site_name: David Boureau (saaslit)
+  url: https://saaslit.com/blog
+  rss: []
+- site_name: David Boureau (AlsoHelp)
+  url: https://alsohelp.com/blog
+  rss:
+  - https://alsohelp.com/rss.xml
+- site_name: David Bryant Copeland
+  url: https://naildrivin5.com/
+  rss:
+  - https://naildrivin5.com/atom.xml
+- site_name: David Colby
+  url: https://www.colby.so/
+  rss:
+  - https://colby.so/atom.xml
+- site_name: David Heinemeier Hansson
+  url: https://world.hey.com/dhh
+  rss:
+  - https://world.hey.com/dhh/feed.atom
+- site_name: Dean DeHart
+  url: https://deanin.com/blog/
+  rss:
+  - https://deanin.com/wp-json/wp/v2/pages/175
+- site_name: Dean Perry
+  url: https://deanpcmad.com/blog/
+  rss: []
+- site_name: Denis Defreyne
+  url: https://denisdefreyne.com/contact/
+  rss:
+  - https://denisdefreyne.com/feeds/weeknotes.xml
+- site_name: Dennis Martinez
+  url: https://dennmart.com/tags/rails/
+  rss: []
+- site_name: Derk-Jan Karrenbeld
+  url: https://derk-jan.com/articles
+  rss: []
+- site_name: Devanil
+  url: https://devanil.dev/blog/
+  rss:
+  - https://devanil.dev/rss.xml
+- site_name: Dhaval Singh
+  url: https://www.dsdev.in/
+  rss:
+  - https://www.dsdev.in/rss.xml
+- site_name: Dick Davis
+  url: https://dick.codes/
+  rss: []
+- site_name: Dimiter Petrov
+  url: https://dimiterpetrov.com/blog
+  rss:
+  - https://dimiterpetrov.com/blog/feed.xml
+- site_name: Dimitris Zorbas
+  url: https://zorbash.com/tags/ruby/
+  rss:
+  - https://zorbash.com/tags/ruby/index.xml
+- site_name: Dmitriy Ivliev
+  url: https://blog.ivda.dev/
+  rss:
+  - https://blog.ivda.dev/rss.xml
+- site_name: Dmitry Gutov
+  url: https://gutov.dev/
+  rss:
+  - https://gutov.dev/feed.xml
+- site_name: Dmitry Ishkov
+  url: https://www.dmitry-ishkov.com
+  rss:
+  - https://www.dmitry-ishkov.com/feeds/posts/default
+- site_name: Dmitry Tsepelev
+  url: https://dmitrytsepelev.dev/tag/ruby
+  rss:
+  - https://dmitrytsepelev.dev/feed.xml
+- site_name: Dom Christie
+  url: https://domchristie.co.uk/
+  rss:
+  - https://domchristie.co.uk/feed.xml
+- site_name: Dwight Watson
+  url: https://www.dwightwatson.com/tags/ruby-on-rails
+  rss: []
+- site_name: Délon R. Newman
+  url: https://delonnewman.name/articles
+  rss:
+  - https://delonnewman.name/articles/feed.xml
+- site_name: Eileen M. Uchitelle
+  url: https://eileencodes.com/
+  rss:
+  - http://eileencodes.com/feed.xml
+- site_name: Eliot Sykes
+  url: https://eliotsykes.com/
+  rss:
+  - https://eliotsykes.com/feed/
+- site_name: Emmanuel Hayford (hayford.dev)
+  url: https://hayford.dev/
+  rss:
+  - https://hayford.dev/rss/
+- site_name: Ender Ahmet Yurt
+  url: https://enderahmetyurt.com/
+  rss:
+  - https://enderahmetyurt.com/rss/
+- site_name: Enrico Teotti
+  url: https://teotti.com/topics/ruby/
+  rss:
+  - https://teotti.com/feed.xml
+- site_name: Eric London
+  url: https://ericlondon.com/
+  rss:
+  - https://ericlondon.com/feed.xml
+- site_name: Erik Minkel
+  url: https://www.erikminkel.com/
+  rss:
+  - https://www.erikminkel.com/rss/
+- site_name: Evgeniy Demin
+  url: https://evgeniydemin.medium.com/
+  rss:
+  - https://medium.com/feed/@evgeniydemin
+- site_name: Felipe Philipp
+  url: https://felipeelias.github.io/
+  rss:
+  - https://felipeelias.github.io/feed.xml
+- site_name: Felipe Vogel
+  url: https://fpsvogel.com/posts/
+  rss:
+  - https://fpsvogel.com/feed.xml
+- site_name: Filip Vrba
+  url: https://filipvrba.github.io/cv/
+  rss: []
+- site_name: Finnian Anderson
+  url: https://finnian.io/tags/ruby/
+  rss:
+  - https://finnian.io/tags/ruby/index.xml
+- site_name: Frank Groeneveld
+  url: https://frankgroeneveld.nl/
+  rss:
+  - https://frankgroeneveld.nl/feed/
+- site_name: Garrett Dimon
+  url: https://garrettdimon.com/journal/posts
+  rss:
+  - https://garrettdimon.com/feed
+- site_name: Gavin Miller (Web archive)
+  url: https://web.archive.org/web/20240518235427/http://gavinmiller.io/archives/
+  rss:
+  - https://web.archive.org/web/20240518235427/http://gavinmiller.io/atom.xml
+- site_name: Gavin Morrice
+  url: https://handyrailstips.com/
+  rss: []
+- site_name: Gernot Gradwohl
+  url: https://austrian-nerd.dev/
+  rss:
+  - https://austrian-nerd.dev/index.xml
+- site_name: Giorgi Mezurnishvili
+  url: https://mzrn.sh/
+  rss:
+  - https://mzrn.sh/feed.xml
+- site_name: Glauco Custodio
+  url: https://glaucocustodio.github.io/
+  rss:
+  - https://glaucocustodio.github.io/feed.xml
+- site_name: Goulven Champenois
+  url: https://pro.userland.fr/en/articles/
+  rss:
+  - https://pro.userland.fr/feed.xml
+- site_name: Greg Molnar
+  url: https://greg.molnar.io/blog/
+  rss:
+  - https://greg.molnar.io/feed.xml
+- site_name: Greg Molnar (railstricks)
+  url: https://pombomailer.com/n/railstricks
+  rss: []
+- site_name: Greg Navis
+  url: https://www.gregnavis.com/articles.html
+  rss:
+  - https://www.gregnavis.com/feed.xml
+- site_name: Guillaume Briday
+  url: https://guillaumebriday.fr/articles
+  rss:
+  - https://guillaumebriday.fr/articles.xml
+- site_name: Hal Brodigan (postmodern)
+  url: http://postmodern.github.io/blog/
+  rss:
+  - http://postmodern.github.io/atom.xml
+- site_name: Hartley McGuire
+  url: https://skipkayhil.github.io/blog
+  rss: []
+- site_name: Haseeb Annadamban
+  url: https://haseebeqx.com/posts/
+  rss:
+  - https://haseebeqx.com/posts/index.xml
+- site_name: Hegwin Wang
+  url: https://hegwin.me/en
+  rss: []
+- site_name: Henrik Nyh
+  url: https://thepugautomatic.com/tag/ruby/
+  rss:
+  - https://thepugautomatic.com/atom.xml
+- site_name: hoshino tsuyoshi
+  url: https://hoshinotsuyoshi.com/tags/ruby/
+  rss: []
+- site_name: Hrvoje Šimić
+  url: https://shime.sh/til/
+  rss:
+  - https://shime.sh/feed.xml
+- site_name: Deep dive
+  url: https://shime.sh/
+  rss:
+  - https://shime.sh/feed.xml
+- site_name: Igor Aleksandrov
+  url: https://igor.works/archive
+  rss: []
+- site_name: Igor Guzak
+  url: https://medium.com/@igor04
+  rss:
+  - https://medium.com/feed/@igor04
+- site_name: Igor Kuznetsov
+  url: https://medium.com/@igkuz
+  rss:
+  - https://medium.com/feed/@igkuz
+- site_name: Igor Morozov
+  url: https://www.morozov.is/
+  rss: []
+- site_name: Igor Springer (Web archive)
+  url: https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/blog-posts/
+  rss:
+  - https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/feed/
+- site_name: Ilya Bylich
+  url: https://iliabylich.github.io/
+  rss:
+  - https://iliabylich.github.io/index.xml
+- site_name: Ilya Krukowski
+  url: https://bodrovis.tech/
+  rss: []
+- site_name: Ismael Celis
+  url: https://ismaelcelis.com/
+  rss:
+  - https://ismaelcelis.com/index.xml
+- site_name: Ivo Anjo
+  url: https://ivoanjo.me/
+  rss:
+  - https://ivoanjo.me/feed.xml
+- site_name: Jake Worth
+  url: https://jakeworth.com/blog/
+  rss: []
+- site_name: Jake Worth
+  url: https://www.jakeworth.com/posts/
+  rss:
+  - https://jakeworth.com/posts/index.xml
+- site_name: Jake Zimmerman
+  url: https://blog.jez.io/#all-posts
+  rss:
+  - https://blog.jez.io/atom.xml
+- site_name: James Hibbard
+  url: https://hibbard.eu/
+  rss:
+  - https://hibbard.eu/feed.xml
+- site_name: Jamie Schembri
+  url: https://schembri.me/
+  rss:
+  - https://schembri.me/rss/
+- site_name: Jamis Buck
+  url: http://weblog.jamisbuck.org/archives.html
+  rss: []
+- site_name: Janko Marohnić
+  url: https://janko.io/
+  rss:
+  - https://janko.io/feed.xml
+- site_name: Jan Matuszewski
+  url: https://jmatuszewski.com/
+  rss:
+  - https://jmatuszewski.com/feed.xml
+- site_name: Jared Norman
+  url: https://jardo.dev/blog?topic=ruby-rails
+  rss:
+  - https://jardo.dev/blog.xml
+- site_name: Jason Charnes
+  url: https://jasoncharnes.com/articles/
+  rss:
+  - https://jasoncharnes.com/feed.xml
+- site_name: Jason Swett
+  url: https://www.codewithjason.com/articles/
+  rss:
+  - https://www.codewithjason.com/wp-json/wp/v2/pages/415
+- site_name: Jason York
+  url: https://predicatemethod.com/archives/
+  rss:
+  - https://predicatemethod.com/feed.xml
+- site_name: JD Gonzales
+  url: https://jd.codes/
+  rss:
+  - https://jd.codes/index.xml
+- site_name: Jean Boussier
+  url: https://byroot.github.io/
+  rss:
+  - https://byroot.github.io/feed.xml
+- site_name: Jemma Issroff
+  url: https://jemma.dev/
+  rss:
+  - https://jemma.dev/blog/published.xml
+- site_name: Jeremy Friesen
+  url: https://takeonrules.com/tags/programming/
+  rss:
+  - https://takeonrules.com/index.json
+- site_name: Jeremy Kreutzbender
+  url: https://jeremykreutzbender.com/blog?tags=ruby%2Cruby-on-rails
+  rss: []
+- site_name: Jeroen Weeink
+  url: https://craftingruby.com/
+  rss:
+  - https://craftingruby.com/feed.xml
+- site_name: Jess Brown
+  url: https://bjessbrown.com/
+  rss: []
+- site_name: Jesse B. Hannah
+  url: https://jbhannah.net/
+  rss: []
+- site_name: Jesus Castello
+  url: https://www.rubyguides.com/ruby-post-index/
+  rss: []
+- site_name: Jimmy Chao
+  url: http://neethack.com/tags/ruby/
+  rss: []
+- site_name: Jim Weirich (Web archive)
+  url: https://web.archive.org/web/20241013050338/https://www.onestepback.org/articles/index.html
+  rss: []
+- site_name: Joel Drapper
+  url: https://www.namingthings.org/archive
+  rss: []
+- site_name: Joe Masilotti
+  url: https://masilotti.com/articles/
+  rss:
+  - https://masilotti.com/feed.xml
+- site_name: Joey Wang
+  url: https://joeywang.github.io/
+  rss:
+  - https://joeywang.github.io/feed.xml
+- site_name: John Hawthorn
+  url: https://www.johnhawthorn.com/
+  rss:
+  - https://www.johnhawthorn.com/atom.xml
+- site_name: John Nunemaker
+  url: https://www.johnnunemaker.com/
+  rss:
+  - https://www.johnnunemaker.com/rss/
+- site_name: John Skiles Skinner
+  url: https://johnskinnerportfolio.com/blog/index.html
+  rss:
+  - https://johnskinnerportfolio.com/feed.xml
+- site_name: Jonas Brusman
+  url: https://jonas.brusman.se/articles/
+  rss:
+  - https://jonas.brusman.se/rss.xml
+- site_name: Jonathan Rochkind
+  url: https://bibwild.wordpress.com/
+  rss:
+  - https://bibwild.wordpress.com/feed/
+- site_name: Jon Sullivan
+  url: https://jonsully.net/blog/
+  rss:
+  - https://jonsully.net/rss.xml
+- site_name: Jorge Manrubia
+  url: https://world.hey.com/jorge
+  rss:
+  - https://world.hey.com/jorge/feed.atom
+- site_name: Jose Farias
+  url: https://jose.omg.lol/
+  rss:
+  - https://jose.omg.lol/feed.xml
+- site_name: Josef Strzibny
+  url: https://nts.strzibny.name/tag/ruby/
+  rss:
+  - https://nts.strzibny.name/feed.xml
+- site_name: Josh Frankel
+  url: https://joshfrankel.me/blog/
+  rss:
+  - https://joshfrankel.me/feed.xml
+- site_name: Josh McArthur
+  url: https://www.joshmcarthur.com/
+  rss:
+  - https://joshmcarthur.com/feed/
+- site_name: Joyful Bikeshedding
+  url: https://www.joyfulbikeshedding.com/blog/tags/ruby.html
+  rss:
+  - https://www.joyfulbikeshedding.com/feed.xml
+- site_name: JP Camara
+  url: https://jpcamara.com/categories/ruby/
+  rss:
+  - https://jpcamara.com/categories/ruby/feed.xml
+- site_name: J. Scott Johnson
+  url: https://fuzzyblog.io/blog/category.html#rails
+  rss:
+  - http://fuzzyblog.io/blog/feed.xml
+- site_name: Juanito Fatas
+  url: https://juanitofatas.com/tags/ruby
+  rss: []
+- site_name: Julia Chan
+  url: https://juliachan.dev/
+  rss: []
+- site_name: Julia Evans
+  url: https://jvns.ca/
+  rss:
+  - https://jvns.ca/atom.xml
+- site_name: Julian Rubisch
+  url: https://hotwire.club/blog/
+  rss:
+  - https://hotwire.club/feed.xml
+- site_name: Julija Alieckaja
+  url: https://medium.com/@alieckaja
+  rss:
+  - https://medium.com/feed/@alieckaja
+- site_name: Julik Tarkhanov
+  url: https://blog.julik.nl/
+  rss:
+  - https://blog.julik.nl/feed.atom.xml
+- site_name: Justin Cypret
+  url: https://justincypret.com/
+  rss:
+  - https://justincypret.com/feed.xml
+- site_name: Justin Searls
+  url: https://justin.searls.co/posts/
+  rss:
+  - https://justin.searls.co/atom.xml
+- site_name: Jônatas Davi Paganini
+  url: https://ideia.me/categories.html#ruby-ref
+  rss:
+  - https://ideia.me/atom.xml
+- site_name: Kadu Diógenes
+  url: https://kdiogenes.github.io/
+  rss:
+  - https://kdiogenes.github.io/feed.xml
+- site_name: Kallin Nagelberg
+  url: https://happycampers.dance/
+  rss:
+  - http://happycampers.dance/feed.xml
+- site_name: Karol Bąk
+  url: https://kukicola.io/
+  rss:
+  - https://kukicola.io/feed.xml
+- site_name: Karol Galanciak
+  url: https://karolgalanciak.com/blog/
+  rss:
+  - https://karolgalanciak.com/feed.xml
+- site_name: Kasper Timm Hansen
+  url: https://buttondown.com/kaspth/archive/
+  rss:
+  - https://buttondown.com/kaspth/rss
+- site_name: Kevin Glowacz
+  url: https://kevin.glowacz.info/
+  rss:
+  - https://kevin.glowacz.info/feed.xml
+- site_name: Kevin Murphy
+  url: https://kevinjmurphy.com/posts/
+  rss:
+  - https://kevinjmurphy.com/posts/index.xml
+- site_name: Kevin Newton
+  url: https://kddnewton.com/
+  rss:
+  - https://kddnewton.com/feed.xml
+- site_name: Kevin Sylvestre
+  url: https://ksylvest.com/
+  rss:
+  - https://ksylvest.com/feed.atom
+- site_name: Khaja Minhajuddin
+  url: https://minhajuddin.com/tags/ruby/
+  rss:
+  - https://minhajuddin.com/atom.xml
+- site_name: Kirill Platonov
+  url: https://kirillplatonov.com/posts/
+  rss:
+  - https://kirillplatonov.com/feed.xml
+- site_name: Kiril Mitov
+  url: https://kmitov.com/posts/tag/rails/
+  rss:
+  - https://kmitov.com/feed/
+- site_name: Kir Shatrov
+  url: https://kirshatrov.com/posts
+  rss: []
+- site_name: Koichi Sasada
+  url: https://dev.to/ko1
+  rss:
+  - https://dev.to/feed/ko1
+- site_name: Kris Bogdanov
+  url: https://fullstackheroes.com/tutorials/rails/
+  rss: []
+- site_name: Kris Leech
+  url: https://www.teamcoding.com/
+  rss: []
+- site_name: Kyle Keesling
+  url: https://kylekeesling.com/posts
+  rss:
+  - https://kylekeesling.com/feed.xml
+- site_name: Kyrylo Silin
+  url: https://kyrylo.org/
+  rss:
+  - https://kyrylo.org/feed.xml
+- site_name: Landon Gray
+  url: https://thedayisntgray.github.io/
+  rss:
+  - https://thedayisntgray.github.io/feed.xml
+- site_name: Lars Peters
+  url: https://larsp.de/
+  rss:
+  - https://larsp.de/rss/
+- site_name: Lazarus Lazaridis
+  url: https://iridakos.com/
+  rss:
+  - https://iridakos.com/feed.xml
+- site_name: Luan Nguye - fullstackrubyonrails.com (Web archive)
+  url: http://web.archive.org/web/20210513003707/https://fullstackrubyonrails.com/
+  rss: []
+- site_name: Luan Nguyen
+  url: https://luanotes.medium.com/
+  rss:
+  - https://medium.com/feed/@luanotes
+- site_name: Luca Guidi
+  url: https://lucaguidi.com/
+  rss: []
+- site_name: Lucas Dohmen
+  url: https://lucas.dohmen.io/
+  rss:
+  - https://lucas.dohmen.io/feed.xml
+- site_name: Lucas Luitjes
+  url: https://blog.luitjes.it/
+  rss: []
+- site_name: Lucian Ghinda
+  url: https://allaboutcoding.ghinda.com/
+  rss:
+  - https://allaboutcoding.ghinda.com/rss.xml
+- site_name: Luiz Eduardo Kowalski
+  url: https://www.luizkowalski.net/
+  rss:
+  - https://www.luizkowalski.net/rss/
+- site_name: Luke Jahnke
+  url: https://nastystereo.com/
+  rss: []
+- site_name: Lynn Chang
+  url: https://lynnbright.com/
+  rss:
+  - https://lynnbright.com/rss.xml
+- site_name: Maciej Litwiniuk
+  url: https://maciej.litwiniuk.net/posts/
+  rss:
+  - https://maciej.litwiniuk.net/index.xml
+- site_name: Maciej Mensfeld
+  url: https://mensfeld.pl/
+  rss:
+  - https://mensfeld.pl/feed/
+- site_name: Mahbub Zaman
+  url: https://mahbub.ninja/blog
+  rss: []
+- site_name: Manuel Farez
+  url: https://manufarez.com/
+  rss: []
+- site_name: Marc Busqué
+  url: https://waiting-for-dev.github.io/
+  rss:
+  - https://waiting-for-dev.github.io/feed.xml
+- site_name: Mario Alberto Chávez Cárdenas
+  url: https://mariochavez.io/
+  rss:
+  - https://mariochavez.io/feed.xml
+- site_name: Mateusz Białowąs
+  url: https://mateuszbialowas.com/
+  rss:
+  - https://mateuszbialowas.com/rss.xml
+- site_name: Matheus Richard
+  url: https://www.matheusrich.com/all/
+  rss:
+  - http://matheusrich.com/feed.xml
+- site_name: Mathieu Eustachy
+  url: https://mathieu-eustachy.com/articles
+  rss: []
+- site_name: Matias Korhonen
+  url: https://www.randomerrata.com/
+  rss:
+  - https://www.randomerrata.com/feed.xml
+- site_name: Matt Brictson
+  url: https://mattbrictson.com/blog
+  rss:
+  - https://mattbrictson.com/blog.atom
+- site_name: Matthew Hutchinson
+  url: https://matthewhutchinson.net/
+  rss: []
+- site_name: Mattia Roccoberton
+  url: https://www.blocknot.es/
+  rss:
+  - https://www.blocknot.es/feed.xml
+- site_name: Max Braga
+  url: https://hellomax.me/archives/
+  rss:
+  - https://hellomax.me/feed.xml
+- site_name: Maxime Lapointe
+  url: https://maxlap.dev/blog/
+  rss:
+  - https://maxlap.dev/blog/feed.xml
+- site_name: Max Tikhomirov
+  url: https://metacircu1ar.github.io/blog.html
+  rss:
+  - https://metacircu1ar.github.io/feed.xml
+- site_name: Michael Grosser
+  url: https://grosser.it/
+  rss:
+  - https://grosser.it/feed/
+- site_name: Michael Nelson
+  url: http://nelsonware.com/ruby.html
+  rss: []
+- site_name: Michael Wallbaum
+  url: https://mwallba.io/
+  rss: []
+- site_name: Michal Kazmierczak
+  url: https://mkaz.me/blog/
+  rss: []
+- site_name: Michal Papis (Web archive)
+  url: https://web.archive.org/web/20220929231743/http://niczsoft.com/
+  rss:
+  - https://web.archive.org/web/20220929231743/http://niczsoft.com/feed/atom/
+- site_name: Mikael Henriksson
+  url: https://mhenrixon.com/articles
+  rss: []
+- site_name: Mike Coutermarsh
+  url: https://www.mikecoutermarsh.com/
+  rss:
+  - https://www.mikecoutermarsh.com/rss/
+- site_name: Mike McQuaid
+  url: https://mikemcquaid.com/
+  rss:
+  - https://mikemcquaid.com/atom.xml
+- site_name: Mike Pack (Web archive)
+  url: http://web.archive.org/web/20220625075232/http://mikepackdev.com/
+  rss:
+  - http://web.archive.org/web/20220625075232/http://mikepackdev.com/blog_posts.atom
+- site_name: Mike Perham
+  url: https://www.mikeperham.com/
+  rss:
+  - https://mikeperham.com/index.xml
+- site_name: Mike Rogers (Web archive)
+  url: https://web.archive.org/web/20220627032657/https://mikerogers.io/posts/
+  rss:
+  - https://web.archive.org/web/20220627032657/https://mikerogers.io/rss.xml
+- site_name: Mike Wilson
+  url: https://www.mikewilson.dev/
+  rss:
+  - https://www.mikewilson.dev/feed.xml
+- site_name: Mikhail Klimenko
+  url: https://blog.klimenko.site/
+  rss:
+  - https://blog.klimenko.site/feed.xml
+- site_name: Miles Woodroffe
+  url: https://mileswoodroffe.com/tags/rails
+  rss:
+  - https://mileswoodroffe.com/feed.xml
+- site_name: Mohammad A. Ali
+  url: https://oldmoe.blog/
+  rss:
+  - https://oldmoe.blog/feed/
+- site_name: Mohit Sindhwani
+  url: https://notepad.onghu.com/
+  rss:
+  - https://notepad.onghu.com/feed.xml
+- site_name: Moncef Belyamani
+  url: https://www.moncefbelyamani.com/tags/ruby/
+  rss:
+  - https://www.moncefbelyamani.com/feed.xml
+- site_name: Mário Nzualo
+  url: https://www.marionzualo.com/blog/
+  rss:
+  - https://www.marionzualo.com/feed/
+- site_name: Máximo Mussini
+  url: https://maximomussini.com/
+  rss:
+  - https://maximomussini.com/feed.xml
+- site_name: Nate Berkopec
+  url: https://www.speedshop.co/blog/
+  rss:
+  - https://www.speedshop.co/feed.xml
+- site_name: Nicholas
+  url: https://wasabigeek.com/blog/
+  rss:
+  - https://wasabigeek.com/rss.xml
+- site_name: Nick Hammond
+  url: https://www.fromthekeyboard.com/
+  rss:
+  - https://www.fromthekeyboard.com/rss/
+- site_name: Nick Schwaderer
+  url: https://schwad.github.io/
+  rss:
+  - https://schwad.github.io/feed.xml
+- site_name: Nick Sutterer
+  url: https://apotonick.wordpress.com/
+  rss:
+  - https://apotonick.wordpress.com/feed/
+- site_name: Nikita Misharin
+  url: https://thesmartnik.com/
+  rss:
+  - https://thesmartnik.com/feed.xml
+- site_name: Nikola Đuza
+  url: https://pragmaticpineapple.com/
+  rss:
+  - https://pragmaticpineapple.com/rss.xml
+- site_name: Nitanshu Verma
+  url: https://nitanshu.github.io/posts/
+  rss:
+  - https://nitanshu.github.io/feed.xml
+- site_name: Nithin Bekal
+  url: https://nithinbekal.com/
+  rss:
+  - https://nithinbekal.com/feed.xml
+- site_name: Noah Gibbs
+  url: https://codefol.io/tags/ruby/
+  rss:
+  - https://codefol.io/feed.xml
+- site_name: Noel Rappin
+  url: https://noelrappin.com/blog/
+  rss:
+  - https://noelrappin.com//blog/index.xml
+- site_name: Nolan Phillips
+  url: https://blog.nolanphillips.com/
+  rss:
+  - https://blog.nolanphillips.com/rss.xml
+- site_name: Olly Headey
+  url: https://headey.net/archive/
+  rss: []
+- site_name: Owais
+  url: https://owaiskhan.me/blog
+  rss: []
+- site_name: Pat Allan
+  url: https://freelancing-gods.com/posts/index.html
+  rss: []
+- site_name: Pat Shaughnessy
+  url: https://patshaughnessy.net/
+  rss: []
+- site_name: Paul Sadauskas
+  url: https://blog.theamazingrando.com/
+  rss:
+  - https://blog.theamazingrando.com/feed.xml
+- site_name: Paweł Dąbrowski
+  url: https://www.paweldabrowski.com/articles
+  rss:
+  - https://www.paweldabrowski.com/undefined/rss/feed.xml
+- site_name: Paweł Dąbrowski (Long live Ruby)
+  url: https://longliveruby.com/
+  rss: []
+- site_name: Paweł Dąbrowski (Ruby hero) (Web archive)
+  url: https://web.archive.org/web/20241122134223/https://rubyhero.dev/
+  rss:
+  - https://web.archive.org/web/20241122134223/https://rubyhero.dev/rss.xml
+- site_name: Paweł Świątkowski
+  url: https://katafrakt.me/posts/
+  rss:
+  - https://katafrakt.me/feed.xml
+- site_name: Peter Keogh
+  url: http://keoghpe.github.io/
+  rss:
+  - http://keoghpe.github.io/feed.xml
+- site_name: Peter Ohler
+  url: http://www.ohler.com/dev/index.html
+  rss: []
+- site_name: Peter Solnica
+  url: https://solnic.dev/archive
+  rss: []
+- site_name: Peter Zhu
+  url: https://blog.peterzhu.ca/
+  rss:
+  - https://blog.peterzhu.ca/feed.xml
+- site_name: Petr Hlavicka
+  url: https://petr.codes/blog/
+  rss:
+  - https://petr.codes/feed.xml
+- site_name: Philippe Creux
+  url: https://pcreux.com/
+  rss:
+  - https://pcreux.com/feed.xml
+- site_name: Phil Pirozhkov
+  url: https://fili.pp.ru/
+  rss:
+  - https://fili.pp.ru/feed.xml
+- site_name: Piotr Chmolowski
+  url: https://ptrchm.com/posts/
+  rss:
+  - https://ptrchm.com/posts/index.xml
+- site_name: Piotr Murach
+  url: https://piotrmurach.com/
+  rss:
+  - https://piotrmurach.com/feed.xml
+- site_name: Prabin Poudel
+  url: https://prabinpoudel.com.np/articles/
+  rss:
+  - https://prabinpoudel.com.np/atom.xml
+- site_name: Prabin Poudel (Zero Config Rails)
+  url: https://blog.zeroconfigrails.com/
+  rss:
+  - https://blog.zeroconfigrails.com/rss.xml
+- site_name: Premysl Donat
+  url: https://masa331.github.io/
+  rss: []
+- site_name: Rachael Wright-Munn
+  url: https://www.chael.codes/
+  rss:
+  - https://www.chael.codes/feed.xml
+- site_name: Radan Skorić
+  url: https://radanskoric.com/tags/ruby/
+  rss:
+  - https://radanskoric.com/feed.xml
+- site_name: Radoslav Stankov
+  url: https://tips.rstankov.com/archive
+  rss:
+  - https://tips.rstankov.com/feed
+- site_name: Radoslav Stankov
+  url: https://blog.rstankov.com/tag/ruby/
+  rss:
+  - https://blog.rstankov.com/rss/
+- site_name: Rafael Montas
+  url: https://www.rafaelmontas.com/
+  rss:
+  - https://www.rafaelmontas.com/feed.xml
+- site_name: Remi Mercier
+  url: https://remimercier.com/blog/
+  rss:
+  - https://remimercier.com/feed.xml
+- site_name: Renato Nitta
+  url: https://renatonitta.com/
+  rss:
+  - https://renatonitta.com/feed/
+- site_name: Richard Huang (Web archive)
+  url: http://web.archive.org/web/20210923031801/https://blog.huangzhimin.com/
+  rss:
+  - http://web.archive.org/web/20210923031801/https://feeds.feedburner.com/richard-huang
+- site_name: Richard Schneeman
+  url: https://schneems.com/
+  rss:
+  - https://schneems.com/feed.xml
+- site_name: Rich Steinmetz
+  url: https://richstone.io/tag/ruby/
+  rss:
+  - https://richstone.io/rss/
+- site_name: Rico Sta. Cruz
+  url: https://ricostacruz.com/til/
+  rss:
+  - https://ricostacruz.com/til/rss.xml
+- site_name: Robert Pankowecki
+  url: https://pankowecki.pl/
+  rss:
+  - https://pankowecki.pl/index.xml
+- site_name: Rob Lacey
+  url: https://robl.me/posts
+  rss: []
+- site_name: Rob Race
+  url: https://robrace.dev/
+  rss:
+  - https://robrace.dev/blog/rss.xml
+- site_name: Rob Zolkos
+  url: https://www.zolkos.com/
+  rss:
+  - https://www.zolkos.com/feed.xml
+- site_name: Rodrigo Rosenfeld Rosas
+  url: https://rosenfeld.page/articles/tags/ruby
+  rss:
+  - https://rosenfeld.page/articles/tags/ruby/atom
+- site_name: Roland Lopez
+  url: https://rolandsoftwares.com/posts/
+  rss: []
+- site_name: Roland Studer
+  url: https://rstuder.ch/
+  rss:
+  - https://rstuder.ch/feed.xml
+- site_name: Ronan Limon Duparcmeur
+  url: https://2-45.pm/articles/
+  rss:
+  - https://2-45.pm/feed.xml
+- site_name: Ross
+  url: https://www.reinhardt.io/blog/
+  rss:
+  - http://reinhardt.io/feed.xml
+- site_name: Ross Kaffenberger
+  url: https://rossta.net/blog/
+  rss:
+  - https://rossta.net/feed.xml
+- site_name: Ross Kaffenberger (Joy of Rails)
+  url: https://joyofrails.com/
+  rss:
+  - https://joyofrails.com/feed
+- site_name: Ruslan Gafurov
+  url: https://gafur.me/blog/
+  rss: []
+- site_name: Rustam A. Gasanov
+  url: http://web.archive.org/web/20220503193002/http://rustamagasanov.com/
+  rss:
+  - http://web.archive.org/web/20220503193002/http://rustamagasanov.com/atom.xml
+- site_name: Ryan Bates
+  url: https://rbates.dev/
+  rss:
+  - https://rbates.dev/rss.xml
+- site_name: Ryan Bigg
+  url: https://ryanbigg.com/blog
+  rss:
+  - https://ryanbigg.com/feed.xml
+- site_name: Ryan Davis
+  url: https://www.zenspider.com/ruby/tags/ruby.html
+  rss:
+  - https://www.zenspider.com/atom.xml
+- site_name: Sahil Gadimbayli
+  url: https://www.ramblingcode.dev/tags/ruby/
+  rss:
+  - https://www.ramblingcode.dev/tags/ruby/index.xml
+- site_name: Samuel Williams
+  url: https://www.codeotaku.com/journal/index
+  rss:
+  - https://www.codeotaku.com/journal/atom
+- site_name: Sandi Metz
+  url: https://sandimetz.com/blog
+  rss:
+  - https://sandimetz.com/blog?format=rss
+- site_name: Scott Bartell
+  url: https://scottbartell.com/
+  rss:
+  - https://scottbartell.com/feed.xml
+- site_name: Scott Hanselman
+  url: https://www.hanselman.com/blog/category/ruby
+  rss:
+  - https://www.hanselman.com/blog/feed/rss
+- site_name: Scott Johnson
+  url: https://fuzzyblog.io/blog/tag.html#ruby
+  rss:
+  - http://fuzzyblog.io/blog/feed.xml
+- site_name: Scott Watermasysk
+  url: https://scottw.com/
+  rss:
+  - https://scottw.com/feed.xml
+- site_name: Sean C Davis
+  url: https://www.seancdavis.com/topics/ruby/
+  rss:
+  - https://www.seancdavis.com/feed.xml
+- site_name: Seb Wilgosz
+  url: https://swilgosz.hashnode.dev/
+  rss: []
+- site_name: Shayon Mukherjee
+  url: https://www.shayon.dev/post/
+  rss:
+  - https://www.shayon.dev/post/index.xml
+- site_name: Shiva Bhusal
+  url: https://shivabhusal.com/
+  rss: []
+- site_name: Sid Krishnan
+  url: https://ducktypelabs.com/
+  rss: []
+- site_name: Sihui Huang
+  url: https://www.sihui.io/category/ruby-on-rails/
+  rss:
+  - https://www.sihui.io/feed/
+- site_name: Sreeram Venkitesh
+  url: https://sreeram.xyz/blog
+  rss:
+  - https://sreeram.xyz/feed.xml
+- site_name: Stanislav Katkov
+  url: https://skatkov.com/blog
+  rss:
+  - https://skatkov.com/feed.xml
+- site_name: Stanko Krtalić
+  url: https://stanko.io/articles
+  rss:
+  - https://stanko.io/articles/rss
+- site_name: Stan Lo
+  url: https://st0012.dev/
+  rss:
+  - https://st0012.dev/rss.xml
+- site_name: Stefan Botzenhart
+  url: https://www.botzenhart.io/articles
+  rss:
+  - https://www.botzenhart.io/undefined/rss/feed.xml
+- site_name: Stefan Wienert
+  url: https://www.stefanwienert.de/categories/ruby/
+  rss:
+  - https://www.stefanwienert.de/feed.xml
+- site_name: Stefan Wintermeyer
+  url: https://medium.com/@wintermeyer
+  rss:
+  - https://medium.com/feed/@wintermeyer
+- site_name: Stephan Kämper
+  url: https://seasidetesting.com/
+  rss:
+  - https://seasidetesting.com/feed/
+- site_name: Stephen Ierodiaconou
+  url: https://www.diaconou.com/blog/
+  rss: []
+- site_name: Stephen Margheim
+  url: https://fractaledmind.github.io/posts/
+  rss:
+  - https://fractaledmind.github.io/feed.xml
+- site_name: Steve Klabnik
+  url: https://steveklabnik.com/writing
+  rss:
+  - https://steveklabnik.com/feed.xml
+- site_name: Steven Harman
+  url: https://stevenharman.net/archive
+  rss:
+  - https://stevenharman.net/feed.xml
+- site_name: Steven Yue
+  url: https://stevenyue.com/
+  rss:
+  - https://stevenyue.com/feed.xml
+- site_name: Steve Polito
+  url: https://stevepolito.design/blog
+  rss:
+  - https://stevepolito.design/feed.xml
+- site_name: Stuart Frost
+  url: https://www.stufro.com/
+  rss:
+  - https://www.stufro.com/%20/feed.xml
+- site_name: Suraj Mishra
+  url: https://monorails.substack.com/
+  rss:
+  - https://monorails.substack.com/feed
+- site_name: Swapnil Gourshete (RailsExamples)
+  url: https://railsexamples.com/index.html
+  rss: []
+- site_name: Tejas Bubane
+  url: https://tejasbubane.github.io/tags/ruby/
+  rss:
+  - https://tejasbubane.github.io/rss.xml
+- site_name: Tekin Süleyman
+  url: https://tekin.co.uk/writing/
+  rss:
+  - https://tekin.co.uk/atom.xml
+- site_name: Thomas Countz
+  url: https://thomascountz.com/
+  rss:
+  - https://thomascountz.com/atom.xml
+- site_name: Thomas Leitner
+  url: https://gettalong.org/posts.html
+  rss:
+  - https://gettalong.org/posts.rss
+- site_name: Tiago (honeyryder)
+  url: https://honeyryderchuck.gitlab.io/posts/
+  rss:
+  - https://honeyryderchuck.gitlab.io/atom.xml
+- site_name: Tim Riley
+  url: https://timriley.info/posts
+  rss:
+  - https://timriley.info/posts_feed
+- site_name: Tomas Valent
+  url: https://blog.eq8.eu/
+  rss:
+  - https://blog.eq8.eu/feed.xml
+- site_name: Tom Dalling
+  url: https://www.tomdalling.com/blog/
+  rss:
+  - https://www.tomdalling.com/blog/feed/
+- site_name: Tom de Bruijn
+  url: https://tomdebruijn.com/
+  rss:
+  - https://tomdebruijn.com/feed.xml
+- site_name: Tom Stuart
+  url: https://tomstu.art/articles
+  rss:
+  - https://tomstu.art/articles.atom
+- site_name: Tuomas Jomppanen
+  url: https://www.jomppanen.com/archive
+  rss: []
+- site_name: Unathi Chonco
+  url: https://blog.unathichonco.com/
+  rss:
+  - https://blog.unathichonco.com/rss.xml
+- site_name: Vasiliy Ermolovich
+  url: https://nashby.github.io/
+  rss:
+  - https://nashby.github.io/atom.xml
+- site_name: Vasily Polovnyov
+  url: https://vasily.polovnyov.ru/
+  rss:
+  - https://vasily.polovnyov.ru/feed.xml
+- site_name: Victor Afanasev
+  url: https://vifreefly.github.io/
+  rss:
+  - https://vifreefly.github.io/feed.xml
+- site_name: Victor Shepelev (zverok)
+  url: https://zverok.space/writing/
+  rss:
+  - https://zverok.space/feed.xml
+- site_name: Vini Oyama
+  url: https://vinioyama.com/blog/
+  rss:
+  - https://vinioyama.com/feed/
+- site_name: Vitalii Elenhaupt
+  url: https://veelenga.github.io/
+  rss:
+  - https://veelenga.github.io/feed.xml
+- site_name: Vito Botta (Web archive)
+  url: https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/
+  rss:
+  - https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/
+- site_name: Vladislav Kopylov
+  url: https://kopilov-vlad.medium.com/
+  rss:
+  - https://medium.com/feed/@kopilov-vlad
+- site_name: Way Mondo
+  url: https://waymondo.com/
+  rss:
+  - https://waymondo.com/index.xml
+- site_name: Weston Ganger
+  url: https://westonganger.com/posts
+  rss: []
+- site_name: Will Jessop
+  url: https://willj.net/tags/ruby/
+  rss:
+  - https://willj.net/rss.xml
+- site_name: Yaroslav Shmarov
+  url: https://blog.corsego.com/
+  rss: []
+- site_name: Yegor Bugayenko
+  url: https://www.yegor256.com/tag/ruby.html
+  rss:
+  - https://www.yegor256.com/rss.xml
+- site_name: Yehuda Katz
+  url: https://yehudakatz.com/
+  rss:
+  - https://yehudakatz.com/rss/
+- site_name: Yevhen Kuzminov
+  url: http://stdout.in/en
+  rss:
+  - http://stdout.in/en/cat/all.rss
+- site_name: Yorick Peterse
+  url: https://yorickpeterse.com/
+  rss:
+  - https://yorickpeterse.com/feed.xml
+- site_name: Yoshiki
+  url: https://takagi.blog/tags/ruby/
+  rss:
+  - https://takagi.blog/tags/ruby/rss.xml
+- site_name: Younes SERRAJ
+  url: https://younes.codes/
+  rss: []
+- site_name: Youssef Boulkaid
+  url: https://blog.yboulkaid.com/blog
+  rss:
+  - https://blog.yboulkaid.com/feed.xml
+- site_name: Владимир Мирошниченко
+  url: https://gururuby.ru/
+  rss:
+  - https://gururuby.ru/atom.xml
+company:
+- site_name: 2n
+  url: https://www.2n.pl/blog?tag=ruby
+  rss: []
+- site_name: 37signals
+  url: https://dev.37signals.com/
+  rss:
+  - https://dev.37signals.com/feed/posts.xml
+- site_name: 8th Light
+  url: https://8thlight.com/insights/
+  rss:
+  - https://8thlight.com/insights/feed/rss.xml
+- site_name: AbstractBrain
+  url: https://answers.abstractbrain.com/
+  rss: []
+- site_name: Acuments
+  url: https://acuments.com/blog.html
+  rss: []
+- site_name: Aha!
+  url: https://www.aha.io/engineering
+  rss:
+  - https://www.aha.io/blog/feed.xml
+- site_name: Airbrake
+  url: https://blog.airbrake.io/
+  rss:
+  - https://blog.airbrake.io/rss.xml
+- site_name: Alchemists
+  url: https://www.alchemists.io/articles/
+  rss:
+  - https://www.alchemists.io/feeds/news.xml
+- site_name: Appfolio Engineering
+  url: https://engineering.appfolio.com/
+  rss:
+  - https://engineering.appfolio.com/appfolio-engineering?format=rss
+- site_name: AppSignal
+  url: https://blog.appsignal.com/category/ruby-magic.html
+  rss:
+  - https://blog.appsignal.com/category/ruby-magic-feed.xml
+- site_name: Arkency
+  url: https://blog.arkency.com/
+  rss:
+  - https://blog.arkency.com/feed.xml
+- site_name: Bacancy
+  url: https://www.bacancytechnology.com/blog/ruby-on-rails/
+  rss:
+  - https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35
+- site_name: Bemi
+  url: https://blog.bemi.io/
+  rss:
+  - https://blog.bemi.io/rss/
+- site_name: BigBinary
+  url: https://www.bigbinary.com/blog
+  rss:
+  - https://www.bigbinary.com/blog/feed.xml
+- site_name: BootrAils (Web archive)
+  url: https://web.archive.org/web/20231206233411/https://www.bootrails.com/blog/
+  rss:
+  - https://web.archive.org/web/20231206233411/https://bootrails.com/feed/
+- site_name: BoTree Technologies
+  url: https://www.botreetechnologies.com/blog/category/technology/ruby-on-rails/
+  rss:
+  - https://www.botreetechnologies.com/blog/feed/
+- site_name: Brainspec
+  url: http://brainspec.com/blog/
+  rss:
+  - http://brainspec.com/blog/atom.xml
+- site_name: Carbonfive
+  url: https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/
+  rss:
+  - https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/feed/
+- site_name: Census
+  url: https://census.dev/
+  rss:
+  - https://census.dev/blog?format=rss
+- site_name: Chaps (Web archive)
+  url: http://web.archive.org/web/20211127030701/https://blog.chaps.io/
+  rss:
+  - http://web.archive.org/web/20211127030701/https://blog.chaps.io/feed.xml
+- site_name: Cloud 66
+  url: https://blog.cloud66.com/
+  rss: []
+- site_name: CloudBees (Old CodeShip, Rollout)
+  url: https://www.cloudbees.com/blog
+  rss: []
+- site_name: Codemancers
+  url: https://www.codemancers.com/blog/?tag=rails
+  rss:
+  - https://www.codemancers.com/rss.xml
+- site_name: Codeminer 42
+  url: https://blog.codeminer42.com/
+  rss:
+  - https://blog.codeminer42.com/feed/
+- site_name: Codica
+  url: https://www.codica.com/blog/
+  rss:
+  - https://www.codica.com/rss.xml
+- site_name: Collective Idea
+  url: https://collectiveidea.com/blog/labels/rails/
+  rss:
+  - https://collectiveidea.com/blog/feed/
+- site_name: Cookpad
+  url: https://sourcediving.com/tagged/ruby
+  rss:
+  - https://sourcediving.com/feed
+- site_name: Cycode (Old Bearer)
+  url: https://cycode.com/blog/
+  rss:
+  - https://cycode.com/feed/
+- site_name: Datarockets
+  url: https://datarockets.com/blog/
+  rss: []
+- site_name: Decode Fix
+  url: https://decodefix.com/tag/ruby/
+  rss:
+  - https://decodefix.com/feed/
+- site_name: DeepSource
+  url: https://deepsource.com/blog
+  rss: []
+- site_name: DotRuby
+  url: https://www.dotruby.com/articles
+  rss:
+  - https://www.dotruby.com/articles.atom
+- site_name: Doximity
+  url: https://technology.doximity.com/sitemaps
+  rss: []
+- site_name: Engine Yard
+  url: https://www.engineyard.com/blog/tag/ruby-on-rails/
+  rss:
+  - https://www.engineyard.com/blog/tag/ruby-on-rails/feed/
+- site_name: Evil Martians
+  url: https://evilmartians.com/chronicles
+  rss:
+  - https://evilmartians.com/chronicles.atom
+- site_name: Faster Than Light
+  url: https://fasterthanlight.me/blog
+  rss: []
+- site_name: Fast Ruby
+  url: https://www.fastruby.io/blog
+  rss:
+  - https://fastruby.io/blog/rss.xml
+- site_name: Featurist
+  url: https://archive.featurist.co.uk/blog/
+  rss: []
+- site_name: FireHydrant
+  url: https://firehydrant.com/blog/
+  rss:
+  - https://firehydrant.com/rss.xml
+- site_name: Fly.io
+  url: https://fly.io/ruby-dispatch/
+  rss:
+  - https://fly.io/ruby-dispatch/feed.xml
+- site_name: FreeAgent
+  url: https://engineering.freeagent.com/tag/ruby/
+  rss:
+  - https://engineering.freeagent.com/feed/
+- site_name: Getaround
+  url: https://getaround.tech/
+  rss:
+  - https://getaround.tech/feed.xml
+- site_name: Good Enough
+  url: https://goodenough.us/blog/
+  rss:
+  - https://goodenough.us/feed.xml
+- site_name: Grab Tech
+  url: https://engineering.grab.com/tags#ruby
+  rss:
+  - https://engineering.grab.com/feed.xml
+- site_name: Gurzu
+  url: https://gurzu.com/blog/
+  rss: []
+- site_name: Gusto
+  url: https://engineering.gusto.com/tagged/ruby-on-rails
+  rss:
+  - https://engineering.gusto.com/feed
+- site_name: Hashrocket
+  url: https://hashrocket.com/blog/tags/ruby
+  rss:
+  - https://hashrocket.com/blog.rss
+- site_name: Heroku
+  url: https://blog.heroku.com/
+  rss:
+  - https://blog.heroku.com/feed/
+- site_name: Hint (Web archive)
+  url: https://web.archive.org/web/20230129054448/https://hint.io/blog
+  rss:
+  - https://web.archive.org/web/20230129054448/https://hint.io/blog/rss.xml
+- site_name: Hix on Rails (Web archive)
+  url: http://web.archive.org/web/20221126215144/https://hixonrails.com/ruby-on-rails-tutorials/
+  rss: []
+- site_name: Honeybadger
+  url: https://www.honeybadger.io/blog/
+  rss:
+  - https://www.honeybadger.io/blog/feed.xml
+- site_name: Hybrd
+  url: https://hybrd.co/posts
+  rss:
+  - https://hybrd.co/posts.atom
+- site_name: Icelab
+  url: https://www.icelab.com.au/notes
+  rss: []
+- site_name: Ideamotive
+  url: https://www.ideamotive.co/blog
+  rss:
+  - https://www.ideamotive.co/blog/rss.xml
+- site_name: Infinum
+  url: https://infinum.com/blog/category/engineering/
+  rss:
+  - https://infinum.com/blog/category/engineering/feed/
+- site_name: iRonin.IT
+  url: https://www.ironin.it/blog.html
+  rss: []
+- site_name: JetRockets
+  url: https://jetrockets.com/blog
+  rss:
+  - https://jetrockets.com/blog.rss
+- site_name: JetRuby
+  url: https://jetruby.com/blog/
+  rss:
+  - https://jetruby.com/feed/
+- site_name: JetThoughts
+  url: https://jetthoughts.com/blog/
+  rss: []
+- site_name: Judoscale
+  url: https://judoscale.com/blog
+  rss:
+  - https://judoscale.com/rss.xml
+- site_name: Kiprosh
+  url: https://blog.kiprosh.com/tag/ruby/
+  rss:
+  - https://blog.kiprosh.com/rss/
+- site_name: Knapsack Pro
+  url: https://docs.knapsackpro.com/blog/
+  rss:
+  - https://docs.knapsackpro.com/feed.xml
+- site_name: Learnetto
+  url: https://learnetto.com/blog
+  rss:
+  - https://learnetto.com/blog/rss
+- site_name: Lunar Logic
+  url: https://blog.lunarlogic.com/tags/ruby/
+  rss: []
+- site_name: ManageIQ
+  url: https://www.manageiq.org/blog/tags/ruby/
+  rss:
+  - http://manageiq.org/feed.xml
+- site_name: Microverse
+  url: https://www.microverse.org/blog-categories/ruby-on-rails
+  rss: []
+- site_name: Mintbit
+  url: https://www.mintbit.com/blog/
+  rss:
+  - https://www.mintbit.com/feed.xml
+- site_name: Mkdev
+  url: https://mkdev.me/posts
+  rss:
+  - https://mkdev.me/posts.atom
+- site_name: mmtm
+  url: https://mmtm.io/articles/page/1/
+  rss: []
+- site_name: Monterail
+  url: https://www.monterail.com/blog/topic/ruby-rails
+  rss: []
+- site_name: Nebulab
+  url: https://nebulab.com/blog/tags/ruby-on-rails
+  rss: []
+- site_name: Netguru
+  url: https://www.netguru.com/blog/topic/ruby
+  rss:
+  - https://www.netguru.com/blog/rss.xml
+- site_name: Netskin
+  url: https://www.netskin.com/posts
+  rss: []
+- site_name: Nopio
+  url: https://www.nopio.com/category/ruby-on-rails/
+  rss: []
+- site_name: Olio
+  url: https://tech.olioex.com/
+  rss:
+  - https://tech.olioex.com/feed.xml
+- site_name: Ombu Labs
+  url: https://www.ombulabs.com/blog
+  rss:
+  - https://www.ombulabs.com/blog/rss.xml
+- site_name: Planet Argon
+  url: https://blog.planetargon.com/blog
+  rss:
+  - https://blog.planetargon.com/blog/entries.rss
+- site_name: PlanetScale
+  url: https://planetscale.com/blog
+  rss:
+  - https://planetscale.com/blog/feed.atom
+- site_name: Plataformatec
+  url: https://blog.plataformatec.com.br/tag/rails/
+  rss:
+  - https://blog.plataformatec.com.br/feed/
+- site_name: Prefab
+  url: https://prefab.cloud/blog/
+  rss:
+  - https://prefab.cloud/blog/rss.xml
+- site_name: Primevise
+  url: https://primevise.com/blog
+  rss: []
+- site_name: Prograils
+  url: https://prograils.com/by_tag/ruby
+  rss: []
+- site_name: Qameta
+  url: https://qameta.com/posts/
+  rss:
+  - https://qameta.com/index.xml
+- site_name: RailsCarma
+  url: https://www.railscarma.com/blog/
+  rss:
+  - https://www.railscarma.com/feed/
+- site_name: RailsForge
+  url: https://blog.railsforgedev.com/
+  rss: []
+- site_name: RailsReviews
+  url: https://www.railsreviews.com/articles
+  rss: []
+- site_name: Railsware
+  url: https://railsware.com/blog/
+  rss:
+  - https://railsware.com/blog/feed/
+- site_name: Rebased
+  url: https://blog.rebased.pl/
+  rss:
+  - https://blog.rebased.pl/feed.xml
+- site_name: Red Hat
+  url: https://developers.redhat.com/topics/ruby/all
+  rss: []
+- site_name: Reintech
+  url: https://reintech.io/blog?technology=ruby
+  rss: []
+- site_name: Reinteractive
+  url: https://reinteractive.com/articles/index?category=rails
+  rss: []
+- site_name: RNDSOFT
+  url: https://blog.rnds.pro/
+  rss:
+  - https://blog.rnds.pro/data/rss
+- site_name: Rootstrap
+  url: https://www.rootstrap.com/blog
+  rss: []
+- site_name: Ruby & Elixir MobiDev Team Blog
+  url: https://ruby.mobidev.biz/posts/
+  rss:
+  - https://ruby.mobidev.biz/posts/index.xml
+- site_name: RubyGarage
+  url: https://rubygarage.org/blog
+  rss:
+  - https://rubygarage.org/blog.rss
+- site_name: Rubyroid Labs
+  url: https://rubyroidlabs.com/blog/category/ror-web-dev/
+  rss:
+  - https://rubyroidlabs.com/blog/feed/
+- site_name: Saeloun
+  url: https://blog.saeloun.com/
+  rss:
+  - https://blog.saeloun.com/feed.xml
+- site_name: Scout
+  url: https://scoutapm.com/blog
+  rss: []
+- site_name: Scriptday
+  url: https://scriptday.com/blog/
+  rss: []
+- site_name: Selleo
+  url: https://selleo.com/blog/tag/ruby
+  rss: []
+- site_name: Semaphore
+  url: https://semaphoreci.com/blog
+  rss: []
+- site_name: SerpApi
+  url: https://serpapi.com/blog/tag/ruby/
+  rss:
+  - https://serpapi.com/blog/rss/
+- site_name: ShakaCode
+  url: https://www.shakacode.com/blog/ruby/
+  rss: []
+- site_name: Shopify
+  url: https://shopify.engineering
+  rss: []
+- site_name: Simple Thread
+  url: https://www.simplethread.com/tag/rails/
+  rss:
+  - https://www.simplethread.com/feed/
+- site_name: SINAPTIA
+  url: https://sinaptia.dev/blog/
+  rss: []
+- site_name: Sloboda Studio
+  url: https://sloboda-studio.com/
+  rss:
+  - https://sloboda-studio.com/feed/rdf/
+- site_name: Snyk
+  url: https://snyk.io/blog/
+  rss:
+  - https://snyk.io/blog/feed/
+- site_name: Splitwise
+  url: https://blog.splitwise.com/
+  rss:
+  - https://blog.splitwise.com/feed/
+- site_name: Spritle
+  url: https://www.spritle.com/blog/category/ruby/
+  rss:
+  - https://www.spritle.com/blog/feed/
+- site_name: Sqreen (Web archive)
+  url: https://web.archive.org/web/20230526152638/https://blog.sqreen.com/category/ruby-on-rails/
+  rss:
+  - https://web.archive.org/web/20230526152638/https://blog.sqreen.com/feed/
+- site_name: Square
+  url: https://developer.squareup.com/blog/archive/tags/ruby/
+  rss:
+  - https://developer.squareup.com/blog/rss.xml
+- site_name: Super Good Software
+  url: https://supergood.software/blog/
+  rss:
+  - https://supergood.software/rss.xml
+- site_name: Svitla Systems
+  url: https://svitla.com/blog/
+  rss: []
+- site_name: Syndicode
+  url: https://syndicode.com/blog/
+  rss: []
+- site_name: Telos Labs
+  url: https://www.teloslabs.co/blog
+  rss: []
+- site_name: Terminalwire
+  url: https://terminalwire.com/articles
+  rss: []
+- site_name: Test Double
+  url: https://testdouble.com/insights
+  rss: []
+- site_name: The Codest
+  url: https://thecodest.co/blog/
+  rss: []
+- site_name: The Dev Post (Truemark)
+  url: https://www.thedevpost.com/
+  rss:
+  - https://www.thedevpost.com/feed/
+- site_name: Thoughtbot
+  url: https://thoughtbot.com/blog
+  rss: []
+- site_name: Toptal
+  url: https://www.toptal.com/developers/blog/back-end
+  rss: []
+- site_name: Tosbourn
+  url: https://tosbourn.com/ruby/
+  rss:
+  - https://tosbourn.com/feed.xml
+- site_name: Twilio
+  url: https://www.twilio.com/en-us/blog
+  rss:
+  - https://www.twilio.com/sitemap.xml
+- site_name: Varvet (Web archive)
+  url: https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/
+  rss:
+  - https://web.archive.org/web/20220314030350/https://www.varvet.com/feed.xml
+- site_name: Vector Logic
+  url: https://www.vector-logic.com/blog/posts
+  rss:
+  - https://www.vector-logic.com/blog/posts.rss
+- site_name: Visuality
+  url: https://www.visuality.pl/posts
+  rss: []
+- site_name: Wonolo
+  url: https://engineeringblog.wonolo.com/tag/ruby
+  rss:
+  - https://engineeringblog.wonolo.com/tag/ruby/rss.xml
+other:
+- site_name: Awesome Newsletters Ruby
+  url: https://github.com/zudochkin/awesome-newsletters#ruby
+  rss: []
+- site_name: Planet Argon - 2020 Ruby on Rails Community Survey Results
+  url: https://rails-hosting.com/2020/#learning
+  rss: []
+- site_name: markets/awesome-ruby
+  url: https://github.com/markets/awesome-ruby
+  rss:
+  - https://github.com/kigster/simple-feed
+- site_name: sdogruyol/awesome-ruby
+  url: https://github.com/sdogruyol/awesome-ruby
+  rss: []
+- site_name: gramantin/awesome-rails
+  url: https://github.com/gramantin/awesome-rails
+  rss:
+  - https://github.com/davidesantangelo/api.rss
+- site_name: AwesomeRubyist/awesome_resource_list
+  url: https://github.com/AwesomeRubyist/awesome_resource_list
+  rss: []
+- site_name: dreikanter/ruby-bookmarks
+  url: https://github.com/dreikanter/ruby-bookmarks
+  rss:
+  - https://github.com/atom/atom
+- site_name: okuramasafumi/awesome-ruby-articles
+  url: https://github.com/okuramasafumi/awesome-ruby-articles
+  rss: []
+- site_name: learn-anything/blogs#ruby
+  url: https://github.com/learn-anything/blogs#ruby
+  rss: []
+- site_name: abdelhai/awesome-dev-blogs#ruby
+  url: https://github.com/abdelhai/awesome-dev-blogs#ruby
+  rss: []
+- site_name: jkup/awesome-personal-blogs
+  url: https://github.com/jkup/awesome-personal-blogs
+  rss: []
+- site_name: inputsh/awesome-blogs
+  url: https://github.com/inputsh/awesome-blogs
+  rss: []
+- site_name: endymion1818/awesome-developer-blogs
+  url: https://github.com/endymion1818/awesome-developer-blogs
+  rss: []
+- site_name: letsila/awesome-blogs
+  url: https://github.com/letsila/awesome-blogs
+  rss: []
+- site_name: pgilad/awesome-blogs
+  url: https://github.com/pgilad/awesome-blogs
+  rss: []
