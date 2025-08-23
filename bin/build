@@ -1,0 +1,63 @@
+#!/usr/bin/env ruby
+require "yaml"
+
+def build_table(data)
+  data.sort_by { |blog| blog['site_name'].to_s }
+      .reduce("|Blog|RSS|\n|--|--|\n") do |result, blog|
+        result += format("|[%<site_name>s](%<url>s)|%<rss>s|\n",
+          site_name: blog['site_name'].to_s.gsub("|", "-"),
+          url: blog['url'],
+          rss: blog['rss'],
+        )
+      end
+end
+
+yaml = YAML.load_file("data.yml")
+
+File.open('README.md', 'wb') do |f|
+  tables = {
+    newsletter:              build_table(yaml['newsletter']),
+    social_news_aggregation: build_table(yaml['social_news_aggregation']),
+    community:               build_table(yaml['community']),
+    personal:                build_table(yaml['personal']),
+    company:                 build_table(yaml['company']),
+    other:                   build_table(yaml['other']),
+  }
+
+  f.write format(<<~README, **tables)
+    # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+    > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
+    > Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs)
+
+    ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
+
+    ## Newsletter
+    %{newsletter}
+
+    ## Social news aggregation
+    %{social_news_aggregation}
+
+    ## Community
+    %{community}
+
+    ## Personal
+    %{personal}
+
+    ## Company
+    %{company}
+
+    ## Other Awesome Ruby (and blogs) Lists
+    %{other}
+
+    ## Some Contribution Guidelines
+    * Please search previous suggestions before making a new one, as yours may be a duplicate.
+    * Use the following format: `[Name](url)`.
+    * If the blog has many articles, choose the link with `Ruby` / `Rails` category ( or tag).
+    * Links should be sorted alphabetically.
+    * Feel free for send pull request!
+
+    ## License
+    [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+  README
+end
