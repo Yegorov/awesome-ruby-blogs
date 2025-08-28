@@ -4,8 +4,24 @@
 
 TODO
 
-## Missing RSS feeds 
+## Fetching RSS Feeds
 
-To fetch missing RSS links run `bin/fetch_rss`. This will try to fetch missing rss links in the data.yml file. 
+Use `bin/fetch_rss` to automatically discover and update RSS feeds:
 
-Note, you can pass `force` option to query every blog entries instead: `bin/fetch_rss force`
+```bash
+# Update only unlocked entries (default)
+bin/fetch_rss data/personal.yml
+
+# Force update all entries in a category
+bin/fetch_rss --force all data/newsletter.yml
+
+# Update only entries without RSS feeds
+bin/fetch_rss --force norss data/company.yml data/personal.yml
+```
+
+Available force modes:
+- `unlocked` (default): Only update unlocked entries
+- `all`: Update all entries regardless of lock status
+- `norss`: Update only entries that don't have RSS feeds
+
+**Note:** Web archive entries are never updated regardless of the mode or lock status.

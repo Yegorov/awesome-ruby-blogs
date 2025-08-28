@@ -1,0 +1,1505 @@
+---
+- name: Aaron Patterson
+  url: https://tenderlovemaking.com/
+  rss: https://tenderlovemaking.com/atom.xml
+  locked: true
+- name: Aaron Sumner (Everyday Rails)
+  url: https://everydayrails.com/archives.html
+  rss:
+  locked: true
+- name: Abhay Nikam
+  url: https://www.abhaynikam.me/
+  rss: https://www.abhaynikam.me/rss.xml
+  locked: true
+- name: Abhilash M A
+  url: https://abhionrails.com/
+  rss:
+  locked: true
+- name: Aboobacker MK
+  url: https://aboobacker.in/posts/
+  rss: https://aboobacker.in/feed.xml
+  locked: true
+- name: Adrien Siami
+  url: https://blog.siami.fr/
+  rss: https://blog.siami.fr/feed.xml
+  locked: true
+- name: Agnieszka Małaszkiewicz
+  url: https://womanonrails.com/tags/#Ruby
+  rss: https://womanonrails.com/feed.xml
+  locked: true
+- name: Ahmed
+  url: https://aonemd.com/
+  rss: https://aonemd.com/index.xml
+  locked: true
+- name: Ahmed Nadar (hashnode)
+  url: https://ahmednadar.hashnode.dev
+  rss:
+  locked: true
+- name: Ahmed Nadar (Web archive)
+  url: https://web.archive.org/web/20240719180311/http://www.ahmednadar.com/posts
+  rss:
+  locked: true
+- name: Akshay Birajdar
+  url: https://bytes.akshaybirajdar.com/
+  rss: https://bytes.akshaybirajdar.com/feed.xml
+  locked: true
+- name: Akshay Khot (Write Software, Well)
+  url: https://www.writesoftwarewell.com/
+  rss: https://www.writesoftwarewell.com/rss/
+  locked: true
+- name: Akshay Mohite
+  url: https://www.rubyinrails.com/
+  rss: https://www.rubyinrails.com/feed.xml
+  locked: true
+- name: Alberto Almagro
+  url: https://albertoalmagro.com/blog/
+  rss: https://albertoalmagro.com/feed/
+  locked: true
+- name: Aleksandr Ulanov
+  url: https://ualeks.dev/posts/
+  rss:
+  locked: true
+- name: Alessandro Rodi
+  url: https://medium.com/@coorasse
+  rss: https://medium.com/feed/@coorasse
+  locked: true
+- name: Alexander Butt-Piercey
+  url: https://apiercey.github.io/posts/
+  rss: https://apiercey.github.io/posts/index.xml
+  locked: true
+- name: Alexandre Barret
+  url: https://alexbarret.com/blog/
+  rss: https://alexbarret.com/feed.xml
+  locked: true
+- name: Alexey Poimtsev
+  url: https://alec-c4.com/
+  rss: https://alec-c4.com/rss.xml
+  locked: true
+- name: Alexey Vasiliev
+  url: https://leopard.in.ua/
+  rss: http://leopard.in.ua/rss.xml
+  locked: true
+- name: Alexis Bernard
+  url: https://alexis.bernard.io/
+  rss: https://alexis.bernard.io/blog.rss
+  locked: true
+- name: Alex Piechowski
+  url: https://piechowski.io/post/
+  rss:
+  locked: true
+- name: Alex Taylor
+  url: https://alextaylor.ca/archive/
+  rss: https://alextaylor.ca/atom.xml
+  locked: true
+- name: Ana Nunes da Silva (Web archive)
+  url: https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/posts
+  rss:
+  locked: true
+- name: Andrea Fomera
+  url: https://afomera.dev/posts
+  rss:
+  locked: true
+- name: Andrei Kaleshka
+  url: https://blog.widefix.com/articles/
+  rss: https://widefix.com/blog/feed.xml
+  locked: true
+- name: Andres Chacon
+  url: https://a-chacon.com/en/blog
+  rss: https://a-chacon.com/en/feed.xml
+  locked: true
+- name: Andrew Atkinson
+  url: https://andyatkinson.com/tag#ruby-on-rails
+  rss:
+  locked: true
+- name: Andrew Kane
+  url: https://ankane.org/
+  rss: https://ankane.org/feed.rss
+  locked: true
+- name: Andrii Konchyn
+  url: https://andrykonchin.github.io/
+  rss: https://andrykonchin.github.io/feed.xml
+  locked: true
+- name: André Arko
+  url: https://andre.arko.net/
+  rss: https://andre.arko.net/atom.xml
+  locked: true
+- name: Andy Croll
+  url: https://andycroll.com/
+  rss: https://andycroll.com/index.xml
+  locked: true
+- name: Andy Leverenz
+  url: https://webcrunch.com/posts
+  rss: https://webcrunch.com/feed.rss
+  locked: true
+- name: Andy Maleh
+  url: https://andymaleh.blogspot.com/
+  rss: https://andymaleh.blogspot.com/feeds/posts/default
+  locked: true
+- name: Ankit Gupta
+  url: https://ankit-gupta.com/blog/tag/ruby
+  rss: https://ankit-gupta.com/feed.xml
+  locked: true
+- name: Anna Gavrilova
+  url: https://kotogavr.vercel.app/blog
+  rss:
+  locked: true
+- name: Anthony Drake
+  url: https://www.t27duck.com/posts
+  rss: https://www.t27duck.com/posts.xml
+  locked: true
+- name: Anton Davydov
+  url: https://www.davydovanton.com/blog/
+  rss: https://www.davydovanton.com/atom.xml
+  locked: true
+- name: Aotokitsuruya
+  url: https://blog.aotoki.me/en/
+  rss: https://blog.aotoki.me/en/index.xml
+  locked: true
+- name: Aristóteles Coutinho
+  url: https://aristotelescoutinho.com.br/
+  rss:
+  locked: true
+- name: Augusts Bautra
+  url: http://epigene.github.io/
+  rss: http://epigene.github.io/feed.xml
+  locked: true
+- name: Avdi Grimm
+  url: https://avdi.codes/blog/
+  rss: https://avdi.codes/feed/
+  locked: true
+- name: Avi Flombaum
+  url: https://code.avi.nyc
+  rss: https://code.avi.nyc/rss.xml
+  locked: true
+- name: Axel Kee
+  url: https://rubyyagi.com/
+  rss: https://rubyyagi.com/feed.xml
+  locked: true
+- name: Ayush Newatia
+  url: https://binarysolo.blog/
+  rss: https://binarysolo.blog/feed.xml
+  locked: true
+- name: Balázs Kutil
+  url: https://balazs.kutilovi.cz/
+  rss: https://balazs.kutilovi.cz/index.xml
+  locked: true
+- name: Benito Serna
+  url: https://bhserna.com/posts.html
+  rss: https://bhserna.com/feed.xml
+  locked: true
+- name: Benoit Daloze
+  url: https://eregon.me/blog/
+  rss: https://eregon.me/blog/feed.xml
+  locked: true
+- name: Benoit Tigeot
+  url: https://benoittgt.github.io/blog/
+  rss: https://benoittgt.github.io/feed/feed.xml
+  locked: true
+- name: Ben Sheldon
+  url: https://island94.org/archives
+  rss: https://island94.org/feed.xml
+  locked: true
+- name: Bernie Chiu
+  url: https://berniechiu.github.io/blog/
+  rss: https://berniechiu.github.io/blog/sitemap.xml
+  locked: true
+- name: Bill Tihen
+  url: https://btihen.dev/posts/ruby/
+  rss: https://btihen.dev/posts/ruby/index.xml
+  locked: true
+- name: Bohdan Pohorilets
+  url: https://bpohoriletz.github.io/
+  rss: https://bpohoriletz.github.io/feed.xml
+  locked: true
+- name: Borja Garcia de Vinuesa Ordovás
+  url: https://bgvo.io/
+  rss: https://bgvo.io/feed.xml
+  locked: true
+- name: Bozhidar Batsov
+  url: https://metaredux.com/
+  rss: https://metaredux.com/feed.xml
+  locked: true
+- name: Brad Gessler
+  url: https://bradgessler.com/
+  rss:
+  locked: true
+- name: Bradley Schaefer (Soulcutter)
+  url: https://www.soulcutter.com/
+  rss: https://www.soulcutter.com/feed.xml
+  locked: true
+- name: Brandon Casci
+  url: https://www.brandoncasci.com/
+  rss: https://www.brandoncasci.com/feed.xml
+  locked: true
+- name: Brendan Bondurant
+  url: https://brendanbondurant.com/35-2/
+  rss: https://brendanbondurant.com/feed/
+  locked: true
+- name: Bruno Sutic
+  url: https://brunosutic.com/
+  rss: https://brunosutic.com/blog/feed
+  locked: true
+- name: Bèr Kessels
+  url: https://berk.es/archive.html
+  rss: https://berk.es/2007/09/27/snipplr-drupals-code-snippet-feed/
+  locked: true
+- name: Caleb Hearth
+  url: https://calebhearth.com/tags/rails
+  rss: https://calebhearth.com/atom.xml
+  locked: true
+- name: Caleb Woods
+  url: https://www.calebwoods.com/
+  rss: https://www.calebwoods.com/feed.xml
+  locked: true
+- name: Cezar Halmagean
+  url: https://mixandgo.com/learn
+  rss:
+  locked: true
+- name: Chris Blunt
+  url: https://www.chrisblunt.com/
+  rss: https://www.chrisblunt.com/feed/
+  locked: true
+- name: Chris Dillon
+  url: https://squarism.com/archive/
+  rss: https://squarism.com/feed.xml
+  locked: true
+- name: Chris Kottom
+  url: https://chriskottom.com/articles/
+  rss: https://chriskottom.com/articles/feed.xml
+  locked: true
+- name: Chris Seaton
+  url: https://chrisseaton.com/
+  rss:
+  locked: true
+- name: Chris Sinjakli
+  url: https://blog.sinjakli.co.uk/
+  rss: https://blog.sinjakli.co.uk/feed.xml
+  locked: true
+- name: Christoph Lupprich
+  url: https://christoph.luppri.ch/
+  rss:
+  locked: true
+- name: CJ Avilla
+  url: https://www.cjav.dev/articles
+  rss:
+  locked: true
+- name: Cody Norman
+  url: https://www.codynorman.com/posts/
+  rss: https://codynorman.com/feed.xml
+  locked: true
+- name: Damian C. Rossney
+  url: https://rossney.net/articles/
+  rss: https://rossney.net/feed.xml
+  locked: true
+- name: Daniela Baron
+  url: https://danielabaron.me/
+  rss: https://danielabaron.me/rss.xml
+  locked: true
+- name: Daniil Svetlov
+  url: https://dansvetlov.me/
+  rss:
+  locked: true
+- name: Dan Mayer
+  url: https://www.mayerdan.com/
+  rss:
+  locked: true
+- name: Dave Faliskie
+  url: https://1manstartup.com/blogs
+  rss:
+  locked: true
+- name: David Boureau (saaslit)
+  url: https://saaslit.com/blog
+  rss:
+  locked: true
+- name: David Boureau (AlsoHelp)
+  url: https://alsohelp.com/blog
+  rss: https://alsohelp.com/rss.xml
+  locked: true
+- name: David Bryant Copeland
+  url: https://naildrivin5.com/
+  rss: https://naildrivin5.com/atom.xml
+  locked: true
+- name: David Colby
+  url: https://www.colby.so/
+  rss: https://colby.so/atom.xml
+  locked: true
+- name: David Heinemeier Hansson
+  url: https://world.hey.com/dhh
+  rss: https://world.hey.com/dhh/feed.atom
+  locked: true
+- name: Dean DeHart
+  url: https://deanin.com/blog/
+  rss: https://deanin.com/wp-json/wp/v2/pages/175
+  locked: true
+- name: Dean Perry
+  url: https://deanpcmad.com/blog/
+  rss:
+  locked: true
+- name: Denis Defreyne
+  url: https://denisdefreyne.com/contact/
+  rss: https://denisdefreyne.com/feeds/weeknotes.xml
+  locked: true
+- name: Dennis Martinez
+  url: https://dennmart.com/tags/rails/
+  rss:
+  locked: true
+- name: Derk-Jan Karrenbeld
+  url: https://derk-jan.com/articles
+  rss:
+  locked: true
+- name: Devanil
+  url: https://devanil.dev/blog/
+  rss: https://devanil.dev/rss.xml
+  locked: true
+- name: Dhaval Singh
+  url: https://www.dsdev.in/
+  rss: https://www.dsdev.in/rss.xml
+  locked: true
+- name: Dick Davis
+  url: https://dick.codes/
+  rss:
+  locked: true
+- name: Dimiter Petrov
+  url: https://dimiterpetrov.com/blog
+  rss: https://dimiterpetrov.com/blog/feed.xml
+  locked: true
+- name: Dimitris Zorbas
+  url: https://zorbash.com/tags/ruby/
+  rss: https://zorbash.com/tags/ruby/index.xml
+  locked: true
+- name: Dmitriy Ivliev
+  url: https://blog.ivda.dev/
+  rss: https://blog.ivda.dev/rss.xml
+  locked: true
+- name: Dmitry Gutov
+  url: https://gutov.dev/
+  rss: https://gutov.dev/feed.xml
+  locked: true
+- name: Dmitry Ishkov
+  url: https://www.dmitry-ishkov.com
+  rss: https://www.dmitry-ishkov.com/feeds/posts/default
+  locked: true
+- name: Dmitry Tsepelev
+  url: https://dmitrytsepelev.dev/tag/ruby
+  rss: https://dmitrytsepelev.dev/feed.xml
+  locked: true
+- name: Dom Christie
+  url: https://domchristie.co.uk/
+  rss: https://domchristie.co.uk/feed.xml
+  locked: true
+- name: Dwight Watson
+  url: https://www.dwightwatson.com/tags/ruby-on-rails
+  rss:
+  locked: true
+- name: Délon R. Newman
+  url: https://delonnewman.name/articles
+  rss: https://delonnewman.name/articles/feed.xml
+  locked: true
+- name: Eileen M. Uchitelle
+  url: https://eileencodes.com/
+  rss: http://eileencodes.com/feed.xml
+  locked: true
+- name: Eliot Sykes
+  url: https://eliotsykes.com/
+  rss: https://eliotsykes.com/feed/
+  locked: true
+- name: Emmanuel Hayford (hayford.dev)
+  url: https://hayford.dev/
+  rss: https://hayford.dev/rss/
+  locked: true
+- name: Ender Ahmet Yurt
+  url: https://enderahmetyurt.com/
+  rss: https://enderahmetyurt.com/rss/
+  locked: true
+- name: Enrico Teotti
+  url: https://teotti.com/topics/ruby/
+  rss: https://teotti.com/feed.xml
+  locked: true
+- name: Eric London
+  url: https://ericlondon.com/
+  rss: https://ericlondon.com/feed.xml
+  locked: true
+- name: Erik Minkel
+  url: https://www.erikminkel.com/
+  rss: https://www.erikminkel.com/rss/
+  locked: true
+- name: Evgeniy Demin
+  url: https://evgeniydemin.medium.com/
+  rss: https://medium.com/feed/@evgeniydemin
+  locked: true
+- name: Felipe Philipp
+  url: https://felipeelias.github.io/
+  rss: https://felipeelias.github.io/feed.xml
+  locked: true
+- name: Felipe Vogel
+  url: https://fpsvogel.com/posts/
+  rss: https://fpsvogel.com/feed.xml
+  locked: true
+- name: Filip Vrba
+  url: https://filipvrba.github.io/cv/
+  rss:
+  locked: true
+- name: Finnian Anderson
+  url: https://finnian.io/tags/ruby/
+  rss: https://finnian.io/tags/ruby/index.xml
+  locked: true
+- name: Frank Groeneveld
+  url: https://frankgroeneveld.nl/
+  rss: https://frankgroeneveld.nl/feed/
+  locked: true
+- name: Garrett Dimon
+  url: https://garrettdimon.com/journal/posts
+  rss: https://garrettdimon.com/feed
+  locked: true
+- name: Gavin Miller (Web archive)
+  url: https://web.archive.org/web/20240518235427/http://gavinmiller.io/archives/
+  rss:
+  locked: true
+- name: Gavin Morrice
+  url: https://handyrailstips.com/
+  rss:
+  locked: true
+- name: Gernot Gradwohl
+  url: https://austrian-nerd.dev/
+  rss: https://austrian-nerd.dev/index.xml
+  locked: true
+- name: Giorgi Mezurnishvili
+  url: https://mzrn.sh/
+  rss: https://mzrn.sh/feed.xml
+  locked: true
+- name: Glauco Custodio
+  url: https://glaucocustodio.github.io/
+  rss: https://glaucocustodio.github.io/feed.xml
+  locked: true
+- name: Goulven Champenois
+  url: https://pro.userland.fr/en/articles/
+  rss: https://pro.userland.fr/feed.xml
+  locked: true
+- name: Greg Molnar
+  url: https://greg.molnar.io/blog/
+  rss: https://greg.molnar.io/feed.xml
+  locked: true
+- name: Greg Molnar (railstricks)
+  url: https://pombomailer.com/n/railstricks
+  rss:
+  locked: true
+- name: Greg Navis
+  url: https://www.gregnavis.com/articles.html
+  rss: https://www.gregnavis.com/feed.xml
+  locked: true
+- name: Guillaume Briday
+  url: https://guillaumebriday.fr/articles
+  rss: https://guillaumebriday.fr/articles.xml
+  locked: true
+- name: Hal Brodigan (postmodern)
+  url: http://postmodern.github.io/blog/
+  rss: http://postmodern.github.io/atom.xml
+  locked: true
+- name: Hartley McGuire
+  url: https://skipkayhil.github.io/blog
+  rss:
+  locked: true
+- name: Haseeb Annadamban
+  url: https://haseebeqx.com/posts/
+  rss: https://haseebeqx.com/posts/index.xml
+  locked: true
+- name: Hegwin Wang
+  url: https://hegwin.me/en
+  rss:
+  locked: true
+- name: Henrik Nyh
+  url: https://thepugautomatic.com/tag/ruby/
+  rss: https://thepugautomatic.com/atom.xml
+  locked: true
+- name: hoshino tsuyoshi
+  url: https://hoshinotsuyoshi.com/tags/ruby/
+  rss:
+  locked: true
+- name: Hrvoje Šimić
+  url: https://shime.sh/til/
+  rss: https://shime.sh/feed.xml
+  locked: true
+- name: Deep dive
+  url: https://shime.sh/
+  rss: https://shime.sh/feed.xml
+  locked: true
+- name: Igor Aleksandrov
+  url: https://igor.works/archive
+  rss:
+  locked: true
+- name: Igor Guzak
+  url: https://medium.com/@igor04
+  rss: https://medium.com/feed/@igor04
+  locked: true
+- name: Igor Kuznetsov
+  url: https://medium.com/@igkuz
+  rss: https://medium.com/feed/@igkuz
+  locked: true
+- name: Igor Morozov
+  url: https://www.morozov.is/
+  rss:
+  locked: true
+- name: Igor Springer (Web archive)
+  url: https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/blog-posts/
+  rss:
+  locked: true
+- name: Ilya Bylich
+  url: https://iliabylich.github.io/
+  rss: https://iliabylich.github.io/index.xml
+  locked: true
+- name: Ilya Krukowski
+  url: https://bodrovis.tech/
+  rss:
+  locked: true
+- name: Ismael Celis
+  url: https://ismaelcelis.com/
+  rss: https://ismaelcelis.com/index.xml
+  locked: true
+- name: Ivo Anjo
+  url: https://ivoanjo.me/
+  rss: https://ivoanjo.me/feed.xml
+  locked: true
+- name: Jake Worth
+  url: https://jakeworth.com/blog/
+  rss:
+  locked: true
+- name: Jake Worth
+  url: https://www.jakeworth.com/posts/
+  rss: https://jakeworth.com/posts/index.xml
+  locked: true
+- name: Jake Zimmerman
+  url: https://blog.jez.io/#all-posts
+  rss: https://blog.jez.io/atom.xml
+  locked: true
+- name: James Hibbard
+  url: https://hibbard.eu/
+  rss: https://hibbard.eu/feed.xml
+  locked: true
+- name: Jamie Schembri
+  url: https://schembri.me/
+  rss: https://schembri.me/rss/
+  locked: true
+- name: Jamis Buck
+  url: http://weblog.jamisbuck.org/archives.html
+  rss:
+  locked: true
+- name: Janko Marohnić
+  url: https://janko.io/
+  rss: https://janko.io/feed.xml
+  locked: true
+- name: Jan Matuszewski
+  url: https://jmatuszewski.com/
+  rss: https://jmatuszewski.com/feed.xml
+  locked: true
+- name: Jared Norman
+  url: https://jardo.dev/blog?topic=ruby-rails
+  rss: https://jardo.dev/blog.xml
+  locked: true
+- name: Jason Charnes
+  url: https://jasoncharnes.com/articles/
+  rss: https://jasoncharnes.com/feed.xml
+  locked: true
+- name: Jason Swett
+  url: https://www.codewithjason.com/articles/
+  rss: https://www.codewithjason.com/wp-json/wp/v2/pages/415
+  locked: true
+- name: Jason York
+  url: https://predicatemethod.com/archives/
+  rss: https://predicatemethod.com/feed.xml
+  locked: true
+- name: JD Gonzales
+  url: https://jd.codes/
+  rss: https://jd.codes/index.xml
+  locked: true
+- name: Jean Boussier
+  url: https://byroot.github.io/
+  rss: https://byroot.github.io/feed.xml
+  locked: true
+- name: Jemma Issroff
+  url: https://jemma.dev/
+  rss: https://jemma.dev/blog/published.xml
+  locked: true
+- name: Jeremy Friesen
+  url: https://takeonrules.com/tags/programming/
+  rss: https://takeonrules.com/index.json
+  locked: true
+- name: Jeremy Kreutzbender
+  url: https://jeremykreutzbender.com/blog?tags=ruby%2Cruby-on-rails
+  rss:
+  locked: true
+- name: Jeroen Weeink
+  url: https://craftingruby.com/
+  rss: https://craftingruby.com/feed.xml
+  locked: true
+- name: Jess Brown
+  url: https://bjessbrown.com/
+  rss:
+  locked: true
+- name: Jesse B. Hannah
+  url: https://jbhannah.net/
+  rss:
+  locked: true
+- name: Jesus Castello
+  url: https://www.rubyguides.com/ruby-post-index/
+  rss:
+  locked: true
+- name: Jimmy Chao
+  url: http://neethack.com/tags/ruby/
+  rss:
+  locked: true
+- name: Jim Weirich (Web archive)
+  url: https://web.archive.org/web/20241013050338/https://www.onestepback.org/articles/index.html
+  rss:
+  locked: true
+- name: Joel Drapper
+  url: https://www.namingthings.org/archive
+  rss:
+  locked: true
+- name: Joe Masilotti
+  url: https://masilotti.com/articles/
+  rss: https://masilotti.com/feed.xml
+  locked: true
+- name: Joey Wang
+  url: https://joeywang.github.io/
+  rss: https://joeywang.github.io/feed.xml
+  locked: true
+- name: John Hawthorn
+  url: https://www.johnhawthorn.com/
+  rss: https://www.johnhawthorn.com/atom.xml
+  locked: true
+- name: John Nunemaker
+  url: https://www.johnnunemaker.com/
+  rss: https://www.johnnunemaker.com/rss/
+  locked: true
+- name: John Skiles Skinner
+  url: https://johnskinnerportfolio.com/blog/index.html
+  rss: https://johnskinnerportfolio.com/feed.xml
+  locked: true
+- name: Jonas Brusman
+  url: https://jonas.brusman.se/articles/
+  rss: https://jonas.brusman.se/rss.xml
+  locked: true
+- name: Jonathan Rochkind
+  url: https://bibwild.wordpress.com/
+  rss: https://bibwild.wordpress.com/feed/
+  locked: true
+- name: Jon Sullivan
+  url: https://jonsully.net/blog/
+  rss: https://jonsully.net/rss.xml
+  locked: true
+- name: Jorge Manrubia
+  url: https://world.hey.com/jorge
+  rss: https://world.hey.com/jorge/feed.atom
+  locked: true
+- name: Jose Farias
+  url: https://jose.omg.lol/
+  rss: https://jose.omg.lol/feed.xml
+  locked: true
+- name: Josef Strzibny
+  url: https://nts.strzibny.name/tag/ruby/
+  rss: https://nts.strzibny.name/feed.xml
+  locked: true
+- name: Josh Frankel
+  url: https://joshfrankel.me/blog/
+  rss: https://joshfrankel.me/feed.xml
+  locked: true
+- name: Josh McArthur
+  url: https://www.joshmcarthur.com/
+  rss: https://joshmcarthur.com/feed/
+  locked: true
+- name: Joyful Bikeshedding
+  url: https://www.joyfulbikeshedding.com/blog/tags/ruby.html
+  rss: https://www.joyfulbikeshedding.com/feed.xml
+  locked: true
+- name: JP Camara
+  url: https://jpcamara.com/categories/ruby/
+  rss: https://jpcamara.com/categories/ruby/feed.xml
+  locked: true
+- name: J. Scott Johnson
+  url: https://fuzzyblog.io/blog/category.html#rails
+  rss: http://fuzzyblog.io/blog/feed.xml
+  locked: true
+- name: Juanito Fatas
+  url: https://juanitofatas.com/tags/ruby
+  rss:
+  locked: true
+- name: Julia Chan
+  url: https://juliachan.dev/
+  rss:
+  locked: true
+- name: Julia Evans
+  url: https://jvns.ca/
+  rss: https://jvns.ca/atom.xml
+  locked: true
+- name: Julian Rubisch
+  url: https://hotwire.club/blog/
+  rss: https://hotwire.club/feed.xml
+  locked: true
+- name: Julija Alieckaja
+  url: https://medium.com/@alieckaja
+  rss: https://medium.com/feed/@alieckaja
+  locked: true
+- name: Julik Tarkhanov
+  url: https://blog.julik.nl/
+  rss: https://blog.julik.nl/feed.atom.xml
+  locked: true
+- name: Justin Cypret
+  url: https://justincypret.com/
+  rss: https://justincypret.com/feed.xml
+  locked: true
+- name: Justin Searls
+  url: https://justin.searls.co/posts/
+  rss: https://justin.searls.co/atom.xml
+  locked: true
+- name: Jônatas Davi Paganini
+  url: https://ideia.me/categories.html#ruby-ref
+  rss: https://ideia.me/atom.xml
+  locked: true
+- name: Kadu Diógenes
+  url: https://kdiogenes.github.io/
+  rss: https://kdiogenes.github.io/feed.xml
+  locked: true
+- name: Kallin Nagelberg
+  url: https://happycampers.dance/
+  rss: http://happycampers.dance/feed.xml
+  locked: true
+- name: Karol Bąk
+  url: https://kukicola.io/
+  rss: https://kukicola.io/feed.xml
+  locked: true
+- name: Karol Galanciak
+  url: https://karolgalanciak.com/blog/
+  rss: https://karolgalanciak.com/feed.xml
+  locked: true
+- name: Kasper Timm Hansen
+  url: https://buttondown.com/kaspth/archive/
+  rss: https://buttondown.com/kaspth/rss
+  locked: true
+- name: Kevin Glowacz
+  url: https://kevin.glowacz.info/
+  rss: https://kevin.glowacz.info/feed.xml
+  locked: true
+- name: Kevin Murphy
+  url: https://kevinjmurphy.com/posts/
+  rss: https://kevinjmurphy.com/posts/index.xml
+  locked: true
+- name: Kevin Newton
+  url: https://kddnewton.com/
+  rss: https://kddnewton.com/feed.xml
+  locked: true
+- name: Kevin Sylvestre
+  url: https://ksylvest.com/
+  rss: https://ksylvest.com/feed.atom
+  locked: true
+- name: Khaja Minhajuddin
+  url: https://minhajuddin.com/tags/ruby/
+  rss: https://minhajuddin.com/atom.xml
+  locked: true
+- name: Kirill Platonov
+  url: https://kirillplatonov.com/posts/
+  rss: https://kirillplatonov.com/feed.xml
+  locked: true
+- name: Kiril Mitov
+  url: https://kmitov.com/posts/tag/rails/
+  rss: https://kmitov.com/feed/
+  locked: true
+- name: Kir Shatrov
+  url: https://kirshatrov.com/posts
+  rss:
+  locked: true
+- name: Koichi Sasada
+  url: https://dev.to/ko1
+  rss: https://dev.to/feed/ko1
+  locked: true
+- name: Kris Bogdanov
+  url: https://fullstackheroes.com/tutorials/rails/
+  rss:
+  locked: true
+- name: Kris Leech
+  url: https://www.teamcoding.com/
+  rss:
+  locked: true
+- name: Kyle Keesling
+  url: https://kylekeesling.com/posts
+  rss: https://kylekeesling.com/feed.xml
+  locked: true
+- name: Kyrylo Silin
+  url: https://kyrylo.org/
+  rss: https://kyrylo.org/feed.xml
+  locked: true
+- name: Landon Gray
+  url: https://thedayisntgray.github.io/
+  rss: https://thedayisntgray.github.io/feed.xml
+  locked: true
+- name: Lars Peters
+  url: https://larsp.de/
+  rss: https://larsp.de/rss/
+  locked: true
+- name: Lazarus Lazaridis
+  url: https://iridakos.com/
+  rss: https://iridakos.com/feed.xml
+  locked: true
+- name: Luan Nguye - fullstackrubyonrails.com (Web archive)
+  url: http://web.archive.org/web/20210513003707/https://fullstackrubyonrails.com/
+  rss:
+  locked: true
+- name: Luan Nguyen
+  url: https://luanotes.medium.com/
+  rss: https://medium.com/feed/@luanotes
+  locked: true
+- name: Luca Guidi
+  url: https://lucaguidi.com/
+  rss:
+  locked: true
+- name: Lucas Dohmen
+  url: https://lucas.dohmen.io/
+  rss: https://lucas.dohmen.io/feed.xml
+  locked: true
+- name: Lucas Luitjes
+  url: https://blog.luitjes.it/
+  rss:
+  locked: true
+- name: Lucian Ghinda
+  url: https://allaboutcoding.ghinda.com/
+  rss: https://allaboutcoding.ghinda.com/rss.xml
+  locked: true
+- name: Luiz Eduardo Kowalski
+  url: https://www.luizkowalski.net/
+  rss: https://www.luizkowalski.net/rss/
+  locked: true
+- name: Luke Jahnke
+  url: https://nastystereo.com/
+  rss:
+  locked: true
+- name: Lynn Chang
+  url: https://lynnbright.com/
+  rss: https://lynnbright.com/rss.xml
+  locked: true
+- name: Maciej Litwiniuk
+  url: https://maciej.litwiniuk.net/posts/
+  rss: https://maciej.litwiniuk.net/index.xml
+  locked: true
+- name: Maciej Mensfeld
+  url: https://mensfeld.pl/
+  rss: https://mensfeld.pl/feed/
+  locked: true
+- name: Mahbub Zaman
+  url: https://mahbub.ninja/blog
+  rss:
+  locked: true
+- name: Manuel Farez
+  url: https://manufarez.com/
+  rss:
+  locked: true
+- name: Marc Busqué
+  url: https://waiting-for-dev.github.io/
+  rss: https://waiting-for-dev.github.io/feed.xml
+  locked: true
+- name: Mario Alberto Chávez Cárdenas
+  url: https://mariochavez.io/
+  rss: https://mariochavez.io/feed.xml
+  locked: true
+- name: Mateusz Białowąs
+  url: https://mateuszbialowas.com/
+  rss: https://mateuszbialowas.com/rss.xml
+  locked: true
+- name: Matheus Richard
+  url: https://www.matheusrich.com/all/
+  rss: http://matheusrich.com/feed.xml
+  locked: true
+- name: Mathieu Eustachy
+  url: https://mathieu-eustachy.com/articles
+  rss:
+  locked: true
+- name: Matias Korhonen
+  url: https://www.randomerrata.com/
+  rss: https://www.randomerrata.com/feed.xml
+  locked: true
+- name: Matt Brictson
+  url: https://mattbrictson.com/blog
+  rss: https://mattbrictson.com/blog.atom
+  locked: true
+- name: Matthew Hutchinson
+  url: https://matthewhutchinson.net/
+  rss:
+  locked: true
+- name: Mattia Roccoberton
+  url: https://www.blocknot.es/
+  rss: https://www.blocknot.es/feed.xml
+  locked: true
+- name: Max Braga
+  url: https://hellomax.me/archives/
+  rss: https://hellomax.me/feed.xml
+  locked: true
+- name: Maxime Lapointe
+  url: https://maxlap.dev/blog/
+  rss: https://maxlap.dev/blog/feed.xml
+  locked: true
+- name: Max Tikhomirov
+  url: https://metacircu1ar.github.io/blog.html
+  rss: https://metacircu1ar.github.io/feed.xml
+  locked: true
+- name: Michael Grosser
+  url: https://grosser.it/
+  rss: https://grosser.it/feed/
+  locked: true
+- name: Michael Nelson
+  url: http://nelsonware.com/ruby.html
+  rss:
+  locked: true
+- name: Michael Wallbaum
+  url: https://mwallba.io/
+  rss:
+  locked: true
+- name: Michal Kazmierczak
+  url: https://mkaz.me/blog/
+  rss:
+  locked: true
+- name: Michal Papis (Web archive)
+  url: https://web.archive.org/web/20220929231743/http://niczsoft.com/
+  rss:
+  locked: true
+- name: Mikael Henriksson
+  url: https://mhenrixon.com/articles
+  rss:
+  locked: true
+- name: Mike Coutermarsh
+  url: https://www.mikecoutermarsh.com/
+  rss: https://www.mikecoutermarsh.com/rss/
+  locked: true
+- name: Mike McQuaid
+  url: https://mikemcquaid.com/
+  rss: https://mikemcquaid.com/atom.xml
+  locked: true
+- name: Mike Pack (Web archive)
+  url: http://web.archive.org/web/20220625075232/http://mikepackdev.com/
+  rss:
+  locked: true
+- name: Mike Perham
+  url: https://www.mikeperham.com/
+  rss: https://mikeperham.com/index.xml
+  locked: true
+- name: Mike Rogers (Web archive)
+  url: https://web.archive.org/web/20220627032657/https://mikerogers.io/posts/
+  rss:
+  locked: true
+- name: Mike Wilson
+  url: https://www.mikewilson.dev/
+  rss: https://www.mikewilson.dev/feed.xml
+  locked: true
+- name: Mikhail Klimenko
+  url: https://blog.klimenko.site/
+  rss: https://blog.klimenko.site/feed.xml
+  locked: true
+- name: Miles Woodroffe
+  url: https://mileswoodroffe.com/tags/rails
+  rss: https://mileswoodroffe.com/feed.xml
+  locked: true
+- name: Mohammad A. Ali
+  url: https://oldmoe.blog/
+  rss: https://oldmoe.blog/feed/
+  locked: true
+- name: Mohit Sindhwani
+  url: https://notepad.onghu.com/
+  rss: https://notepad.onghu.com/feed.xml
+  locked: true
+- name: Moncef Belyamani
+  url: https://www.moncefbelyamani.com/tags/ruby/
+  rss: https://www.moncefbelyamani.com/feed.xml
+  locked: true
+- name: Mário Nzualo
+  url: https://www.marionzualo.com/blog/
+  rss: https://www.marionzualo.com/feed/
+  locked: true
+- name: Máximo Mussini
+  url: https://maximomussini.com/
+  rss: https://maximomussini.com/feed.xml
+  locked: true
+- name: Nate Berkopec
+  url: https://www.speedshop.co/blog/
+  rss: https://www.speedshop.co/feed.xml
+  locked: true
+- name: Nicholas
+  url: https://wasabigeek.com/blog/
+  rss: https://wasabigeek.com/rss.xml
+  locked: true
+- name: Nick Hammond
+  url: https://www.fromthekeyboard.com/
+  rss: https://www.fromthekeyboard.com/rss/
+  locked: true
+- name: Nick Schwaderer
+  url: https://schwad.github.io/
+  rss: https://schwad.github.io/feed.xml
+  locked: true
+- name: Nick Sutterer
+  url: https://apotonick.wordpress.com/
+  rss: https://apotonick.wordpress.com/feed/
+  locked: true
+- name: Nikita Misharin
+  url: https://thesmartnik.com/
+  rss: https://thesmartnik.com/feed.xml
+  locked: true
+- name: Nikola Đuza
+  url: https://pragmaticpineapple.com/
+  rss: https://pragmaticpineapple.com/rss.xml
+  locked: true
+- name: Nitanshu Verma
+  url: https://nitanshu.github.io/posts/
+  rss: https://nitanshu.github.io/feed.xml
+  locked: true
+- name: Nithin Bekal
+  url: https://nithinbekal.com/
+  rss: https://nithinbekal.com/feed.xml
+  locked: true
+- name: Noah Gibbs
+  url: https://codefol.io/tags/ruby/
+  rss: https://codefol.io/feed.xml
+  locked: true
+- name: Noel Rappin
+  url: https://noelrappin.com/blog/
+  rss: https://noelrappin.com//blog/index.xml
+  locked: true
+- name: Nolan Phillips
+  url: https://blog.nolanphillips.com/
+  rss: https://blog.nolanphillips.com/rss.xml
+  locked: true
+- name: Olly Headey
+  url: https://headey.net/archive/
+  rss:
+  locked: true
+- name: Owais
+  url: https://owaiskhan.me/blog
+  rss:
+  locked: true
+- name: Pat Allan
+  url: https://freelancing-gods.com/posts/index.html
+  rss:
+  locked: true
+- name: Pat Shaughnessy
+  url: https://patshaughnessy.net/
+  rss:
+  locked: true
+- name: Paul Sadauskas
+  url: https://blog.theamazingrando.com/
+  rss: https://blog.theamazingrando.com/feed.xml
+  locked: true
+- name: Paweł Dąbrowski
+  url: https://www.paweldabrowski.com/articles
+  rss: https://www.paweldabrowski.com/undefined/rss/feed.xml
+  locked: true
+- name: Paweł Dąbrowski (Long live Ruby)
+  url: https://longliveruby.com/
+  rss:
+  locked: true
+- name: Paweł Dąbrowski (Ruby hero) (Web archive)
+  url: https://web.archive.org/web/20241122134223/https://rubyhero.dev/
+  rss:
+  locked: true
+- name: Paweł Świątkowski
+  url: https://katafrakt.me/posts/
+  rss: https://katafrakt.me/feed.xml
+  locked: true
+- name: Peter Keogh
+  url: http://keoghpe.github.io/
+  rss: http://keoghpe.github.io/feed.xml
+  locked: true
+- name: Peter Ohler
+  url: http://www.ohler.com/dev/index.html
+  rss:
+  locked: true
+- name: Peter Solnica
+  url: https://solnic.dev/archive
+  rss:
+  locked: true
+- name: Peter Zhu
+  url: https://blog.peterzhu.ca/
+  rss: https://blog.peterzhu.ca/feed.xml
+  locked: true
+- name: Petr Hlavicka
+  url: https://petr.codes/blog/
+  rss: https://petr.codes/feed.xml
+  locked: true
+- name: Philippe Creux
+  url: https://pcreux.com/
+  rss: https://pcreux.com/feed.xml
+  locked: true
+- name: Phil Pirozhkov
+  url: https://fili.pp.ru/
+  rss: https://fili.pp.ru/feed.xml
+  locked: true
+- name: Piotr Chmolowski
+  url: https://ptrchm.com/posts/
+  rss: https://ptrchm.com/posts/index.xml
+  locked: true
+- name: Piotr Murach
+  url: https://piotrmurach.com/
+  rss: https://piotrmurach.com/feed.xml
+  locked: true
+- name: Prabin Poudel
+  url: https://prabinpoudel.com.np/articles/
+  rss: https://prabinpoudel.com.np/atom.xml
+  locked: true
+- name: Prabin Poudel (Zero Config Rails)
+  url: https://blog.zeroconfigrails.com/
+  rss: https://blog.zeroconfigrails.com/rss.xml
+  locked: true
+- name: Premysl Donat
+  url: https://masa331.github.io/
+  rss:
+  locked: true
+- name: Rachael Wright-Munn
+  url: https://www.chael.codes/
+  rss: https://www.chael.codes/feed.xml
+  locked: true
+- name: Radan Skorić
+  url: https://radanskoric.com/tags/ruby/
+  rss: https://radanskoric.com/feed.xml
+  locked: true
+- name: Radoslav Stankov
+  url: https://tips.rstankov.com/archive
+  rss: https://tips.rstankov.com/feed
+  locked: true
+- name: Radoslav Stankov
+  url: https://blog.rstankov.com/tag/ruby/
+  rss: https://blog.rstankov.com/rss/
+  locked: true
+- name: Rafael Montas
+  url: https://www.rafaelmontas.com/
+  rss: https://www.rafaelmontas.com/feed.xml
+  locked: true
+- name: Remi Mercier
+  url: https://remimercier.com/blog/
+  rss: https://remimercier.com/feed.xml
+  locked: true
+- name: Renato Nitta
+  url: https://renatonitta.com/
+  rss: https://renatonitta.com/feed/
+  locked: true
+- name: Richard Huang (Web archive)
+  url: http://web.archive.org/web/20210923031801/https://blog.huangzhimin.com/
+  rss:
+  locked: true
+- name: Richard Schneeman
+  url: https://schneems.com/
+  rss: https://schneems.com/feed.xml
+  locked: true
+- name: Rich Steinmetz
+  url: https://richstone.io/tag/ruby/
+  rss: https://richstone.io/rss/
+  locked: true
+- name: Rico Sta. Cruz
+  url: https://ricostacruz.com/til/
+  rss: https://ricostacruz.com/til/rss.xml
+  locked: true
+- name: Robert Pankowecki
+  url: https://pankowecki.pl/
+  rss: https://pankowecki.pl/index.xml
+  locked: true
+- name: Rob Lacey
+  url: https://robl.me/posts
+  rss:
+  locked: true
+- name: Rob Race
+  url: https://robrace.dev/
+  rss: https://robrace.dev/blog/rss.xml
+  locked: true
+- name: Rob Zolkos
+  url: https://www.zolkos.com/
+  rss: https://www.zolkos.com/feed.xml
+  locked: true
+- name: Rodrigo Rosenfeld Rosas
+  url: https://rosenfeld.page/articles/tags/ruby
+  rss: https://rosenfeld.page/articles/tags/ruby/atom
+  locked: true
+- name: Roland Lopez
+  url: https://rolandsoftwares.com/posts/
+  rss:
+  locked: true
+- name: Roland Studer
+  url: https://rstuder.ch/
+  rss: https://rstuder.ch/feed.xml
+  locked: true
+- name: Ronan Limon Duparcmeur
+  url: https://2-45.pm/articles/
+  rss: https://2-45.pm/feed.xml
+  locked: true
+- name: Ross
+  url: https://www.reinhardt.io/blog/
+  rss: http://reinhardt.io/feed.xml
+  locked: true
+- name: Ross Kaffenberger
+  url: https://rossta.net/blog/
+  rss: https://rossta.net/feed.xml
+  locked: true
+- name: Ross Kaffenberger (Joy of Rails)
+  url: https://joyofrails.com/
+  rss: https://joyofrails.com/feed
+  locked: true
+- name: Ruslan Gafurov
+  url: https://gafur.me/blog/
+  rss:
+  locked: true
+- name: Rustam A. Gasanov
+  url: http://web.archive.org/web/20220503193002/http://rustamagasanov.com/
+  rss:
+  locked: true
+- name: Ryan Bates
+  url: https://rbates.dev/
+  rss: https://rbates.dev/rss.xml
+  locked: true
+- name: Ryan Bigg
+  url: https://ryanbigg.com/blog
+  rss: https://ryanbigg.com/feed.xml
+  locked: true
+- name: Ryan Davis
+  url: https://www.zenspider.com/ruby/tags/ruby.html
+  rss: https://www.zenspider.com/atom.xml
+  locked: true
+- name: Sahil Gadimbayli
+  url: https://www.ramblingcode.dev/tags/ruby/
+  rss: https://www.ramblingcode.dev/tags/ruby/index.xml
+  locked: true
+- name: Samuel Williams
+  url: https://www.codeotaku.com/journal/index
+  rss: https://www.codeotaku.com/journal/atom
+  locked: true
+- name: Sandi Metz
+  url: https://sandimetz.com/blog
+  rss: https://sandimetz.com/blog?format=rss
+  locked: true
+- name: Scott Bartell
+  url: https://scottbartell.com/
+  rss: https://scottbartell.com/feed.xml
+  locked: true
+- name: Scott Hanselman
+  url: https://www.hanselman.com/blog/category/ruby
+  rss: https://www.hanselman.com/blog/feed/rss
+  locked: true
+- name: Scott Johnson
+  url: https://fuzzyblog.io/blog/tag.html#ruby
+  rss: http://fuzzyblog.io/blog/feed.xml
+  locked: true
+- name: Scott Watermasysk
+  url: https://scottw.com/
+  rss: https://scottw.com/feed.xml
+  locked: true
+- name: Sean C Davis
+  url: https://www.seancdavis.com/topics/ruby/
+  rss: https://www.seancdavis.com/feed.xml
+  locked: true
+- name: Seb Wilgosz
+  url: https://swilgosz.hashnode.dev/
+  rss:
+  locked: true
+- name: Shayon Mukherjee
+  url: https://www.shayon.dev/post/
+  rss: https://www.shayon.dev/post/index.xml
+  locked: true
+- name: Shiva Bhusal
+  url: https://shivabhusal.com/
+  rss:
+  locked: true
+- name: Sid Krishnan
+  url: https://ducktypelabs.com/
+  rss:
+  locked: true
+- name: Sihui Huang
+  url: https://www.sihui.io/category/ruby-on-rails/
+  rss: https://www.sihui.io/feed/
+  locked: true
+- name: Sreeram Venkitesh
+  url: https://sreeram.xyz/blog
+  rss: https://sreeram.xyz/feed.xml
+  locked: true
+- name: Stanislav Katkov
+  url: https://skatkov.com/blog
+  rss: https://skatkov.com/feed.xml
+  locked: true
+- name: Stanko Krtalić
+  url: https://stanko.io/articles
+  rss: https://stanko.io/articles/rss
+  locked: true
+- name: Stan Lo
+  url: https://st0012.dev/
+  rss: https://st0012.dev/rss.xml
+  locked: true
+- name: Stefan Botzenhart
+  url: https://www.botzenhart.io/articles
+  rss: https://www.botzenhart.io/undefined/rss/feed.xml
+  locked: true
+- name: Stefan Wienert
+  url: https://www.stefanwienert.de/categories/ruby/
+  rss: https://www.stefanwienert.de/feed.xml
+  locked: true
+- name: Stefan Wintermeyer
+  url: https://medium.com/@wintermeyer
+  rss: https://medium.com/feed/@wintermeyer
+  locked: true
+- name: Stephan Kämper
+  url: https://seasidetesting.com/
+  rss: https://seasidetesting.com/feed/
+  locked: true
+- name: Stephen Ierodiaconou
+  url: https://www.diaconou.com/blog/
+  rss:
+  locked: true
+- name: Stephen Margheim
+  url: https://fractaledmind.github.io/posts/
+  rss: https://fractaledmind.github.io/feed.xml
+  locked: true
+- name: Steve Klabnik
+  url: https://steveklabnik.com/writing
+  rss: https://steveklabnik.com/feed.xml
+  locked: true
+- name: Steven Harman
+  url: https://stevenharman.net/archive
+  rss: https://stevenharman.net/feed.xml
+  locked: true
+- name: Steven Yue
+  url: https://stevenyue.com/
+  rss: https://stevenyue.com/feed.xml
+  locked: true
+- name: Steve Polito
+  url: https://stevepolito.design/blog
+  rss: https://stevepolito.design/feed.xml
+  locked: true
+- name: Stuart Frost
+  url: https://www.stufro.com/
+  rss: https://www.stufro.com/%20/feed.xml
+  locked: true
+- name: Suraj Mishra
+  url: https://monorails.substack.com/
+  rss: https://monorails.substack.com/feed
+  locked: true
+- name: Swapnil Gourshete (RailsExamples)
+  url: https://railsexamples.com/index.html
+  rss:
+  locked: true
+- name: Tejas Bubane
+  url: https://tejasbubane.github.io/tags/ruby/
+  rss: https://tejasbubane.github.io/rss.xml
+  locked: true
+- name: Tekin Süleyman
+  url: https://tekin.co.uk/writing/
+  rss: https://tekin.co.uk/atom.xml
+  locked: true
+- name: Thomas Countz
+  url: https://thomascountz.com/
+  rss: https://thomascountz.com/atom.xml
+  locked: true
+- name: Thomas Leitner
+  url: https://gettalong.org/posts.html
+  rss: https://gettalong.org/posts.rss
+  locked: true
+- name: Tiago (honeyryder)
+  url: https://honeyryderchuck.gitlab.io/posts/
+  rss: https://honeyryderchuck.gitlab.io/atom.xml
+  locked: true
+- name: Tim Riley
+  url: https://timriley.info/posts
+  rss: https://timriley.info/posts_feed
+  locked: true
+- name: Tomas Valent
+  url: https://blog.eq8.eu/
+  rss: https://blog.eq8.eu/feed.xml
+  locked: true
+- name: Tom Dalling
+  url: https://www.tomdalling.com/blog/
+  rss: https://www.tomdalling.com/blog/feed/
+  locked: true
+- name: Tom de Bruijn
+  url: https://tomdebruijn.com/
+  rss: https://tomdebruijn.com/feed.xml
+  locked: true
+- name: Tom Stuart
+  url: https://tomstu.art/articles
+  rss: https://tomstu.art/articles.atom
+  locked: true
+- name: Tuomas Jomppanen
+  url: https://www.jomppanen.com/archive
+  rss:
+  locked: true
+- name: Unathi Chonco
+  url: https://blog.unathichonco.com/
+  rss: https://blog.unathichonco.com/rss.xml
+  locked: true
+- name: Vasiliy Ermolovich
+  url: https://nashby.github.io/
+  rss: https://nashby.github.io/atom.xml
+  locked: true
+- name: Vasily Polovnyov
+  url: https://vasily.polovnyov.ru/
+  rss: https://vasily.polovnyov.ru/feed.xml
+  locked: true
+- name: Victor Afanasev
+  url: https://vifreefly.github.io/
+  rss: https://vifreefly.github.io/feed.xml
+  locked: true
+- name: Victor Shepelev (zverok)
+  url: https://zverok.space/writing/
+  rss: https://zverok.space/feed.xml
+  locked: true
+- name: Vini Oyama
+  url: https://vinioyama.com/blog/
+  rss: https://vinioyama.com/feed/
+  locked: true
+- name: Vitalii Elenhaupt
+  url: https://veelenga.github.io/
+  rss: https://veelenga.github.io/feed.xml
+  locked: true
+- name: Vito Botta (Web archive)
+  url: https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/
+  rss:
+  locked: true
+- name: Vladislav Kopylov
+  url: https://kopilov-vlad.medium.com/
+  rss: https://medium.com/feed/@kopilov-vlad
+  locked: true
+- name: Way Mondo
+  url: https://waymondo.com/
+  rss: https://waymondo.com/index.xml
+  locked: true
+- name: Weston Ganger
+  url: https://westonganger.com/posts
+  rss:
+  locked: true
+- name: Will Jessop
+  url: https://willj.net/tags/ruby/
+  rss: https://willj.net/rss.xml
+  locked: true
+- name: Yaroslav Shmarov
+  url: https://blog.corsego.com/
+  rss:
+  locked: true
+- name: Yegor Bugayenko
+  url: https://www.yegor256.com/tag/ruby.html
+  rss: https://www.yegor256.com/rss.xml
+  locked: true
+- name: Yehuda Katz
+  url: https://yehudakatz.com/
+  rss: https://yehudakatz.com/rss/
+  locked: true
+- name: Yevhen Kuzminov
+  url: http://stdout.in/en
+  rss: http://stdout.in/en/cat/all.rss
+  locked: true
+- name: Yorick Peterse
+  url: https://yorickpeterse.com/
+  rss: https://yorickpeterse.com/feed.xml
+  locked: true
+- name: Yoshiki
+  url: https://takagi.blog/tags/ruby/
+  rss: https://takagi.blog/tags/ruby/rss.xml
+  locked: true
+- name: Younes SERRAJ
+  url: https://younes.codes/
+  rss:
+  locked: true
+- name: Youssef Boulkaid
+  url: https://blog.yboulkaid.com/blog
+  rss: https://blog.yboulkaid.com/feed.xml
+  locked: true
+- name: Владимир Мирошниченко
+  url: https://gururuby.ru/
+  rss: https://gururuby.ru/atom.xml
+  locked: true

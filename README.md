@@ -77,8 +77,8 @@
 * [Ronin](https://ronin-rb.dev/blog/) ([rss](https://ronin-rb.dev/blog/atom.xml))
 * [RorVsWild](https://www.rorvswild.com/blog) ([rss](https://www.rorvswild.com/blog.rss))
 * [RSpec](http://rspec.info/blog/) ([rss](http://rspec.info/blog/feed.xml))
-* [Ruby Job Board (Web archive)](https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog) ([rss](https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog.rss))
-* [Ruby Tutorial (Web archive)](https://web.archive.org/web/20231230055220/https://rubytutorial.io/) ([rss](https://web.archive.org/web/20231230055220/https://rubytutorial.io/atom.xml))
+* [Ruby Job Board (Web archive)](https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog)
+* [Ruby Tutorial (Web archive)](https://web.archive.org/web/20231230055220/https://rubytutorial.io/)
 * [RubyCademy](https://www.rubycademy.com/blog)
 * [RubyCademy (Medium)](https://medium.com/rubycademy) ([rss](https://medium.com/feed/rubycademy))
 * [RubyGems](https://blog.rubygems.org/) ([rss](https://blog.rubygems.org/atom.xml))
@@ -93,7 +93,7 @@
 * [Sorbet](https://sorbet.org/blog/) ([rss](https://sorbet.org/blog/atom.xml))
 * [Taylor (Sean Earle)](https://taylormadetech.dev/blog/) ([rss](https://taylormadetech.dev/feed.xml))
 * [The JRuby Blog](https://blog.jruby.org/) ([rss](https://blog.jruby.org/feed))
-* [The Lazy Log](https://web.archive.org/web/20230924230511/https://thelazylog.com/) ([rss](https://web.archive.org/web/20230924230511/https://thelazylog.com/rss/))
+* [The Lazy Log](https://web.archive.org/web/20230924230511/https://thelazylog.com/)
 * [This Week in Rails](https://world.hey.com/this.week.in.rails) ([rss](https://world.hey.com/this.week.in.rails/feed.atom))
 * [Thnk And Grow](https://blog.thnkandgrow.com/) ([rss](https://blog.thnkandgrow.com/feed/))
 * [With a Twist](https://withatwist.dev/) ([rss](https://withatwist.dev/feed.xml))
@@ -123,7 +123,7 @@
 * [Alexey Poimtsev](https://alec-c4.com/) ([rss](https://alec-c4.com/rss.xml))
 * [Alexey Vasiliev](https://leopard.in.ua/) ([rss](http://leopard.in.ua/rss.xml))
 * [Alexis Bernard](https://alexis.bernard.io/) ([rss](https://alexis.bernard.io/blog.rss))
-* [Ana Nunes da Silva (Web archive)](https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/posts) ([rss](https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/feed.xml.rss))
+* [Ana Nunes da Silva (Web archive)](https://web.archive.org/web/20240814203350/https://www.ananunesdasilva.com/posts)
 * [Andrea Fomera](https://afomera.dev/posts)
 * [Andrei Kaleshka](https://blog.widefix.com/articles/) ([rss](https://widefix.com/blog/feed.xml))
 * [Andres Chacon](https://a-chacon.com/en/blog) ([rss](https://a-chacon.com/en/feed.xml))
@@ -157,7 +157,7 @@
 * [Bozhidar Batsov](https://metaredux.com/) ([rss](https://metaredux.com/feed.xml))
 * [Brad Gessler](https://bradgessler.com/)
 * [Bradley Schaefer (Soulcutter)](https://www.soulcutter.com/) ([rss](https://www.soulcutter.com/feed.xml))
-* [Brandon Casci](https://www.brandoncasci.com/)
+* [Brandon Casci](https://www.brandoncasci.com/) ([rss](https://www.brandoncasci.com/feed.xml))
 * [Brendan Bondurant](https://brendanbondurant.com/35-2/) ([rss](https://brendanbondurant.com/feed/))
 * [Bruno Sutic](https://brunosutic.com/) ([rss](https://brunosutic.com/blog/feed))
 * [Bèr Kessels](https://berk.es/archive.html) ([rss](https://berk.es/2007/09/27/snipplr-drupals-code-snippet-feed/))
@@ -214,7 +214,7 @@
 * [Finnian Anderson](https://finnian.io/tags/ruby/) ([rss](https://finnian.io/tags/ruby/index.xml))
 * [Frank Groeneveld](https://frankgroeneveld.nl/) ([rss](https://frankgroeneveld.nl/feed/))
 * [Garrett Dimon](https://garrettdimon.com/journal/posts) ([rss](https://garrettdimon.com/feed))
-* [Gavin Miller (Web archive)](https://web.archive.org/web/20240518235427/http://gavinmiller.io/archives/) ([rss](https://web.archive.org/web/20240518235427/http://gavinmiller.io/atom.xml))
+* [Gavin Miller (Web archive)](https://web.archive.org/web/20240518235427/http://gavinmiller.io/archives/)
 * [Gavin Morrice](https://handyrailstips.com/)
 * [Gernot Gradwohl](https://austrian-nerd.dev/) ([rss](https://austrian-nerd.dev/index.xml))
 * [Giorgi Mezurnishvili](https://mzrn.sh/) ([rss](https://mzrn.sh/feed.xml))
@@ -235,7 +235,7 @@
 * [Igor Guzak](https://medium.com/@igor04) ([rss](https://medium.com/feed/@igor04))
 * [Igor Kuznetsov](https://medium.com/@igkuz) ([rss](https://medium.com/feed/@igkuz))
 * [Igor Morozov](https://www.morozov.is/)
-* [Igor Springer (Web archive)](https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/blog-posts/) ([rss](https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/feed/))
+* [Igor Springer (Web archive)](https://web.archive.org/web/20240618125641/https://frontdeveloper.pl/blog-posts/)
 * [Ilya Bylich](https://iliabylich.github.io/) ([rss](https://iliabylich.github.io/index.xml))
 * [Ilya Krukowski](https://bodrovis.tech/)
 * [Ismael Celis](https://ismaelcelis.com/) ([rss](https://ismaelcelis.com/index.xml))
@@ -339,13 +339,13 @@
 * [Michael Nelson](http://nelsonware.com/ruby.html)
 * [Michael Wallbaum](https://mwallba.io/)
 * [Michal Kazmierczak](https://mkaz.me/blog/)
-* [Michal Papis (Web archive)](https://web.archive.org/web/20220929231743/http://niczsoft.com/) ([rss](https://web.archive.org/web/20220929231743/http://niczsoft.com/feed/atom/))
+* [Michal Papis (Web archive)](https://web.archive.org/web/20220929231743/http://niczsoft.com/)
 * [Mikael Henriksson](https://mhenrixon.com/articles)
 * [Mike Coutermarsh](https://www.mikecoutermarsh.com/) ([rss](https://www.mikecoutermarsh.com/rss/))
 * [Mike McQuaid](https://mikemcquaid.com/) ([rss](https://mikemcquaid.com/atom.xml))
-* [Mike Pack (Web archive)](http://web.archive.org/web/20220625075232/http://mikepackdev.com/) ([rss](http://web.archive.org/web/20220625075232/http://mikepackdev.com/blog_posts.atom))
+* [Mike Pack (Web archive)](http://web.archive.org/web/20220625075232/http://mikepackdev.com/)
 * [Mike Perham](https://www.mikeperham.com/) ([rss](https://mikeperham.com/index.xml))
-* [Mike Rogers (Web archive)](https://web.archive.org/web/20220627032657/https://mikerogers.io/posts/) ([rss](https://web.archive.org/web/20220627032657/https://mikerogers.io/rss.xml))
+* [Mike Rogers (Web archive)](https://web.archive.org/web/20220627032657/https://mikerogers.io/posts/)
 * [Mike Wilson](https://www.mikewilson.dev/) ([rss](https://www.mikewilson.dev/feed.xml))
 * [Mikhail Klimenko](https://blog.klimenko.site/) ([rss](https://blog.klimenko.site/feed.xml))
 * [Miles Woodroffe](https://mileswoodroffe.com/tags/rails) ([rss](https://mileswoodroffe.com/feed.xml))
@@ -373,7 +373,7 @@
 * [Paul Sadauskas](https://blog.theamazingrando.com/) ([rss](https://blog.theamazingrando.com/feed.xml))
 * [Paweł Dąbrowski](https://www.paweldabrowski.com/articles) ([rss](https://www.paweldabrowski.com/undefined/rss/feed.xml))
 * [Paweł Dąbrowski (Long live Ruby)](https://longliveruby.com/)
-* [Paweł Dąbrowski (Ruby hero) (Web archive)](https://web.archive.org/web/20241122134223/https://rubyhero.dev/) ([rss](https://web.archive.org/web/20241122134223/https://rubyhero.dev/rss.xml))
+* [Paweł Dąbrowski (Ruby hero) (Web archive)](https://web.archive.org/web/20241122134223/https://rubyhero.dev/)
 * [Paweł Świątkowski](https://katafrakt.me/posts/) ([rss](https://katafrakt.me/feed.xml))
 * [Peter Keogh](http://keoghpe.github.io/) ([rss](http://keoghpe.github.io/feed.xml))
 * [Peter Ohler](http://www.ohler.com/dev/index.html)
@@ -395,7 +395,7 @@
 * [Remi Mercier](https://remimercier.com/blog/) ([rss](https://remimercier.com/feed.xml))
 * [Renato Nitta](https://renatonitta.com/) ([rss](https://renatonitta.com/feed/))
 * [Rich Steinmetz](https://richstone.io/tag/ruby/) ([rss](https://richstone.io/rss/))
-* [Richard Huang (Web archive)](http://web.archive.org/web/20210923031801/https://blog.huangzhimin.com/) ([rss](http://web.archive.org/web/20210923031801/https://feeds.feedburner.com/richard-huang))
+* [Richard Huang (Web archive)](http://web.archive.org/web/20210923031801/https://blog.huangzhimin.com/)
 * [Richard Schneeman](https://schneems.com/) ([rss](https://schneems.com/feed.xml))
 * [Rico Sta. Cruz](https://ricostacruz.com/til/) ([rss](https://ricostacruz.com/til/rss.xml))
 * [Rob Lacey](https://robl.me/posts)
@@ -410,7 +410,7 @@
 * [Ross Kaffenberger](https://rossta.net/blog/) ([rss](https://rossta.net/feed.xml))
 * [Ross Kaffenberger (Joy of Rails)](https://joyofrails.com/) ([rss](https://joyofrails.com/feed))
 * [Ruslan Gafurov](https://gafur.me/blog/)
-* [Rustam A. Gasanov](http://web.archive.org/web/20220503193002/http://rustamagasanov.com/) ([rss](http://web.archive.org/web/20220503193002/http://rustamagasanov.com/atom.xml))
+* [Rustam A. Gasanov](http://web.archive.org/web/20220503193002/http://rustamagasanov.com/)
 * [Ryan Bates](https://rbates.dev/) ([rss](https://rbates.dev/rss.xml))
 * [Ryan Bigg](https://ryanbigg.com/blog) ([rss](https://ryanbigg.com/feed.xml))
 * [Ryan Davis](https://www.zenspider.com/ruby/tags/ruby.html) ([rss](https://www.zenspider.com/atom.xml))
@@ -462,7 +462,7 @@
 * [Victor Shepelev (zverok)](https://zverok.space/writing/) ([rss](https://zverok.space/feed.xml))
 * [Vini Oyama](https://vinioyama.com/blog/) ([rss](https://vinioyama.com/feed/))
 * [Vitalii Elenhaupt](https://veelenga.github.io/) ([rss](https://veelenga.github.io/feed.xml))
-* [Vito Botta (Web archive)](https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/) ([rss](https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/))
+* [Vito Botta (Web archive)](https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/)
 * [Vladislav Kopylov](https://kopilov-vlad.medium.com/) ([rss](https://medium.com/feed/@kopilov-vlad))
 * [Way Mondo](https://waymondo.com/) ([rss](https://waymondo.com/index.xml))
 * [Weston Ganger](https://westonganger.com/posts)
@@ -493,12 +493,12 @@
 * [Bacancy](https://www.bacancytechnology.com/blog/ruby-on-rails/) ([rss](https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35))
 * [Bemi](https://blog.bemi.io/) ([rss](https://blog.bemi.io/rss/))
 * [BigBinary](https://www.bigbinary.com/blog) ([rss](https://www.bigbinary.com/blog/feed.xml))
-* [BootrAils (Web archive)](https://web.archive.org/web/20231206233411/https://www.bootrails.com/blog/) ([rss](https://web.archive.org/web/20231206233411/https://bootrails.com/feed/))
+* [BootrAils (Web archive)](https://web.archive.org/web/20231206233411/https://www.bootrails.com/blog/)
 * [BoTree Technologies](https://www.botreetechnologies.com/blog/category/technology/ruby-on-rails/) ([rss](https://www.botreetechnologies.com/blog/feed/))
 * [Brainspec](http://brainspec.com/blog/) ([rss](http://brainspec.com/blog/atom.xml))
-* [Carbonfive](https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/) ([rss](https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/feed/))
+* [Carbonfive](https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/)
 * [Census](https://census.dev/) ([rss](https://census.dev/blog?format=rss))
-* [Chaps (Web archive)](http://web.archive.org/web/20211127030701/https://blog.chaps.io/) ([rss](http://web.archive.org/web/20211127030701/https://blog.chaps.io/feed.xml))
+* [Chaps (Web archive)](http://web.archive.org/web/20211127030701/https://blog.chaps.io/)
 * [Cloud 66](https://blog.cloud66.com/)
 * [CloudBees (Old CodeShip, Rollout)](https://www.cloudbees.com/blog)
 * [Codemancers](https://www.codemancers.com/blog/?tag=rails) ([rss](https://www.codemancers.com/rss.xml))
@@ -527,7 +527,7 @@
 * [Gusto](https://engineering.gusto.com/tagged/ruby-on-rails) ([rss](https://engineering.gusto.com/feed))
 * [Hashrocket](https://hashrocket.com/blog/tags/ruby) ([rss](https://hashrocket.com/blog.rss))
 * [Heroku](https://blog.heroku.com/) ([rss](https://blog.heroku.com/feed/))
-* [Hint (Web archive)](https://web.archive.org/web/20230129054448/https://hint.io/blog) ([rss](https://web.archive.org/web/20230129054448/https://hint.io/blog/rss.xml))
+* [Hint (Web archive)](https://web.archive.org/web/20230129054448/https://hint.io/blog)
 * [Hix on Rails (Web archive)](http://web.archive.org/web/20221126215144/https://hixonrails.com/ruby-on-rails-tutorials/)
 * [Honeybadger](https://www.honeybadger.io/blog/) ([rss](https://www.honeybadger.io/blog/feed.xml))
 * [Hybrd](https://hybrd.co/posts) ([rss](https://hybrd.co/posts.atom))
@@ -589,7 +589,7 @@
 * [Snyk](https://snyk.io/blog/) ([rss](https://snyk.io/blog/feed/))
 * [Splitwise](https://blog.splitwise.com/) ([rss](https://blog.splitwise.com/feed/))
 * [Spritle](https://www.spritle.com/blog/category/ruby/) ([rss](https://www.spritle.com/blog/feed/))
-* [Sqreen (Web archive)](https://web.archive.org/web/20230526152638/https://blog.sqreen.com/category/ruby-on-rails/) ([rss](https://web.archive.org/web/20230526152638/https://blog.sqreen.com/feed/))
+* [Sqreen (Web archive)](https://web.archive.org/web/20230526152638/https://blog.sqreen.com/category/ruby-on-rails/)
 * [Square](https://developer.squareup.com/blog/archive/tags/ruby/) ([rss](https://developer.squareup.com/blog/rss.xml))
 * [Super Good Software](https://supergood.software/blog/) ([rss](https://supergood.software/rss.xml))
 * [Svitla Systems](https://svitla.com/blog/)
@@ -603,7 +603,7 @@
 * [Toptal](https://www.toptal.com/developers/blog/back-end)
 * [Tosbourn](https://tosbourn.com/ruby/) ([rss](https://tosbourn.com/feed.xml))
 * [Twilio](https://www.twilio.com/en-us/blog) ([rss](https://www.twilio.com/sitemap.xml))
-* [Varvet (Web archive)](https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/) ([rss](https://web.archive.org/web/20220314030350/https://www.varvet.com/feed.xml))
+* [Varvet (Web archive)](https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/)
 * [Vector Logic](https://www.vector-logic.com/blog/posts) ([rss](https://www.vector-logic.com/blog/posts.rss))
 * [Visuality](https://www.visuality.pl/posts)
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby) ([rss](https://engineeringblog.wonolo.com/tag/ruby/rss.xml))
@@ -636,18 +636,58 @@
 ### Link a blog to Awesome Ruby blogs
 
 1. **Fork** this repository.
-2. **Edit** the `data.yml` file by adding your blog’s details: site name, URL, and (if available) its feed URL. Be sure to place it under the most appropriate category.
+2. **Edit** the appropriate data file by adding your blog's details. Be sure to place it under the most appropriate category.
 3. **Run** `bin/build_readme` to regenerate the `README.md` with your new entry.
 4. **Commit** your changes and open a pull request against the `master` branch.
 
-Available blog categories:
+#### Data Structure
 
-* `newsletter`
-* `social_news_aggregation`
-* `community`
-* `personal`
-* `company`
-* `other`
+Each blog entry should follow this YAML structure:
+
+```yaml
+- name: Blog Name
+  url: https://example.com/blog
+  rss: https://example.com/feed.xml  # Optional RSS feed URL
+  locked: true  # Optional: prevents automatic updates (see Locking Policy)
+```
+
+**Required fields:**
+- `name`: The display name of the blog
+- `url`: The URL to the blog or blog category page
+
+**Optional fields:**
+- `rss`: RSS/Atom feed URL for the blog
+- `locked`: Boolean to prevent automatic RSS updates (defaults to false for new entries)
+
+#### Available Blog Categories
+
+Choose the most appropriate category for your blog:
+
+* **`data/newsletter.yml`** - Ruby newsletters and weekly digests
+* **`data/social_news_aggregation.yml`** - Social platforms and news aggregators
+* **`data/community.yml`** - Open source projects, frameworks, and community blogs
+* **`data/personal.yml`** - Individual developer blogs and personal sites
+* **`data/company.yml`** - Corporate engineering blogs and company publications
+* **`data/other.yml`** - Lists and resources that don't fit other categories
+
+#### Blog Entry Management
+
+**Locking Policy:**
+- New blog entries are unlocked by default and can be automatically updated
+- Entries become locked after their first successful RSS fetch to preserve stability
+- Web archive entries are permanently locked and never updated automatically
+- Locked entries can only be updated manually through pull requests
+
+**RSS Feed Handling:**
+- RSS feeds are automatically discovered and added when possible
+- Only one RSS feed per blog is supported (arrays are not used)
+- Web archive RSS feeds are removed as they're typically non-functional
+- Missing RSS feeds can be added later using the `bin/fetch_rss` tool
+
+**Web Archive Entries:**
+- Blogs preserved via web.archive.org are marked with "(Web archive)" in the name
+- These entries never have their RSS feeds updated automatically
+- Web archive entries help preserve important historical Ruby content
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

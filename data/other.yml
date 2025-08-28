@@ -1,0 +1,61 @@
+---
+- name: Awesome Newsletters Ruby
+  url: https://github.com/zudochkin/awesome-newsletters#ruby
+  rss:
+  locked: true
+- name: Planet Argon - 2020 Ruby on Rails Community Survey Results
+  url: https://rails-hosting.com/2020/#learning
+  rss:
+  locked: true
+- name: markets/awesome-ruby
+  url: https://github.com/markets/awesome-ruby
+  rss: https://github.com/kigster/simple-feed
+  locked: true
+- name: sdogruyol/awesome-ruby
+  url: https://github.com/sdogruyol/awesome-ruby
+  rss:
+  locked: true
+- name: gramantin/awesome-rails
+  url: https://github.com/gramantin/awesome-rails
+  rss: https://github.com/davidesantangelo/api.rss
+  locked: true
+- name: AwesomeRubyist/awesome_resource_list
+  url: https://github.com/AwesomeRubyist/awesome_resource_list
+  rss:
+  locked: true
+- name: dreikanter/ruby-bookmarks
+  url: https://github.com/dreikanter/ruby-bookmarks
+  rss: https://github.com/atom/atom
+  locked: true
+- name: okuramasafumi/awesome-ruby-articles
+  url: https://github.com/okuramasafumi/awesome-ruby-articles
+  rss:
+  locked: true
+- name: learn-anything/blogs#ruby
+  url: https://github.com/learn-anything/blogs#ruby
+  rss:
+  locked: true
+- name: abdelhai/awesome-dev-blogs#ruby
+  url: https://github.com/abdelhai/awesome-dev-blogs#ruby
+  rss:
+  locked: true
+- name: jkup/awesome-personal-blogs
+  url: https://github.com/jkup/awesome-personal-blogs
+  rss:
+  locked: true
+- name: inputsh/awesome-blogs
+  url: https://github.com/inputsh/awesome-blogs
+  rss:
+  locked: true
+- name: endymion1818/awesome-developer-blogs
+  url: https://github.com/endymion1818/awesome-developer-blogs
+  rss:
+  locked: true
+- name: letsila/awesome-blogs
+  url: https://github.com/letsila/awesome-blogs
+  rss:
+  locked: true
+- name: pgilad/awesome-blogs
+  url: https://github.com/pgilad/awesome-blogs
+  rss:
+  locked: true

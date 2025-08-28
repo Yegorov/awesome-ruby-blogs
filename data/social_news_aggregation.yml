@@ -1,0 +1,41 @@
+---
+- name: daily.dev
+  url: https://app.daily.dev/search?q=rails
+  rss:
+  locked: true
+- name: Dev.to Ruby
+  url: https://dev.to/t/ruby
+  rss:
+  locked: true
+- name: DevZone (Old Codeguida)
+  url: https://devzone.org.ua/tag/ruby
+  rss: https://devzone.org.ua/feed/tag/ruby
+  locked: true
+- name: Habr Ruby
+  url: https://habr.com/ru/hubs/ruby/articles/
+  rss: https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru
+  locked: true
+- name: Hashnode ruby
+  url: https://hashnode.com/n/ruby
+  rss:
+  locked: true
+- name: Hashnode rubyonrails
+  url: https://hashnode.com/n/rubyonrails
+  rss:
+  locked: true
+- name: Mastodon ruby.social
+  url: https://ruby.social/explore
+  rss:
+  locked: true
+- name: Medium Ruby
+  url: https://medium.com/tag/ruby
+  rss: https://medium.com/sitemap/sitemap.xml
+  locked: true
+- name: Reddit Ruby
+  url: https://www.reddit.com/r/ruby/
+  rss:
+  locked: true
+- name: RubyNews
+  url: https://ruby.news/
+  rss:
+  locked: true

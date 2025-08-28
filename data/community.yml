@@ -1,0 +1,225 @@
+---
+- name: AnyCable
+  url: https://anycable.io/blog/
+  rss:
+  locked: true
+- name: BestWeb Ventures
+  url: https://blog.bestwebventures.in/archive
+  rss:
+  locked: true
+- name: Bloggie 'ruby'
+  url: https://bloggie.io/community/ruby
+  rss:
+  locked: true
+- name: Bloggie 'rails'
+  url: https://bloggie.io/community/rails
+  rss:
+  locked: true
+- name: Blogging On Rails
+  url: https://onrails.blog/
+  rss: https://onrails.blog/feed/
+  locked: true
+- name: Blog Yet
+  url: https://blogyet.com/categories/coding/blog_posts
+  rss:
+  locked: true
+- name: Boring Rails
+  url: https://boringrails.com/articles
+  rss: https://boringrails.com/feed.xml
+  locked: true
+- name: Bridgetown
+  url: https://www.bridgetownrb.com/blog/
+  rss: https://www.bridgetownrb.com/feed.xml
+  locked: true
+- name: Bundler
+  url: https://bundler.io/blog/
+  rss: https://bundler.io/blog/feed.xml
+  locked: true
+- name: Code With Rails
+  url: https://codewithrails.com/
+  rss: https://codewithrails.com/rss.xml
+  locked: true
+- name: Daily Dev Tools
+  url: https://dailydevtools.com/blog
+  rss:
+  locked: true
+- name: Digital Ocean (Old scotch.io)
+  url: https://www.digitalocean.com/community/tutorials?q=%5BRuby%5D
+  rss: https://www.digitalocean.com/community/tutorials.atom
+  locked: true
+- name: Drifting Ruby
+  url: https://www.driftingruby.com/episodes
+  rss: https://www.driftingruby.com//episodes/feed.atom
+  locked: true
+- name: dry-rb
+  url: https://dry-rb.org/news/
+  rss: https://dry-rb.org/feed.xml
+  locked: true
+- name: Fullstack Ruby (Old ruby3.dev)
+  url: https://www.fullstackruby.dev/articles
+  rss: https://www.fullstackruby.dev/feed.xml
+  locked: true
+- name: GoRails
+  url: https://gorails.com/episodes
+  rss: https://gorails.com/blog.rss
+  locked: true
+- name: Hanami
+  url: https://hanamirb.org/blog/
+  rss: https://hanamirb.org/atom.xml
+  locked: true
+- name: HanamiMastery
+  url: https://hanamimastery.com/
+  rss: https://hanamimastery.com/feed.xml
+  locked: true
+- name: Hexdevs
+  url: https://www.hexdevs.com/posts/
+  rss: https://www.hexdevs.com/index.xml
+  locked: true
+- name: Maki Sushi Tech
+  url: https://makisushi.io/
+  rss:
+  locked: true
+- name: Monospace Mentor (Jochen Lillich)
+  url: https://monospacementor.com/blog/
+  rss: https://monospacementor.com/feed/
+  locked: true
+- name: Opal
+  url: https://opalrb.com/blog/
+  rss:
+  locked: true
+- name: Past Rubies (Web archive)
+  url: https://web.archive.org/web/20230610191100/https://pastrubies.live/
+  rss:
+  locked: true
+- name: Practicing Ruby
+  url: https://practicingruby.com/
+  rss: https://practicingruby.com/feed.xml
+  locked: true
+- name: Rails
+  url: https://rubyonrails.org/blog/
+  rss: https://rubyonrails.org/feed.xml
+  locked: true
+- name: RailsApps
+  url: https://blog.railsapps.org/
+  rss: https://blog.railsapps.org/rss
+  locked: true
+- name: Rails at Scale
+  url: https://railsatscale.com/
+  rss: https://railsatscale.com/feed.xml
+  locked: true
+- name: Rails Designer
+  url: https://railsdesigner.com/articles/
+  rss: https://railsdesigner.com/feed.xml
+  locked: true
+- name: Rails Explained
+  url: https://www.railsexplained.com/
+  rss: https://www.railsexplained.com/feed.xml
+  locked: true
+- name: Rails Insights
+  url: https://railsinsights.com/
+  rss:
+  locked: true
+- name: RailsNotes Blog
+  url: https://railsnotes.xyz
+  rss: https://railsnotes.xyz/feed.xml
+  locked: true
+- name: Rails Runner
+  url: https://therailsrunner.com/
+  rss:
+  locked: true
+- name: ROM
+  url: https://rom-rb.org/blog/
+  rss:
+  locked: true
+- name: Ronin
+  url: https://ronin-rb.dev/blog/
+  rss: https://ronin-rb.dev/blog/atom.xml
+  locked: true
+- name: RorVsWild
+  url: https://www.rorvswild.com/blog
+  rss: https://www.rorvswild.com/blog.rss
+  locked: true
+- name: RSpec
+  url: http://rspec.info/blog/
+  rss: http://rspec.info/blog/feed.xml
+  locked: true
+- name: RubyCademy (Medium)
+  url: https://medium.com/rubycademy
+  rss: https://medium.com/feed/rubycademy
+  locked: true
+- name: RubyCademy
+  url: https://www.rubycademy.com/blog
+  rss:
+  locked: true
+- name: RubyGems
+  url: https://blog.rubygems.org/
+  rss: https://blog.rubygems.org/atom.xml
+  locked: true
+- name: RubyInside
+  url: https://medium.com/rubyinside
+  rss: https://medium.com/feed/rubyinside
+  locked: true
+- name: Ruby Job Board (Web archive)
+  url: https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog
+  rss:
+  locked: true
+- name: RubyOnRails.BA
+  url: https://rubyonrails.ba/
+  rss:
+  locked: true
+- name: RubyPigeon
+  url: https://www.rubypigeon.com/
+  rss: https://www.rubypigeon.com/feed.xml
+  locked: true
+- name: RubyTapas
+  url: https://www.rubytapas.com/
+  rss: https://www.rubytapas.com/feed/
+  locked: true
+- name: Ruby Tutorial (Web archive)
+  url: https://web.archive.org/web/20231230055220/https://rubytutorial.io/
+  rss:
+  locked: true
+- name: RubyWorks
+  url: http://rubyworks.github.io/index.html
+  rss:
+  locked: true
+- name: SciRuby
+  url: http://sciruby.com/blog/
+  rss: http://sciruby.com/atom.xml
+  locked: true
+- name: Sequel
+  url: http://sequel.jeremyevans.net/blog.html
+  rss:
+  locked: true
+- name: Sinatra
+  url: https://sinatrarb.com/blog.html
+  rss: https://sinatrarb.com/sinatra.github.com/feed.xml
+  locked: true
+- name: Sorbet
+  url: https://sorbet.org/blog/
+  rss: https://sorbet.org/blog/atom.xml
+  locked: true
+- name: Taylor (Sean Earle)
+  url: https://taylormadetech.dev/blog/
+  rss: https://taylormadetech.dev/feed.xml
+  locked: true
+- name: The JRuby Blog
+  url: https://blog.jruby.org/
+  rss: https://blog.jruby.org/feed
+  locked: true
+- name: The Lazy Log
+  url: https://web.archive.org/web/20230924230511/https://thelazylog.com/
+  rss:
+  locked: true
+- name: This Week in Rails
+  url: https://world.hey.com/this.week.in.rails
+  rss: https://world.hey.com/this.week.in.rails/feed.atom
+  locked: true
+- name: Thnk And Grow
+  url: https://blog.thnkandgrow.com/
+  rss: https://blog.thnkandgrow.com/feed/
+  locked: true
+- name: With a Twist
+  url: https://withatwist.dev/
+  rss: https://withatwist.dev/feed.xml
+  locked: true

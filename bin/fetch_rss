@@ -15,19 +15,67 @@ require "async"
 require "async/barrier"
 require "async/semaphore"
 require "feedbag"
+require 'optparse'
+
+# Parse CLI options
+options = {
+  # By default only unlocked blogs will be fetched, but we can force fetching all the blogs or only the ones without rss feed
+  force: :unlocked,
+  # By default we do not fetch any file
+  categories: []
+}
+
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: myscript.rb [options] data_file1 data_file2 ..."
+
+  opts.on("--force MODE", [:all, :norss, :unlocked], "Force mode (all, norss, unlocked) Default: unlocked") do |mode|
+    options[:force] = mode
+  end
+
+  opts.on("-h", "--help", "Show this help") do
+    puts opts
+    exit
+  end
+end
+
+# Parse options first
+parser.order!(ARGV)
+
+# Remaining arguments are categories
+options[:categories] = ARGV
+unless options[:categories].any?
+  puts <<~OUTPUT
+
+    Pass at least one data file to fetch.
+    Check bin/fetch_rss --help for usage
+  OUTPUT
+  exit 1
+end
 
 def feedsearch(url)
   print "."
   site_host = URI(url).host
   # Reject feed urls that are captured but from another site than the url
-  # provided and returns an array of at most one url.
+  # provided and returns the first rss url found
   Feedbag.find(url).select do |feed_url|
     url.include? URI(feed_url).host
-  end.first(1)
+  end.first
 end
 
-data = YAML.load_file('data.yml')
-@force = ARGV[0] == 'force'
+def update_blog?(blog, mode: :unlocked)
+  # we never update web archive blogs
+  return false if blog['url'].include?('web.archive.org')
+
+  case mode
+  when :unlocked then !blog.fetch('locked', true)
+  when :all      then true
+  when :norss    then blog['rss'].nil?
+  end
+end
+
+data = options[:categories].each.with_object({}) do |category, data|
+  data[category] = YAML.load_file(category)
+end
 
 Async do |task|
   barrier = Async::Barrier.new
@@ -37,13 +85,17 @@ Async do |task|
     puts "\nQuerying category: #{category}"
     new_data[category] = blogs.map do |blog|
       semaphore.async do
-        rss_links = if @force
-                      feedsearch(blog['url'])
-                    else
-                      blog['rss']&.any? ? blog['rss'] : feedsearch(blog['url'])
-                    end
+        rss_link = blog['rss']
+        if update_blog?(blog, mode: options[:force])
+          rss_link = feedsearch(blog['url'])
+        end
 
-        blog.merge('rss' => rss_links)
+        locked = blog['locked']
+        if update_blog?(blog) && rss_link
+          locked = true
+        end
+
+        blog.merge('rss' => rss_link, 'locked' => locked)
       end
     end
   end
@@ -54,7 +106,9 @@ Async do |task|
     values.map(&:result)
   end
 
-  File.open('data.yml', 'wb') { |f| f.write result.to_yaml }
+  result.each do |category, blogs|
+    File.open(category, "wb") { |f| f.write blogs.to_yaml }
+  end
 ensure
   barrier&.stop
 end
