@@ -15,6 +15,12 @@ def build_links(data)
       end
 end
 
+# Refresh OPML files
+
+`bin/build_opmls`
+
+# Build README
+
 yaml = Dir.glob('data/**').each.with_object({}) do |file, data|
   data[file] = YAML.load_file(file)
 end
@@ -30,29 +36,35 @@ File.open('README.md', 'wb') do |f|
   }
 
   f.write format(<<~README, **category_lists)
-    # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+    # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/all.opml)
 
     > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
     > Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs)
 
     ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
 
-    ## Newsletter
+    ## Newsletter [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/newsletter.opml)
+
     %{newsletter}
 
-    ## Social news aggregation
+    ## Social news aggregation [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/social_news_aggregation.opml)
+
     %{social_news_aggregation}
 
-    ## Community
+    ## Community [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/community.opml)
+
     %{community}
 
-    ## Personal
+    ## Personal [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/personal.opml)
+
     %{personal}
 
-    ## Company
+    ## Company [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/company.opml)
+
     %{company}
 
-    ## Other Awesome Ruby (and blogs) Lists
+    ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
+
     %{other}
 
     ## Contribution Guidelines

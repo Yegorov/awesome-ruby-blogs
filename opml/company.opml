@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Subscriptions</title>
+    <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
+    <dateModified>Sun, 31 Aug 2025 08:49:33 +1200</dateModified>
+  </head>
+  <body>
+    <outline text='Awesome Ruby Blogs: company'>
+      <outline type='rss' text='37signals' xmlUrl='https://dev.37signals.com/feed/posts.xml'/>
+      <outline type='rss' text='8th Light' xmlUrl='https://8thlight.com/insights/feed/rss.xml'/>
+      <outline type='rss' text='Aha!' xmlUrl='https://www.aha.io/blog/feed.xml'/>
+      <outline type='rss' text='Airbrake' xmlUrl='https://blog.airbrake.io/rss.xml'/>
+      <outline type='rss' text='Alchemists' xmlUrl='https://www.alchemists.io/feeds/news.xml'/>
+      <outline type='rss' text='Appfolio Engineering' xmlUrl='https://engineering.appfolio.com/appfolio-engineering?format=rss'/>
+      <outline type='rss' text='AppSignal' xmlUrl='https://blog.appsignal.com/category/ruby-magic-feed.xml'/>
+      <outline type='rss' text='Arkency' xmlUrl='https://blog.arkency.com/feed.xml'/>
+      <outline type='rss' text='Bacancy' xmlUrl='https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35'/>
+      <outline type='rss' text='Bemi' xmlUrl='https://blog.bemi.io/rss/'/>
+      <outline type='rss' text='BigBinary' xmlUrl='https://www.bigbinary.com/blog/feed.xml'/>
+      <outline type='rss' text='BoTree Technologies' xmlUrl='https://www.botreetechnologies.com/blog/feed/'/>
+      <outline type='rss' text='Brainspec' xmlUrl='http://brainspec.com/blog/atom.xml'/>
+      <outline type='rss' text='Census' xmlUrl='https://census.dev/blog?format=rss'/>
+      <outline type='rss' text='Codemancers' xmlUrl='https://www.codemancers.com/rss.xml'/>
+      <outline type='rss' text='Codeminer 42' xmlUrl='https://blog.codeminer42.com/feed/'/>
+      <outline type='rss' text='Codica' xmlUrl='https://www.codica.com/rss.xml'/>
+      <outline type='rss' text='Collective Idea' xmlUrl='https://collectiveidea.com/blog/feed/'/>
+      <outline type='rss' text='Cookpad' xmlUrl='https://sourcediving.com/feed'/>
+      <outline type='rss' text='Cycode (Old Bearer)' xmlUrl='https://cycode.com/feed/'/>
+      <outline type='rss' text='Decode Fix' xmlUrl='https://decodefix.com/feed/'/>
+      <outline type='rss' text='DotRuby' xmlUrl='https://www.dotruby.com/articles.atom'/>
+      <outline type='rss' text='Engine Yard' xmlUrl='https://www.engineyard.com/blog/tag/ruby-on-rails/feed/'/>
+      <outline type='rss' text='Evil Martians' xmlUrl='https://evilmartians.com/chronicles.atom'/>
+      <outline type='rss' text='Fast Ruby' xmlUrl='https://fastruby.io/blog/rss.xml'/>
+      <outline type='rss' text='FireHydrant' xmlUrl='https://firehydrant.com/rss.xml'/>
+      <outline type='rss' text='Fly.io' xmlUrl='https://fly.io/ruby-dispatch/feed.xml'/>
+      <outline type='rss' text='FreeAgent' xmlUrl='https://engineering.freeagent.com/feed/'/>
+      <outline type='rss' text='Getaround' xmlUrl='https://getaround.tech/feed.xml'/>
+      <outline type='rss' text='Good Enough' xmlUrl='https://goodenough.us/feed.xml'/>
+      <outline type='rss' text='Grab Tech' xmlUrl='https://engineering.grab.com/feed.xml'/>
+      <outline type='rss' text='Gusto' xmlUrl='https://engineering.gusto.com/feed'/>
+      <outline type='rss' text='Hashrocket' xmlUrl='https://hashrocket.com/blog.rss'/>
+      <outline type='rss' text='Heroku' xmlUrl='https://blog.heroku.com/feed/'/>
+      <outline type='rss' text='Honeybadger' xmlUrl='https://www.honeybadger.io/blog/feed.xml'/>
+      <outline type='rss' text='Hybrd' xmlUrl='https://hybrd.co/posts.atom'/>
+      <outline type='rss' text='Ideamotive' xmlUrl='https://www.ideamotive.co/blog/rss.xml'/>
+      <outline type='rss' text='Infinum' xmlUrl='https://infinum.com/blog/category/engineering/feed/'/>
+      <outline type='rss' text='JetRockets' xmlUrl='https://jetrockets.com/blog.rss'/>
+      <outline type='rss' text='JetRuby' xmlUrl='https://jetruby.com/feed/'/>
+      <outline type='rss' text='Judoscale' xmlUrl='https://judoscale.com/rss.xml'/>
+      <outline type='rss' text='Kiprosh' xmlUrl='https://blog.kiprosh.com/rss/'/>
+      <outline type='rss' text='Knapsack Pro' xmlUrl='https://docs.knapsackpro.com/feed.xml'/>
+      <outline type='rss' text='Learnetto' xmlUrl='https://learnetto.com/blog/rss'/>
+      <outline type='rss' text='ManageIQ' xmlUrl='http://manageiq.org/feed.xml'/>
+      <outline type='rss' text='Mintbit' xmlUrl='https://www.mintbit.com/feed.xml'/>
+      <outline type='rss' text='Mkdev' xmlUrl='https://mkdev.me/posts.atom'/>
+      <outline type='rss' text='Netguru' xmlUrl='https://www.netguru.com/blog/rss.xml'/>
+      <outline type='rss' text='Olio' xmlUrl='https://tech.olioex.com/feed.xml'/>
+      <outline type='rss' text='Ombu Labs' xmlUrl='https://www.ombulabs.com/blog/rss.xml'/>
+      <outline type='rss' text='Planet Argon' xmlUrl='https://blog.planetargon.com/blog/entries.rss'/>
+      <outline type='rss' text='PlanetScale' xmlUrl='https://planetscale.com/blog/feed.atom'/>
+      <outline type='rss' text='Plataformatec' xmlUrl='https://blog.plataformatec.com.br/feed/'/>
+      <outline type='rss' text='Prefab' xmlUrl='https://prefab.cloud/blog/rss.xml'/>
+      <outline type='rss' text='Qameta' xmlUrl='https://qameta.com/index.xml'/>
+      <outline type='rss' text='RailsCarma' xmlUrl='https://www.railscarma.com/feed/'/>
+      <outline type='rss' text='Railsware' xmlUrl='https://railsware.com/blog/feed/'/>
+      <outline type='rss' text='Rebased' xmlUrl='https://blog.rebased.pl/feed.xml'/>
+      <outline type='rss' text='RNDSOFT' xmlUrl='https://blog.rnds.pro/data/rss'/>
+      <outline type='rss' text='Ruby &amp; Elixir MobiDev Team Blog' xmlUrl='https://ruby.mobidev.biz/posts/index.xml'/>
+      <outline type='rss' text='RubyGarage' xmlUrl='https://rubygarage.org/blog.rss'/>
+      <outline type='rss' text='Rubyroid Labs' xmlUrl='https://rubyroidlabs.com/blog/feed/'/>
+      <outline type='rss' text='Saeloun' xmlUrl='https://blog.saeloun.com/feed.xml'/>
+      <outline type='rss' text='SerpApi' xmlUrl='https://serpapi.com/blog/rss/'/>
+      <outline type='rss' text='Simple Thread' xmlUrl='https://www.simplethread.com/feed/'/>
+      <outline type='rss' text='Sloboda Studio' xmlUrl='https://sloboda-studio.com/feed/rdf/'/>
+      <outline type='rss' text='Snyk' xmlUrl='https://snyk.io/blog/feed/'/>
+      <outline type='rss' text='Splitwise' xmlUrl='https://blog.splitwise.com/feed/'/>
+      <outline type='rss' text='Spritle' xmlUrl='https://www.spritle.com/blog/feed/'/>
+      <outline type='rss' text='Square' xmlUrl='https://developer.squareup.com/blog/rss.xml'/>
+      <outline type='rss' text='Super Good Software' xmlUrl='https://supergood.software/rss.xml'/>
+      <outline type='rss' text='The Dev Post (Truemark)' xmlUrl='https://www.thedevpost.com/feed/'/>
+      <outline type='rss' text='Tosbourn' xmlUrl='https://tosbourn.com/feed.xml'/>
+      <outline type='rss' text='Twilio' xmlUrl='https://www.twilio.com/sitemap.xml'/>
+      <outline type='rss' text='Vector Logic' xmlUrl='https://www.vector-logic.com/blog/posts.rss'/>
+      <outline type='rss' text='Wonolo' xmlUrl='https://engineeringblog.wonolo.com/tag/ruby/rss.xml'/>
+    </outline>
+  </body>
+</opml>
