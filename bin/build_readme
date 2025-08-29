@@ -20,7 +20,7 @@ yaml = Dir.glob('data/**').each.with_object({}) do |file, data|
 end
 
 File.open('README.md', 'wb') do |f|
-  tables = {
+  category_lists = {
     newsletter:              build_links(yaml['data/newsletter.yml']),
     social_news_aggregation: build_links(yaml['data/social_news_aggregation.yml']),
     community:               build_links(yaml['data/community.yml']),
@@ -29,7 +29,7 @@ File.open('README.md', 'wb') do |f|
     other:                   build_links(yaml['data/other.yml']),
   }
 
-  f.write format(<<~README, **tables)
+  f.write format(<<~README, **category_lists)
     # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
     > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
@@ -85,7 +85,7 @@ File.open('README.md', 'wb') do |f|
 
     **Optional fields:**
     - `rss`: RSS/Atom feed URL for the blog
-    - `locked`: Boolean to prevent automatic RSS updates (defaults to false for new entries)
+    - `locked`: Boolean to prevent automatic RSS updates. Set to false to individually pick which rss feed to query.
 
     #### Available Blog Categories
 
@@ -98,24 +98,7 @@ File.open('README.md', 'wb') do |f|
     * **`data/company.yml`** - Corporate engineering blogs and company publications
     * **`data/other.yml`** - Lists and resources that don't fit other categories
 
-    #### Blog Entry Management
-
-    **Locking Policy:**
-    - New blog entries are unlocked by default and can be automatically updated
-    - Entries become locked after their first successful RSS fetch to preserve stability
-    - Web archive entries are permanently locked and never updated automatically
-    - Locked entries can only be updated manually through pull requests
-
-    **RSS Feed Handling:**
-    - RSS feeds are automatically discovered and added when possible
-    - Only one RSS feed per blog is supported (arrays are not used)
-    - Web archive RSS feeds are removed as they're typically non-functional
-    - Missing RSS feeds can be added later using the `bin/fetch_rss` tool
-
-    **Web Archive Entries:**
-    - Blogs preserved via web.archive.org are marked with "(Web archive)" in the name
-    - These entries never have their RSS feeds updated automatically
-    - Web archive entries help preserve important historical Ruby content
+    Note, Web archive and GitHub entries are permanently locked and never updated automatically
 
     ## License
     [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

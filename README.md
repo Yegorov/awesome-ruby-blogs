@@ -613,14 +613,14 @@
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby)
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby)
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list)
-* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ([rss](https://github.com/atom/atom))
+* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 * [endymion1818/awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ([rss](https://github.com/davidesantangelo/api.rss))
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails)
 * [inputsh/awesome-blogs](https://github.com/inputsh/awesome-blogs)
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 * [learn-anything/blogs#ruby](https://github.com/learn-anything/blogs#ruby)
 * [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs)
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ([rss](https://github.com/kigster/simple-feed))
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
 * [okuramasafumi/awesome-ruby-articles](https://github.com/okuramasafumi/awesome-ruby-articles)
 * [pgilad/awesome-blogs](https://github.com/pgilad/awesome-blogs)
 * [Planet Argon - 2020 Ruby on Rails Community Survey Results](https://rails-hosting.com/2020/#learning)
@@ -657,7 +657,7 @@ Each blog entry should follow this YAML structure:
 
 **Optional fields:**
 - `rss`: RSS/Atom feed URL for the blog
-- `locked`: Boolean to prevent automatic RSS updates (defaults to false for new entries)
+- `locked`: Boolean to prevent automatic RSS updates. Set to false to individually pick which rss feed to query.
 
 #### Available Blog Categories
 
@@ -670,24 +670,7 @@ Choose the most appropriate category for your blog:
 * **`data/company.yml`** - Corporate engineering blogs and company publications
 * **`data/other.yml`** - Lists and resources that don't fit other categories
 
-#### Blog Entry Management
-
-**Locking Policy:**
-- New blog entries are unlocked by default and can be automatically updated
-- Entries become locked after their first successful RSS fetch to preserve stability
-- Web archive entries are permanently locked and never updated automatically
-- Locked entries can only be updated manually through pull requests
-
-**RSS Feed Handling:**
-- RSS feeds are automatically discovered and added when possible
-- Only one RSS feed per blog is supported (arrays are not used)
-- Web archive RSS feeds are removed as they're typically non-functional
-- Missing RSS feeds can be added later using the `bin/fetch_rss` tool
-
-**Web Archive Entries:**
-- Blogs preserved via web.archive.org are marked with "(Web archive)" in the name
-- These entries never have their RSS feeds updated automatically
-- Web archive entries help preserve important historical Ruby content
+Note, Web archive and GitHub entries are permanently locked and never updated automatically
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

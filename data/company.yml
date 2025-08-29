@@ -1,513 +1,333 @@
 ---
 - name: 2n
   url: https://www.2n.pl/blog?tag=ruby
-  rss:
-  locked: true
 - name: 37signals
   url: https://dev.37signals.com/
   rss: https://dev.37signals.com/feed/posts.xml
-  locked: true
 - name: 8th Light
   url: https://8thlight.com/insights/
   rss: https://8thlight.com/insights/feed/rss.xml
-  locked: true
 - name: AbstractBrain
   url: https://answers.abstractbrain.com/
-  rss:
-  locked: true
 - name: Acuments
   url: https://acuments.com/blog.html
-  rss:
-  locked: true
 - name: Aha!
   url: https://www.aha.io/engineering
   rss: https://www.aha.io/blog/feed.xml
-  locked: true
 - name: Airbrake
   url: https://blog.airbrake.io/
   rss: https://blog.airbrake.io/rss.xml
-  locked: true
 - name: Alchemists
   url: https://www.alchemists.io/articles/
   rss: https://www.alchemists.io/feeds/news.xml
-  locked: true
 - name: Appfolio Engineering
   url: https://engineering.appfolio.com/
   rss: https://engineering.appfolio.com/appfolio-engineering?format=rss
-  locked: true
 - name: AppSignal
   url: https://blog.appsignal.com/category/ruby-magic.html
   rss: https://blog.appsignal.com/category/ruby-magic-feed.xml
-  locked: true
 - name: Arkency
   url: https://blog.arkency.com/
   rss: https://blog.arkency.com/feed.xml
-  locked: true
 - name: Bacancy
   url: https://www.bacancytechnology.com/blog/ruby-on-rails/
   rss: https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35
-  locked: true
 - name: Bemi
   url: https://blog.bemi.io/
   rss: https://blog.bemi.io/rss/
-  locked: true
 - name: BigBinary
   url: https://www.bigbinary.com/blog
   rss: https://www.bigbinary.com/blog/feed.xml
-  locked: true
 - name: BootrAils (Web archive)
   url: https://web.archive.org/web/20231206233411/https://www.bootrails.com/blog/
-  rss:
-  locked: true
 - name: BoTree Technologies
   url: https://www.botreetechnologies.com/blog/category/technology/ruby-on-rails/
   rss: https://www.botreetechnologies.com/blog/feed/
-  locked: true
 - name: Brainspec
   url: http://brainspec.com/blog/
   rss: http://brainspec.com/blog/atom.xml
-  locked: true
 - name: Carbonfive
   url: https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/
-  rss:
-  locked: true
 - name: Census
   url: https://census.dev/
   rss: https://census.dev/blog?format=rss
-  locked: true
 - name: Chaps (Web archive)
   url: http://web.archive.org/web/20211127030701/https://blog.chaps.io/
-  rss:
-  locked: true
 - name: Cloud 66
   url: https://blog.cloud66.com/
-  rss:
-  locked: true
 - name: CloudBees (Old CodeShip, Rollout)
   url: https://www.cloudbees.com/blog
-  rss:
-  locked: true
 - name: Codemancers
   url: https://www.codemancers.com/blog/?tag=rails
   rss: https://www.codemancers.com/rss.xml
-  locked: true
 - name: Codeminer 42
   url: https://blog.codeminer42.com/
   rss: https://blog.codeminer42.com/feed/
-  locked: true
 - name: Codica
   url: https://www.codica.com/blog/
   rss: https://www.codica.com/rss.xml
-  locked: true
 - name: Collective Idea
   url: https://collectiveidea.com/blog/labels/rails/
   rss: https://collectiveidea.com/blog/feed/
-  locked: true
 - name: Cookpad
   url: https://sourcediving.com/tagged/ruby
   rss: https://sourcediving.com/feed
-  locked: true
 - name: Cycode (Old Bearer)
   url: https://cycode.com/blog/
   rss: https://cycode.com/feed/
-  locked: true
 - name: Datarockets
   url: https://datarockets.com/blog/
-  rss:
-  locked: true
 - name: Decode Fix
   url: https://decodefix.com/tag/ruby/
   rss: https://decodefix.com/feed/
-  locked: true
 - name: DeepSource
   url: https://deepsource.com/blog
-  rss:
-  locked: true
 - name: DotRuby
   url: https://www.dotruby.com/articles
   rss: https://www.dotruby.com/articles.atom
-  locked: true
 - name: Doximity
   url: https://technology.doximity.com/sitemaps
-  rss:
-  locked: true
 - name: Engine Yard
   url: https://www.engineyard.com/blog/tag/ruby-on-rails/
   rss: https://www.engineyard.com/blog/tag/ruby-on-rails/feed/
-  locked: true
 - name: Evil Martians
   url: https://evilmartians.com/chronicles
   rss: https://evilmartians.com/chronicles.atom
-  locked: true
 - name: Faster Than Light
   url: https://fasterthanlight.me/blog
-  rss:
-  locked: true
 - name: Fast Ruby
   url: https://www.fastruby.io/blog
   rss: https://fastruby.io/blog/rss.xml
-  locked: true
 - name: Featurist
   url: https://archive.featurist.co.uk/blog/
-  rss:
-  locked: true
 - name: FireHydrant
   url: https://firehydrant.com/blog/
   rss: https://firehydrant.com/rss.xml
-  locked: true
 - name: Fly.io
   url: https://fly.io/ruby-dispatch/
   rss: https://fly.io/ruby-dispatch/feed.xml
-  locked: true
 - name: FreeAgent
   url: https://engineering.freeagent.com/tag/ruby/
   rss: https://engineering.freeagent.com/feed/
-  locked: true
 - name: Getaround
   url: https://getaround.tech/
   rss: https://getaround.tech/feed.xml
-  locked: true
 - name: Good Enough
   url: https://goodenough.us/blog/
   rss: https://goodenough.us/feed.xml
-  locked: true
 - name: Grab Tech
   url: https://engineering.grab.com/tags#ruby
   rss: https://engineering.grab.com/feed.xml
-  locked: true
 - name: Gurzu
   url: https://gurzu.com/blog/
-  rss:
-  locked: true
 - name: Gusto
   url: https://engineering.gusto.com/tagged/ruby-on-rails
   rss: https://engineering.gusto.com/feed
-  locked: true
 - name: Hashrocket
   url: https://hashrocket.com/blog/tags/ruby
   rss: https://hashrocket.com/blog.rss
-  locked: true
 - name: Heroku
   url: https://blog.heroku.com/
   rss: https://blog.heroku.com/feed/
-  locked: true
 - name: Hint (Web archive)
   url: https://web.archive.org/web/20230129054448/https://hint.io/blog
-  rss:
-  locked: true
 - name: Hix on Rails (Web archive)
   url: http://web.archive.org/web/20221126215144/https://hixonrails.com/ruby-on-rails-tutorials/
-  rss:
-  locked: true
 - name: Honeybadger
   url: https://www.honeybadger.io/blog/
   rss: https://www.honeybadger.io/blog/feed.xml
-  locked: true
 - name: Hybrd
   url: https://hybrd.co/posts
   rss: https://hybrd.co/posts.atom
-  locked: true
 - name: Icelab
   url: https://www.icelab.com.au/notes
-  rss:
-  locked: true
 - name: Ideamotive
   url: https://www.ideamotive.co/blog
   rss: https://www.ideamotive.co/blog/rss.xml
-  locked: true
 - name: Infinum
   url: https://infinum.com/blog/category/engineering/
   rss: https://infinum.com/blog/category/engineering/feed/
-  locked: true
 - name: iRonin.IT
   url: https://www.ironin.it/blog.html
-  rss:
-  locked: true
 - name: JetRockets
   url: https://jetrockets.com/blog
   rss: https://jetrockets.com/blog.rss
-  locked: true
 - name: JetRuby
   url: https://jetruby.com/blog/
   rss: https://jetruby.com/feed/
-  locked: true
 - name: JetThoughts
   url: https://jetthoughts.com/blog/
-  rss:
-  locked: true
 - name: Judoscale
   url: https://judoscale.com/blog
   rss: https://judoscale.com/rss.xml
-  locked: true
 - name: Kiprosh
   url: https://blog.kiprosh.com/tag/ruby/
   rss: https://blog.kiprosh.com/rss/
-  locked: true
 - name: Knapsack Pro
   url: https://docs.knapsackpro.com/blog/
   rss: https://docs.knapsackpro.com/feed.xml
-  locked: true
 - name: Learnetto
   url: https://learnetto.com/blog
   rss: https://learnetto.com/blog/rss
-  locked: true
 - name: Lunar Logic
   url: https://blog.lunarlogic.com/tags/ruby/
-  rss:
-  locked: true
 - name: ManageIQ
   url: https://www.manageiq.org/blog/tags/ruby/
   rss: http://manageiq.org/feed.xml
-  locked: true
 - name: Microverse
   url: https://www.microverse.org/blog-categories/ruby-on-rails
-  rss:
-  locked: true
 - name: Mintbit
   url: https://www.mintbit.com/blog/
   rss: https://www.mintbit.com/feed.xml
-  locked: true
 - name: Mkdev
   url: https://mkdev.me/posts
   rss: https://mkdev.me/posts.atom
-  locked: true
 - name: mmtm
   url: https://mmtm.io/articles/page/1/
-  rss:
-  locked: true
 - name: Monterail
   url: https://www.monterail.com/blog/topic/ruby-rails
-  rss:
-  locked: true
 - name: Nebulab
   url: https://nebulab.com/blog/tags/ruby-on-rails
-  rss:
-  locked: true
 - name: Netguru
   url: https://www.netguru.com/blog/topic/ruby
   rss: https://www.netguru.com/blog/rss.xml
-  locked: true
 - name: Netskin
   url: https://www.netskin.com/posts
-  rss:
-  locked: true
 - name: Nopio
   url: https://www.nopio.com/category/ruby-on-rails/
-  rss:
-  locked: true
 - name: Olio
   url: https://tech.olioex.com/
   rss: https://tech.olioex.com/feed.xml
-  locked: true
 - name: Ombu Labs
   url: https://www.ombulabs.com/blog
   rss: https://www.ombulabs.com/blog/rss.xml
-  locked: true
 - name: Planet Argon
   url: https://blog.planetargon.com/blog
   rss: https://blog.planetargon.com/blog/entries.rss
-  locked: true
 - name: PlanetScale
   url: https://planetscale.com/blog
   rss: https://planetscale.com/blog/feed.atom
-  locked: true
 - name: Plataformatec
   url: https://blog.plataformatec.com.br/tag/rails/
   rss: https://blog.plataformatec.com.br/feed/
-  locked: true
 - name: Prefab
   url: https://prefab.cloud/blog/
   rss: https://prefab.cloud/blog/rss.xml
-  locked: true
 - name: Primevise
   url: https://primevise.com/blog
-  rss:
-  locked: true
 - name: Prograils
   url: https://prograils.com/by_tag/ruby
-  rss:
-  locked: true
 - name: Qameta
   url: https://qameta.com/posts/
   rss: https://qameta.com/index.xml
-  locked: true
 - name: RailsCarma
   url: https://www.railscarma.com/blog/
   rss: https://www.railscarma.com/feed/
-  locked: true
 - name: RailsForge
   url: https://blog.railsforgedev.com/
-  rss:
-  locked: true
 - name: RailsReviews
   url: https://www.railsreviews.com/articles
-  rss:
-  locked: true
 - name: Railsware
   url: https://railsware.com/blog/
   rss: https://railsware.com/blog/feed/
-  locked: true
 - name: Rebased
   url: https://blog.rebased.pl/
   rss: https://blog.rebased.pl/feed.xml
-  locked: true
 - name: Red Hat
   url: https://developers.redhat.com/topics/ruby/all
-  rss:
-  locked: true
 - name: Reintech
   url: https://reintech.io/blog?technology=ruby
-  rss:
-  locked: true
 - name: Reinteractive
   url: https://reinteractive.com/articles/index?category=rails
-  rss:
-  locked: true
 - name: RNDSOFT
   url: https://blog.rnds.pro/
   rss: https://blog.rnds.pro/data/rss
-  locked: true
 - name: Rootstrap
   url: https://www.rootstrap.com/blog
-  rss:
-  locked: true
 - name: Ruby & Elixir MobiDev Team Blog
   url: https://ruby.mobidev.biz/posts/
   rss: https://ruby.mobidev.biz/posts/index.xml
-  locked: true
 - name: RubyGarage
   url: https://rubygarage.org/blog
   rss: https://rubygarage.org/blog.rss
-  locked: true
 - name: Rubyroid Labs
   url: https://rubyroidlabs.com/blog/category/ror-web-dev/
   rss: https://rubyroidlabs.com/blog/feed/
-  locked: true
 - name: Saeloun
   url: https://blog.saeloun.com/
   rss: https://blog.saeloun.com/feed.xml
-  locked: true
 - name: Scout
   url: https://scoutapm.com/blog
-  rss:
-  locked: true
 - name: Scriptday
   url: https://scriptday.com/blog/
-  rss:
-  locked: true
 - name: Selleo
   url: https://selleo.com/blog/tag/ruby
-  rss:
-  locked: true
 - name: Semaphore
   url: https://semaphoreci.com/blog
-  rss:
-  locked: true
 - name: SerpApi
   url: https://serpapi.com/blog/tag/ruby/
   rss: https://serpapi.com/blog/rss/
-  locked: true
 - name: ShakaCode
   url: https://www.shakacode.com/blog/ruby/
-  rss:
-  locked: true
 - name: Shopify
   url: https://shopify.engineering
-  rss:
-  locked: true
 - name: Simple Thread
   url: https://www.simplethread.com/tag/rails/
   rss: https://www.simplethread.com/feed/
-  locked: true
 - name: SINAPTIA
   url: https://sinaptia.dev/blog/
-  rss:
-  locked: true
 - name: Sloboda Studio
   url: https://sloboda-studio.com/
   rss: https://sloboda-studio.com/feed/rdf/
-  locked: true
 - name: Snyk
   url: https://snyk.io/blog/
   rss: https://snyk.io/blog/feed/
-  locked: true
 - name: Splitwise
   url: https://blog.splitwise.com/
   rss: https://blog.splitwise.com/feed/
-  locked: true
 - name: Spritle
   url: https://www.spritle.com/blog/category/ruby/
   rss: https://www.spritle.com/blog/feed/
-  locked: true
 - name: Sqreen (Web archive)
   url: https://web.archive.org/web/20230526152638/https://blog.sqreen.com/category/ruby-on-rails/
-  rss:
-  locked: true
 - name: Square
   url: https://developer.squareup.com/blog/archive/tags/ruby/
   rss: https://developer.squareup.com/blog/rss.xml
-  locked: true
 - name: Super Good Software
   url: https://supergood.software/blog/
   rss: https://supergood.software/rss.xml
-  locked: true
 - name: Svitla Systems
   url: https://svitla.com/blog/
-  rss:
-  locked: true
 - name: Syndicode
   url: https://syndicode.com/blog/
-  rss:
-  locked: true
 - name: Telos Labs
   url: https://www.teloslabs.co/blog
-  rss:
-  locked: true
 - name: Terminalwire
   url: https://terminalwire.com/articles
-  rss:
-  locked: true
 - name: Test Double
   url: https://testdouble.com/insights
-  rss:
-  locked: true
 - name: The Codest
   url: https://thecodest.co/blog/
-  rss:
-  locked: true
 - name: The Dev Post (Truemark)
   url: https://www.thedevpost.com/
   rss: https://www.thedevpost.com/feed/
-  locked: true
 - name: Thoughtbot
   url: https://thoughtbot.com/blog
-  rss:
-  locked: true
 - name: Toptal
   url: https://www.toptal.com/developers/blog/back-end
-  rss:
-  locked: true
 - name: Tosbourn
   url: https://tosbourn.com/ruby/
   rss: https://tosbourn.com/feed.xml
-  locked: true
 - name: Twilio
   url: https://www.twilio.com/en-us/blog
   rss: https://www.twilio.com/sitemap.xml
-  locked: true
 - name: Varvet (Web archive)
   url: https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/
-  rss:
-  locked: true
 - name: Vector Logic
   url: https://www.vector-logic.com/blog/posts
   rss: https://www.vector-logic.com/blog/posts.rss
-  locked: true
 - name: Visuality
   url: https://www.visuality.pl/posts
-  rss:
-  locked: true
 - name: Wonolo
   url: https://engineeringblog.wonolo.com/tag/ruby
   rss: https://engineeringblog.wonolo.com/tag/ruby/rss.xml
-  locked: true

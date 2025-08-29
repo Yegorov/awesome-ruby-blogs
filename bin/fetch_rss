@@ -17,16 +17,12 @@ require "async/semaphore"
 require "feedbag"
 require 'optparse'
 
-# Parse CLI options
-options = {
-  # By default only unlocked blogs will be fetched, but we can force fetching all the blogs or only the ones without rss feed
-  force: :unlocked,
-  # By default we do not fetch any file
-  categories: []
-}
+# === PARSE CLI OPTIONS ===
+
+options = { force: :unlocked, categories: [] } # Default CLI options
 
 parser = OptionParser.new do |opts|
-  opts.banner = "Usage: myscript.rb [options] data_file1 data_file2 ..."
+  opts.banner = "Usage: bin/fetch_rss [options] data_file1 data_file2 ..."
 
   opts.on("--force MODE", [:all, :norss, :unlocked], "Force mode (all, norss, unlocked) Default: unlocked") do |mode|
     options[:force] = mode
@@ -38,11 +34,9 @@ parser = OptionParser.new do |opts|
   end
 end
 
-# Parse options first
-parser.order!(ARGV)
+parser.order!(ARGV)         # Parse options first
+options[:categories] = ARGV # Remaining arguments are categories
 
-# Remaining arguments are categories
-options[:categories] = ARGV
 unless options[:categories].any?
   puts <<~OUTPUT
 
@@ -51,6 +45,8 @@ unless options[:categories].any?
   OUTPUT
   exit 1
 end
+
+# === HELPER METHODS ===
 
 def feedsearch(url)
   print "."
@@ -63,15 +59,18 @@ def feedsearch(url)
 end
 
 def update_blog?(blog, mode: :unlocked)
-  # we never update web archive blogs
+  # Never update web archive blogs and github links
   return false if blog['url'].include?('web.archive.org')
+  return false if blog['url'].include?('github.com')
 
   case mode
-  when :unlocked then !blog.fetch('locked', true)
+  when :unlocked then !blog.fetch('locked', true) # blog entries are all locked by default unless specified
   when :all      then true
   when :norss    then blog['rss'].nil?
   end
 end
+
+# === SEARCH FOR RSS FEEDS ===
 
 data = options[:categories].each.with_object({}) do |category, data|
   data[category] = YAML.load_file(category)
@@ -91,11 +90,11 @@ Async do |task|
         end
 
         locked = blog['locked']
-        if update_blog?(blog) && rss_link
-          locked = true
+        if blog.key?('locked') && rss_link
+          locked = nil
         end
 
-        blog.merge('rss' => rss_link, 'locked' => locked)
+        blog.merge('rss' => rss_link, 'locked' => locked).compact
       end
     end
   end

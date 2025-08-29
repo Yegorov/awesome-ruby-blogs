@@ -20,7 +20,7 @@ bin/fetch_rss --force norss data/company.yml data/personal.yml
 ```
 
 Available force modes:
-- `unlocked` (default): Only update unlocked entries
+- `unlocked` (default): Only update unlocked entries. Allows fine grained search on specific blog entries.
 - `all`: Update all entries regardless of lock status
 - `norss`: Update only entries that don't have RSS feeds
 

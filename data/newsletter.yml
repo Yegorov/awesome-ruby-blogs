@@ -2,76 +2,52 @@
 - name: Awesome Ruby Newsletter
   url: https://ruby.libhunt.com/newsletter
   rss: https://ruby.libhunt.com/newsletter/feed
-  locked: true
 - name: FastRuby newsletter
   url: https://www.fastruby.io/newsletter
-  rss:
-  locked: true
 - name: Full Stack Ruby on Rails Weekly Bookmarks
   url: https://dcyoungdev.substack.com/
   rss: https://dcyoungdev.substack.com/feed
-  locked: true
 - name: Joe Masilotti's newsletter
   url: https://masilotti.com/newsletter/
   rss: https://masilotti.com/feed.xml
-  locked: true
 - name: One Ruby Thing
   url: https://andycroll.com/ruby
   rss: https://andycroll.com/index.xml
-  locked: true
 - name: Ruby Biscuit
   url: https://www.rubybiscuit.fr/
   rss: https://www.rubybiscuit.fr/feed
-  locked: true
 - name: RubyCademy's Newsletter
   url: https://newsletter.rubycademy.com/
-  rss:
-  locked: true
 - name: Ruby Daily
   url: https://rubydaily.org/
   rss: https://rubydaily.org/feeds_subdomain/RubyDaily/
-  locked: true
 - name: RubyFlow
   url: https://rubyflow.com/
   rss: https://rubyflow.com/rss
-  locked: true
 - name: Rubyland
   url: https://rubyland.news/
   rss: https://rubyland.news/feed.rss
-  locked: true
 - name: Ruby on Rails - Monthly
   url: https://sajjadumar.substack.com/
   rss: https://sajjadumar.substack.com/feed
-  locked: true
 - name: Ruby Weekly
   url: https://rubyweekly.com/
   rss: https://rubyweekly.com/rss/
-  locked: true
 - name: Ruby weekly newsletter (discu.eu)
   url: https://discu.eu/weekly/ruby/
-  rss:
-  locked: true
 - name: Short Ruby Newsletter
   url: https://newsletter.shortruby.com/
-  rss:
-  locked: true
 - name: The Code Gardener
   url: https://the.codegardener.com/
   rss: https://the.codegardener.com/rss/
-  locked: true
 - name: The RailsNotes Newsletter
   url: https://railsnotes.xyz/newsletter
   rss: https://railsnotes.xyz/feed.xml
-  locked: true
 - name: This week in Rails
   url: https://rails-weekly.ongoodbits.com/
   rss: https://rails-weekly.ongoodbits.com/feed
-  locked: true
 - name: Trailblazer newsletter
   url: https://trailblazer.to/2.0/newsletter.html
-  rss:
-  locked: true
 - name: Women On Rails Newsletter
   url: https://womenonrailsinternational.substack.com/
   rss: https://womenonrailsinternational.substack.com/feed
-  locked: true
