@@ -1,0 +1,107 @@
+#!/usr/bin/env ruby
+require "yaml"
+
+def build_links(data)
+  data.sort_by { |blog| blog['name'].to_s.downcase }
+      .reduce("") do |result, blog|
+        result += format("* [%<name>s](%<url>s)",
+          name: blog['name'].to_s.gsub("|", "-"),
+          url: blog['url'],
+        )
+        if blog['rss']
+          result += format(" ([rss](%<rss>s))", rss: blog['rss'])
+        end
+        result += "\n"
+      end
+end
+
+yaml = Dir.glob('data/**').each.with_object({}) do |file, data|
+  data[file] = YAML.load_file(file)
+end
+
+File.open('README.md', 'wb') do |f|
+  category_lists = {
+    newsletter:              build_links(yaml['data/newsletter.yml']),
+    social_news_aggregation: build_links(yaml['data/social_news_aggregation.yml']),
+    community:               build_links(yaml['data/community.yml']),
+    personal:                build_links(yaml['data/personal.yml']),
+    company:                 build_links(yaml['data/company.yml']),
+    other:                   build_links(yaml['data/other.yml']),
+  }
+
+  f.write format(<<~README, **category_lists)
+    # Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+    > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
+    > Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs)
+
+    ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
+
+    ## Newsletter
+    %{newsletter}
+
+    ## Social news aggregation
+    %{social_news_aggregation}
+
+    ## Community
+    %{community}
+
+    ## Personal
+    %{personal}
+
+    ## Company
+    %{company}
+
+    ## Other Awesome Ruby (and blogs) Lists
+    %{other}
+
+    ## Contribution Guidelines
+
+    * Please search previous suggestions before making a new one, as yours may be a duplicate.
+    * If the blog has many articles, choose the link with `Ruby` / `Rails` category ( or tag).
+    * Feel free for send pull request!
+
+    ### Link a blog to Awesome Ruby blogs
+
+    1. **Fork** this repository.
+    2. **Edit** the appropriate data file by adding your blog's details. Be sure to place it under the most appropriate category.
+    3. **Run** `bin/build_readme` to regenerate the `README.md` with your new entry.
+    4. **Commit** your changes and open a pull request against the `master` branch.
+
+    #### Data Structure
+
+    Each blog entry should follow this YAML structure:
+
+    ```yaml
+    - name: Blog Name
+      url: https://example.com/blog
+      rss: https://example.com/feed.xml  # Optional RSS feed URL
+      locked: true  # Optional: prevents automatic updates (see Locking Policy)
+    ```
+
+    **Required fields:**
+    - `name`: The display name of the blog
+    - `url`: The URL to the blog or blog category page
+
+    **Optional fields:**
+    - `rss`: RSS/Atom feed URL for the blog
+    - `locked`: Boolean to prevent automatic RSS updates. Set to false to individually pick which rss feed to query.
+
+    #### Available Blog Categories
+
+    Choose the most appropriate category for your blog:
+
+    * **`data/newsletter.yml`** - Ruby newsletters and weekly digests
+    * **`data/social_news_aggregation.yml`** - Social platforms and news aggregators
+    * **`data/community.yml`** - Open source projects, frameworks, and community blogs
+    * **`data/personal.yml`** - Individual developer blogs and personal sites
+    * **`data/company.yml`** - Corporate engineering blogs and company publications
+    * **`data/other.yml`** - Lists and resources that don't fit other categories
+
+    Note, Web archive and GitHub entries are permanently locked and never updated automatically
+
+    ## License
+    [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+  README
+end

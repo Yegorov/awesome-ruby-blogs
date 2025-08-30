@@ -1,0 +1,24 @@
+---
+- name: daily.dev
+  url: https://app.daily.dev/search?q=rails
+- name: Dev.to Ruby
+  url: https://dev.to/t/ruby
+- name: DevZone (Old Codeguida)
+  url: https://devzone.org.ua/tag/ruby
+  rss: https://devzone.org.ua/feed/tag/ruby
+- name: Habr Ruby
+  url: https://habr.com/ru/hubs/ruby/articles/
+  rss: https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru
+- name: Hashnode ruby
+  url: https://hashnode.com/n/ruby
+- name: Hashnode rubyonrails
+  url: https://hashnode.com/n/rubyonrails
+- name: Mastodon ruby.social
+  url: https://ruby.social/explore
+- name: Medium Ruby
+  url: https://medium.com/tag/ruby
+  rss: https://medium.com/sitemap/sitemap.xml
+- name: Reddit Ruby
+  url: https://www.reddit.com/r/ruby/
+- name: RubyNews
+  url: https://ruby.news/

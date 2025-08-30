@@ -1,0 +1,333 @@
+---
+- name: 2n
+  url: https://www.2n.pl/blog?tag=ruby
+- name: 37signals
+  url: https://dev.37signals.com/
+  rss: https://dev.37signals.com/feed/posts.xml
+- name: 8th Light
+  url: https://8thlight.com/insights/
+  rss: https://8thlight.com/insights/feed/rss.xml
+- name: AbstractBrain
+  url: https://answers.abstractbrain.com/
+- name: Acuments
+  url: https://acuments.com/blog.html
+- name: Aha!
+  url: https://www.aha.io/engineering
+  rss: https://www.aha.io/blog/feed.xml
+- name: Airbrake
+  url: https://blog.airbrake.io/
+  rss: https://blog.airbrake.io/rss.xml
+- name: Alchemists
+  url: https://www.alchemists.io/articles/
+  rss: https://www.alchemists.io/feeds/news.xml
+- name: Appfolio Engineering
+  url: https://engineering.appfolio.com/
+  rss: https://engineering.appfolio.com/appfolio-engineering?format=rss
+- name: AppSignal
+  url: https://blog.appsignal.com/category/ruby-magic.html
+  rss: https://blog.appsignal.com/category/ruby-magic-feed.xml
+- name: Arkency
+  url: https://blog.arkency.com/
+  rss: https://blog.arkency.com/feed.xml
+- name: Bacancy
+  url: https://www.bacancytechnology.com/blog/ruby-on-rails/
+  rss: https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35
+- name: Bemi
+  url: https://blog.bemi.io/
+  rss: https://blog.bemi.io/rss/
+- name: BigBinary
+  url: https://www.bigbinary.com/blog
+  rss: https://www.bigbinary.com/blog/feed.xml
+- name: BootrAils (Web archive)
+  url: https://web.archive.org/web/20231206233411/https://www.bootrails.com/blog/
+- name: BoTree Technologies
+  url: https://www.botreetechnologies.com/blog/category/technology/ruby-on-rails/
+  rss: https://www.botreetechnologies.com/blog/feed/
+- name: Brainspec
+  url: http://brainspec.com/blog/
+  rss: http://brainspec.com/blog/atom.xml
+- name: Carbonfive
+  url: https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/
+- name: Census
+  url: https://census.dev/
+  rss: https://census.dev/blog?format=rss
+- name: Chaps (Web archive)
+  url: http://web.archive.org/web/20211127030701/https://blog.chaps.io/
+- name: Cloud 66
+  url: https://blog.cloud66.com/
+- name: CloudBees (Old CodeShip, Rollout)
+  url: https://www.cloudbees.com/blog
+- name: Codemancers
+  url: https://www.codemancers.com/blog/?tag=rails
+  rss: https://www.codemancers.com/rss.xml
+- name: Codeminer 42
+  url: https://blog.codeminer42.com/
+  rss: https://blog.codeminer42.com/feed/
+- name: Codica
+  url: https://www.codica.com/blog/
+  rss: https://www.codica.com/rss.xml
+- name: Collective Idea
+  url: https://collectiveidea.com/blog/labels/rails/
+  rss: https://collectiveidea.com/blog/feed/
+- name: Cookpad
+  url: https://sourcediving.com/tagged/ruby
+  rss: https://sourcediving.com/feed
+- name: Cycode (Old Bearer)
+  url: https://cycode.com/blog/
+  rss: https://cycode.com/feed/
+- name: Datarockets
+  url: https://datarockets.com/blog/
+- name: Decode Fix
+  url: https://decodefix.com/tag/ruby/
+  rss: https://decodefix.com/feed/
+- name: DeepSource
+  url: https://deepsource.com/blog
+- name: DotRuby
+  url: https://www.dotruby.com/articles
+  rss: https://www.dotruby.com/articles.atom
+- name: Doximity
+  url: https://technology.doximity.com/sitemaps
+- name: Engine Yard
+  url: https://www.engineyard.com/blog/tag/ruby-on-rails/
+  rss: https://www.engineyard.com/blog/tag/ruby-on-rails/feed/
+- name: Evil Martians
+  url: https://evilmartians.com/chronicles
+  rss: https://evilmartians.com/chronicles.atom
+- name: Faster Than Light
+  url: https://fasterthanlight.me/blog
+- name: Fast Ruby
+  url: https://www.fastruby.io/blog
+  rss: https://fastruby.io/blog/rss.xml
+- name: Featurist
+  url: https://archive.featurist.co.uk/blog/
+- name: FireHydrant
+  url: https://firehydrant.com/blog/
+  rss: https://firehydrant.com/rss.xml
+- name: Fly.io
+  url: https://fly.io/ruby-dispatch/
+  rss: https://fly.io/ruby-dispatch/feed.xml
+- name: FreeAgent
+  url: https://engineering.freeagent.com/tag/ruby/
+  rss: https://engineering.freeagent.com/feed/
+- name: Getaround
+  url: https://getaround.tech/
+  rss: https://getaround.tech/feed.xml
+- name: Good Enough
+  url: https://goodenough.us/blog/
+  rss: https://goodenough.us/feed.xml
+- name: Grab Tech
+  url: https://engineering.grab.com/tags#ruby
+  rss: https://engineering.grab.com/feed.xml
+- name: Gurzu
+  url: https://gurzu.com/blog/
+- name: Gusto
+  url: https://engineering.gusto.com/tagged/ruby-on-rails
+  rss: https://engineering.gusto.com/feed
+- name: Hashrocket
+  url: https://hashrocket.com/blog/tags/ruby
+  rss: https://hashrocket.com/blog.rss
+- name: Heroku
+  url: https://blog.heroku.com/
+  rss: https://blog.heroku.com/feed/
+- name: Hint (Web archive)
+  url: https://web.archive.org/web/20230129054448/https://hint.io/blog
+- name: Hix on Rails (Web archive)
+  url: http://web.archive.org/web/20221126215144/https://hixonrails.com/ruby-on-rails-tutorials/
+- name: Honeybadger
+  url: https://www.honeybadger.io/blog/
+  rss: https://www.honeybadger.io/blog/feed.xml
+- name: Hybrd
+  url: https://hybrd.co/posts
+  rss: https://hybrd.co/posts.atom
+- name: Icelab
+  url: https://www.icelab.com.au/notes
+- name: Ideamotive
+  url: https://www.ideamotive.co/blog
+  rss: https://www.ideamotive.co/blog/rss.xml
+- name: Infinum
+  url: https://infinum.com/blog/category/engineering/
+  rss: https://infinum.com/blog/category/engineering/feed/
+- name: iRonin.IT
+  url: https://www.ironin.it/blog.html
+- name: JetRockets
+  url: https://jetrockets.com/blog
+  rss: https://jetrockets.com/blog.rss
+- name: JetRuby
+  url: https://jetruby.com/blog/
+  rss: https://jetruby.com/feed/
+- name: JetThoughts
+  url: https://jetthoughts.com/blog/
+- name: Judoscale
+  url: https://judoscale.com/blog
+  rss: https://judoscale.com/rss.xml
+- name: Kiprosh
+  url: https://blog.kiprosh.com/tag/ruby/
+  rss: https://blog.kiprosh.com/rss/
+- name: Knapsack Pro
+  url: https://docs.knapsackpro.com/blog/
+  rss: https://docs.knapsackpro.com/feed.xml
+- name: Learnetto
+  url: https://learnetto.com/blog
+  rss: https://learnetto.com/blog/rss
+- name: Lunar Logic
+  url: https://blog.lunarlogic.com/tags/ruby/
+- name: ManageIQ
+  url: https://www.manageiq.org/blog/tags/ruby/
+  rss: http://manageiq.org/feed.xml
+- name: Microverse
+  url: https://www.microverse.org/blog-categories/ruby-on-rails
+- name: Mintbit
+  url: https://www.mintbit.com/blog/
+  rss: https://www.mintbit.com/feed.xml
+- name: Mkdev
+  url: https://mkdev.me/posts
+  rss: https://mkdev.me/posts.atom
+- name: mmtm
+  url: https://mmtm.io/articles/page/1/
+- name: Monterail
+  url: https://www.monterail.com/blog/topic/ruby-rails
+- name: Nebulab
+  url: https://nebulab.com/blog/tags/ruby-on-rails
+- name: Netguru
+  url: https://www.netguru.com/blog/topic/ruby
+  rss: https://www.netguru.com/blog/rss.xml
+- name: Netskin
+  url: https://www.netskin.com/posts
+- name: Nopio
+  url: https://www.nopio.com/category/ruby-on-rails/
+- name: Olio
+  url: https://tech.olioex.com/
+  rss: https://tech.olioex.com/feed.xml
+- name: Ombu Labs
+  url: https://www.ombulabs.com/blog
+  rss: https://www.ombulabs.com/blog/rss.xml
+- name: Planet Argon
+  url: https://blog.planetargon.com/blog
+  rss: https://blog.planetargon.com/blog/entries.rss
+- name: PlanetScale
+  url: https://planetscale.com/blog
+  rss: https://planetscale.com/blog/feed.atom
+- name: Plataformatec
+  url: https://blog.plataformatec.com.br/tag/rails/
+  rss: https://blog.plataformatec.com.br/feed/
+- name: Prefab
+  url: https://prefab.cloud/blog/
+  rss: https://prefab.cloud/blog/rss.xml
+- name: Primevise
+  url: https://primevise.com/blog
+- name: Prograils
+  url: https://prograils.com/by_tag/ruby
+- name: Qameta
+  url: https://qameta.com/posts/
+  rss: https://qameta.com/index.xml
+- name: RailsCarma
+  url: https://www.railscarma.com/blog/
+  rss: https://www.railscarma.com/feed/
+- name: RailsForge
+  url: https://blog.railsforgedev.com/
+- name: RailsReviews
+  url: https://www.railsreviews.com/articles
+- name: Railsware
+  url: https://railsware.com/blog/
+  rss: https://railsware.com/blog/feed/
+- name: Rebased
+  url: https://blog.rebased.pl/
+  rss: https://blog.rebased.pl/feed.xml
+- name: Red Hat
+  url: https://developers.redhat.com/topics/ruby/all
+- name: Reintech
+  url: https://reintech.io/blog?technology=ruby
+- name: Reinteractive
+  url: https://reinteractive.com/articles/index?category=rails
+- name: RNDSOFT
+  url: https://blog.rnds.pro/
+  rss: https://blog.rnds.pro/data/rss
+- name: Rootstrap
+  url: https://www.rootstrap.com/blog
+- name: Ruby & Elixir MobiDev Team Blog
+  url: https://ruby.mobidev.biz/posts/
+  rss: https://ruby.mobidev.biz/posts/index.xml
+- name: RubyGarage
+  url: https://rubygarage.org/blog
+  rss: https://rubygarage.org/blog.rss
+- name: Rubyroid Labs
+  url: https://rubyroidlabs.com/blog/category/ror-web-dev/
+  rss: https://rubyroidlabs.com/blog/feed/
+- name: Saeloun
+  url: https://blog.saeloun.com/
+  rss: https://blog.saeloun.com/feed.xml
+- name: Scout
+  url: https://scoutapm.com/blog
+- name: Scriptday
+  url: https://scriptday.com/blog/
+- name: Selleo
+  url: https://selleo.com/blog/tag/ruby
+- name: Semaphore
+  url: https://semaphoreci.com/blog
+- name: SerpApi
+  url: https://serpapi.com/blog/tag/ruby/
+  rss: https://serpapi.com/blog/rss/
+- name: ShakaCode
+  url: https://www.shakacode.com/blog/ruby/
+- name: Shopify
+  url: https://shopify.engineering
+- name: Simple Thread
+  url: https://www.simplethread.com/tag/rails/
+  rss: https://www.simplethread.com/feed/
+- name: SINAPTIA
+  url: https://sinaptia.dev/blog/
+- name: Sloboda Studio
+  url: https://sloboda-studio.com/
+  rss: https://sloboda-studio.com/feed/rdf/
+- name: Snyk
+  url: https://snyk.io/blog/
+  rss: https://snyk.io/blog/feed/
+- name: Splitwise
+  url: https://blog.splitwise.com/
+  rss: https://blog.splitwise.com/feed/
+- name: Spritle
+  url: https://www.spritle.com/blog/category/ruby/
+  rss: https://www.spritle.com/blog/feed/
+- name: Sqreen (Web archive)
+  url: https://web.archive.org/web/20230526152638/https://blog.sqreen.com/category/ruby-on-rails/
+- name: Square
+  url: https://developer.squareup.com/blog/archive/tags/ruby/
+  rss: https://developer.squareup.com/blog/rss.xml
+- name: Super Good Software
+  url: https://supergood.software/blog/
+  rss: https://supergood.software/rss.xml
+- name: Svitla Systems
+  url: https://svitla.com/blog/
+- name: Syndicode
+  url: https://syndicode.com/blog/
+- name: Telos Labs
+  url: https://www.teloslabs.co/blog
+- name: Terminalwire
+  url: https://terminalwire.com/articles
+- name: Test Double
+  url: https://testdouble.com/insights
+- name: The Codest
+  url: https://thecodest.co/blog/
+- name: The Dev Post (Truemark)
+  url: https://www.thedevpost.com/
+  rss: https://www.thedevpost.com/feed/
+- name: Thoughtbot
+  url: https://thoughtbot.com/blog
+- name: Toptal
+  url: https://www.toptal.com/developers/blog/back-end
+- name: Tosbourn
+  url: https://tosbourn.com/ruby/
+  rss: https://tosbourn.com/feed.xml
+- name: Twilio
+  url: https://www.twilio.com/en-us/blog
+  rss: https://www.twilio.com/sitemap.xml
+- name: Varvet (Web archive)
+  url: https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/
+- name: Vector Logic
+  url: https://www.vector-logic.com/blog/posts
+  rss: https://www.vector-logic.com/blog/posts.rss
+- name: Visuality
+  url: https://www.visuality.pl/posts
+- name: Wonolo
+  url: https://engineeringblog.wonolo.com/tag/ruby
+  rss: https://engineeringblog.wonolo.com/tag/ruby/rss.xml

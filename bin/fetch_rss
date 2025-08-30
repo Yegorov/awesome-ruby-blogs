@@ -1,0 +1,113 @@
+#!/usr/bin/env ruby
+
+require "bundler/inline"
+
+gemfile(true) do
+  source "https://rubygems.org"
+  gem "debug"
+  gem "async"
+  gem "feedbag"
+end
+
+require "yaml"
+require "debug"
+require "async"
+require "async/barrier"
+require "async/semaphore"
+require "feedbag"
+require 'optparse'
+
+# === PARSE CLI OPTIONS ===
+
+options = { force: :unlocked, categories: [] } # Default CLI options
+
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: bin/fetch_rss [options] data_file1 data_file2 ..."
+
+  opts.on("--force MODE", [:all, :norss, :unlocked], "Force mode (all, norss, unlocked) Default: unlocked") do |mode|
+    options[:force] = mode
+  end
+
+  opts.on("-h", "--help", "Show this help") do
+    puts opts
+    exit
+  end
+end
+
+parser.order!(ARGV)         # Parse options first
+options[:categories] = ARGV # Remaining arguments are categories
+
+unless options[:categories].any?
+  puts <<~OUTPUT
+
+    Pass at least one data file to fetch.
+    Check bin/fetch_rss --help for usage
+  OUTPUT
+  exit 1
+end
+
+# === HELPER METHODS ===
+
+def feedsearch(url)
+  print "."
+  site_host = URI(url).host
+  # Reject feed urls that are captured but from another site than the url
+  # provided and returns the first rss url found
+  Feedbag.find(url).select do |feed_url|
+    url.include? URI(feed_url).host
+  end.first
+end
+
+def update_blog?(blog, mode: :unlocked)
+  # Never update web archive blogs and github links
+  return false if blog['url'].include?('web.archive.org')
+  return false if blog['url'].include?('github.com')
+
+  case mode
+  when :unlocked then !blog.fetch('locked', true) # blog entries are all locked by default unless specified
+  when :all      then true
+  when :norss    then blog['rss'].nil?
+  end
+end
+
+# === SEARCH FOR RSS FEEDS ===
+
+data = options[:categories].each.with_object({}) do |category, data|
+  data[category] = YAML.load_file(category)
+end
+
+Async do |task|
+  barrier = Async::Barrier.new
+  semaphore = Async::Semaphore.new(10, parent: barrier) # limit the number of concurrent searches
+
+  result = data.each.with_object({}) do |(category, blogs), new_data|
+    puts "\nQuerying category: #{category}"
+    new_data[category] = blogs.map do |blog|
+      semaphore.async do
+        rss_link = blog['rss']
+        if update_blog?(blog, mode: options[:force])
+          rss_link = feedsearch(blog['url'])
+        end
+
+        locked = blog['locked']
+        if blog.key?('locked') && rss_link
+          locked = nil
+        end
+
+        blog.merge('rss' => rss_link, 'locked' => locked).compact
+      end
+    end
+  end
+
+  barrier.wait
+
+  result.transform_values! do |values|
+    values.map(&:result)
+  end
+
+  result.each do |category, blogs|
+    File.open(category, "wb") { |f| f.write blogs.to_yaml }
+  end
+ensure
+  barrier&.stop
+end
