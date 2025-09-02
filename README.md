@@ -1,11 +1,12 @@
-# Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Ruby blogs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/all.opml)
 
 > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
 > Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs)
 
 ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
 
-## Newsletter
+## Newsletter [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/newsletter.opml)
+
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) ([rss](https://ruby.libhunt.com/newsletter/feed))
 * [FastRuby newsletter](https://www.fastruby.io/newsletter)
 * [Full Stack Ruby on Rails Weekly Bookmarks](https://dcyoungdev.substack.com/) ([rss](https://dcyoungdev.substack.com/feed))
@@ -27,7 +28,8 @@
 * [Women On Rails Newsletter](https://womenonrailsinternational.substack.com/) ([rss](https://womenonrailsinternational.substack.com/feed))
 
 
-## Social news aggregation
+## Social news aggregation [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/social_news_aggregation.opml)
+
 * [daily.dev](https://app.daily.dev/search?q=rails)
 * [Dev.to Ruby](https://dev.to/t/ruby)
 * [DevZone (Old Codeguida)](https://devzone.org.ua/tag/ruby) ([rss](https://devzone.org.ua/feed/tag/ruby))
@@ -40,7 +42,8 @@
 * [RubyNews](https://ruby.news/)
 
 
-## Community
+## Community [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/community.opml)
+
 * [AnyCable](https://anycable.io/blog/)
 * [BestWeb Ventures](https://blog.bestwebventures.in/archive)
 * [Blog Yet](https://blogyet.com/categories/coding/blog_posts)
@@ -99,7 +102,8 @@
 * [With a Twist](https://withatwist.dev/) ([rss](https://withatwist.dev/feed.xml))
 
 
-## Personal
+## Personal [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/personal.opml)
+
 * [Aaron Patterson](https://tenderlovemaking.com/) ([rss](https://tenderlovemaking.com/atom.xml))
 * [Aaron Sumner (Everyday Rails)](https://everydayrails.com/archives.html)
 * [Abhay Nikam](https://www.abhaynikam.me/) ([rss](https://www.abhaynikam.me/rss.xml))
@@ -478,7 +482,8 @@
 * [Владимир Мирошниченко](https://gururuby.ru/) ([rss](https://gururuby.ru/atom.xml))
 
 
-## Company
+## Company [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/company.opml)
+
 * [2n](https://www.2n.pl/blog?tag=ruby)
 * [37signals](https://dev.37signals.com/) ([rss](https://dev.37signals.com/feed/posts.xml))
 * [8th Light](https://8thlight.com/insights/) ([rss](https://8thlight.com/insights/feed/rss.xml))
@@ -609,7 +614,8 @@
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby) ([rss](https://engineeringblog.wonolo.com/tag/ruby/rss.xml))
 
 
-## Other Awesome Ruby (and blogs) Lists
+## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
+
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby)
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby)
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list)

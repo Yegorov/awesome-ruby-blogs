@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Subscriptions</title>
+    <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
+    <dateModified>Sun, 31 Aug 2025 08:49:33 +1200</dateModified>
+  </head>
+  <body>
+    <outline text='Awesome Ruby Blogs: newsletter'>
+      <outline type='rss' text='Awesome Ruby Newsletter' xmlUrl='https://ruby.libhunt.com/newsletter/feed'/>
+      <outline type='rss' text='Full Stack Ruby on Rails Weekly Bookmarks' xmlUrl='https://dcyoungdev.substack.com/feed'/>
+      <outline type='rss' text='Joe Masilotti&apos;s newsletter' xmlUrl='https://masilotti.com/feed.xml'/>
+      <outline type='rss' text='One Ruby Thing' xmlUrl='https://andycroll.com/index.xml'/>
+      <outline type='rss' text='Ruby Biscuit' xmlUrl='https://www.rubybiscuit.fr/feed'/>
+      <outline type='rss' text='Ruby Daily' xmlUrl='https://rubydaily.org/feeds_subdomain/RubyDaily/'/>
+      <outline type='rss' text='RubyFlow' xmlUrl='https://rubyflow.com/rss'/>
+      <outline type='rss' text='Rubyland' xmlUrl='https://rubyland.news/feed.rss'/>
+      <outline type='rss' text='Ruby on Rails - Monthly' xmlUrl='https://sajjadumar.substack.com/feed'/>
+      <outline type='rss' text='Ruby Weekly' xmlUrl='https://rubyweekly.com/rss/'/>
+      <outline type='rss' text='The Code Gardener' xmlUrl='https://the.codegardener.com/rss/'/>
+      <outline type='rss' text='The RailsNotes Newsletter' xmlUrl='https://railsnotes.xyz/feed.xml'/>
+      <outline type='rss' text='This week in Rails' xmlUrl='https://rails-weekly.ongoodbits.com/feed'/>
+      <outline type='rss' text='Women On Rails Newsletter' xmlUrl='https://womenonrailsinternational.substack.com/feed'/>
+    </outline>
+  </body>
+</opml>

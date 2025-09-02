@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Subscriptions</title>
+    <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
+    <dateModified>Sun, 31 Aug 2025 08:49:33 +1200</dateModified>
+  </head>
+  <body>
+    <outline text='Awesome Ruby Blogs: community'>
+      <outline type='rss' text='Blogging On Rails' xmlUrl='https://onrails.blog/feed/'/>
+      <outline type='rss' text='Boring Rails' xmlUrl='https://boringrails.com/feed.xml'/>
+      <outline type='rss' text='Bridgetown' xmlUrl='https://www.bridgetownrb.com/feed.xml'/>
+      <outline type='rss' text='Bundler' xmlUrl='https://bundler.io/blog/feed.xml'/>
+      <outline type='rss' text='Code With Rails' xmlUrl='https://codewithrails.com/rss.xml'/>
+      <outline type='rss' text='Digital Ocean (Old scotch.io)' xmlUrl='https://www.digitalocean.com/community/tutorials.atom'/>
+      <outline type='rss' text='Drifting Ruby' xmlUrl='https://www.driftingruby.com//episodes/feed.atom'/>
+      <outline type='rss' text='dry-rb' xmlUrl='https://dry-rb.org/feed.xml'/>
+      <outline type='rss' text='Fullstack Ruby (Old ruby3.dev)' xmlUrl='https://www.fullstackruby.dev/feed.xml'/>
+      <outline type='rss' text='GoRails' xmlUrl='https://gorails.com/blog.rss'/>
+      <outline type='rss' text='Hanami' xmlUrl='https://hanamirb.org/atom.xml'/>
+      <outline type='rss' text='HanamiMastery' xmlUrl='https://hanamimastery.com/feed.xml'/>
+      <outline type='rss' text='Hexdevs' xmlUrl='https://www.hexdevs.com/index.xml'/>
+      <outline type='rss' text='Monospace Mentor (Jochen Lillich)' xmlUrl='https://monospacementor.com/feed/'/>
+      <outline type='rss' text='Practicing Ruby' xmlUrl='https://practicingruby.com/feed.xml'/>
+      <outline type='rss' text='Rails' xmlUrl='https://rubyonrails.org/feed.xml'/>
+      <outline type='rss' text='RailsApps' xmlUrl='https://blog.railsapps.org/rss'/>
+      <outline type='rss' text='Rails at Scale' xmlUrl='https://railsatscale.com/feed.xml'/>
+      <outline type='rss' text='Rails Designer' xmlUrl='https://railsdesigner.com/feed.xml'/>
+      <outline type='rss' text='Rails Explained' xmlUrl='https://www.railsexplained.com/feed.xml'/>
+      <outline type='rss' text='RailsNotes Blog' xmlUrl='https://railsnotes.xyz/feed.xml'/>
+      <outline type='rss' text='Ronin' xmlUrl='https://ronin-rb.dev/blog/atom.xml'/>
+      <outline type='rss' text='RorVsWild' xmlUrl='https://www.rorvswild.com/blog.rss'/>
+      <outline type='rss' text='RSpec' xmlUrl='http://rspec.info/blog/feed.xml'/>
+      <outline type='rss' text='RubyCademy (Medium)' xmlUrl='https://medium.com/feed/rubycademy'/>
+      <outline type='rss' text='RubyGems' xmlUrl='https://blog.rubygems.org/atom.xml'/>
+      <outline type='rss' text='RubyInside' xmlUrl='https://medium.com/feed/rubyinside'/>
+      <outline type='rss' text='RubyPigeon' xmlUrl='https://www.rubypigeon.com/feed.xml'/>
+      <outline type='rss' text='RubyTapas' xmlUrl='https://www.rubytapas.com/feed/'/>
+      <outline type='rss' text='SciRuby' xmlUrl='http://sciruby.com/atom.xml'/>
+      <outline type='rss' text='Sinatra' xmlUrl='https://sinatrarb.com/sinatra.github.com/feed.xml'/>
+      <outline type='rss' text='Sorbet' xmlUrl='https://sorbet.org/blog/atom.xml'/>
+      <outline type='rss' text='Taylor (Sean Earle)' xmlUrl='https://taylormadetech.dev/feed.xml'/>
+      <outline type='rss' text='The JRuby Blog' xmlUrl='https://blog.jruby.org/feed'/>
+      <outline type='rss' text='This Week in Rails' xmlUrl='https://world.hey.com/this.week.in.rails/feed.atom'/>
+      <outline type='rss' text='Thnk And Grow' xmlUrl='https://blog.thnkandgrow.com/feed/'/>
+      <outline type='rss' text='With a Twist' xmlUrl='https://withatwist.dev/feed.xml'/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,68 @@
+#!/usr/bin/env ruby
+
+# Generate OPML files for multiple catefories
+
+require "yaml"
+require "rexml/document"
+require "pathname"
+require "time"
+
+# === HELPER METHODS ===
+
+def category(data_path)
+  # Extract the category from the data path
+  # Example: data/community.yml => community
+  File.basename(data_path, File.extname(data_path))
+end
+
+def write_opml_document(path)
+  formatter = REXML::Formatters::Pretty.new
+  formatter.compact = true  # avoids lots of extra whitespace
+
+  doc = REXML::Document.new
+  doc << REXML::XMLDecl.new("1.0", "UTF-8")
+  opml = doc.add_element("opml", { "version" => "2.0" })
+  head = opml.add_element("head")
+  head.add_element("title").text = "Subscriptions"
+  head.add_element("dateCreated").text = "Sat, 30 Aug 2025 11:45:00 +1200"
+  head.add_element("dateModified").text = Time.now.rfc2822
+  body = opml.add_element("body")
+
+  yield body
+
+  File.open(path, "wb") do |f|
+    formatted_content = ""
+    formatter.write(doc, formatted_content)
+    f.write(formatted_content)
+  end
+end
+
+def build_opml_category(opml_body, category:, blogs:)
+  category_outline = opml_body.add_element("outline", "text" => "Awesome Ruby Blogs: #{category}")
+  blogs.each do |blog|
+    next unless blog['rss']
+    category_outline.add_element("outline", "type" => "rss", "text" => blog["name"], "xmlUrl" => blog["rss"])
+  end
+end
+
+# === GENERATE OPMLS ====
+
+yaml = Dir.glob('data/**').each.with_object({}) do |file, data|
+  data[file] = YAML.load_file(file)
+end
+
+# CREATE A GLOBAL OPML ENTRY
+write_opml_document("opml/all.opml") do |opml_body|
+  yaml.each do |path, blogs|
+    build_opml_category(opml_body, category: category(path), blogs: blogs)
+  end
+end
+
+# CREATE CAETGORY OPML ENTRY
+yaml.each do |path, blogs|
+  # This converts path like data/community.yml to opml/community.opml
+  opml_path = File.join("opml", "#{category(path)}.opml")
+  write_opml_document(opml_path) do |opml_body|
+    build_opml_category(opml_body, category: category(path), blogs: blogs)
+  end
+end
