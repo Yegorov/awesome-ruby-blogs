@@ -311,7 +311,7 @@
 - name: The Dev Post (Truemark)
   url: https://www.thedevpost.com/
   rss: https://www.thedevpost.com/feed/
-- name: Thoughtbot
+- name: thoughtbot
   url: https://thoughtbot.com/blog
 - name: Toptal
   url: https://www.toptal.com/developers/blog/back-end

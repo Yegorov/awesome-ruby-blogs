@@ -605,7 +605,7 @@
 * [Test Double](https://testdouble.com/insights)
 * [The Codest](https://thecodest.co/blog/)
 * [The Dev Post (Truemark)](https://www.thedevpost.com/) ([rss](https://www.thedevpost.com/feed/))
-* [Thoughtbot](https://thoughtbot.com/blog)
+* [thoughtbot](https://thoughtbot.com/blog)
 * [Toptal](https://www.toptal.com/developers/blog/back-end)
 * [Tosbourn](https://tosbourn.com/ruby/) ([rss](https://tosbourn.com/feed.xml))
 * [Twilio](https://www.twilio.com/en-us/blog) ([rss](https://www.twilio.com/sitemap.xml))
