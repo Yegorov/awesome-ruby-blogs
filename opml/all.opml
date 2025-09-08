@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Mon, 08 Sep 2025 11:07:06 +0300</dateModified>
+    <dateModified>Mon, 08 Sep 2025 09:38:45 -0400</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -182,6 +182,7 @@
       <outline type='rss' text='Benoit Tigeot' xmlUrl='https://benoittgt.github.io/feed/feed.xml'/>
       <outline type='rss' text='Ben Sheldon' xmlUrl='https://island94.org/feed.xml'/>
       <outline type='rss' text='Bernie Chiu' xmlUrl='https://berniechiu.github.io/blog/sitemap.xml'/>
+      <outline type='rss' text='Bhumi' xmlUrl='https://theleafnode.com/feed.xml'/>
       <outline type='rss' text='Bill Tihen' xmlUrl='https://btihen.dev/posts/ruby/index.xml'/>
       <outline type='rss' text='Bohdan Pohorilets' xmlUrl='https://bpohoriletz.github.io/feed.xml'/>
       <outline type='rss' text='Borja Garcia de Vinuesa Ordovás' xmlUrl='https://bgvo.io/feed.xml'/>

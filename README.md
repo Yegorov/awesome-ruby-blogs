@@ -155,6 +155,7 @@
 * [Benoit Daloze](https://eregon.me/blog/) ([rss](https://eregon.me/blog/feed.xml))
 * [Benoit Tigeot](https://benoittgt.github.io/blog/) ([rss](https://benoittgt.github.io/feed/feed.xml))
 * [Bernie Chiu](https://berniechiu.github.io/blog/) ([rss](https://berniechiu.github.io/blog/sitemap.xml))
+* [Bhumi](https://theleafnode.com/) ([rss](https://theleafnode.com/feed.xml))
 * [Bill Tihen](https://btihen.dev/posts/ruby/) ([rss](https://btihen.dev/posts/ruby/index.xml))
 * [Bohdan Pohorilets](https://bpohoriletz.github.io/) ([rss](https://bpohoriletz.github.io/feed.xml))
 * [Borja Garcia de Vinuesa Ordovás](https://bgvo.io/) ([rss](https://bgvo.io/feed.xml))

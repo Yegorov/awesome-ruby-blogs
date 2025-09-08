@@ -141,6 +141,9 @@
 - name: Bernie Chiu
   url: https://berniechiu.github.io/blog/
   rss: https://berniechiu.github.io/blog/sitemap.xml
+- name: Bhumi
+  url: https://theleafnode.com/
+  rss: https://theleafnode.com/feed.xml
 - name: Bill Tihen
   url: https://btihen.dev/posts/ruby/
   rss: https://btihen.dev/posts/ruby/index.xml
