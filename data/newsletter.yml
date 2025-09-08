@@ -37,6 +37,7 @@
   url: https://discu.eu/weekly/ruby/
 - name: Short Ruby Newsletter
   url: https://newsletter.shortruby.com/
+  rss: https://feed.newsletter.shortruby.com
 - name: The Code Gardener
   url: https://the.codegardener.com/
   rss: https://the.codegardener.com/rss/

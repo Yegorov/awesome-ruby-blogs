@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Sun, 31 Aug 2025 08:49:33 +1200</dateModified>
+    <dateModified>Mon, 08 Sep 2025 11:07:06 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: newsletter'>
@@ -17,6 +17,7 @@
       <outline type='rss' text='Rubyland' xmlUrl='https://rubyland.news/feed.rss'/>
       <outline type='rss' text='Ruby on Rails - Monthly' xmlUrl='https://sajjadumar.substack.com/feed'/>
       <outline type='rss' text='Ruby Weekly' xmlUrl='https://rubyweekly.com/rss/'/>
+      <outline type='rss' text='Short Ruby Newsletter' xmlUrl='https://feed.newsletter.shortruby.com'/>
       <outline type='rss' text='The Code Gardener' xmlUrl='https://the.codegardener.com/rss/'/>
       <outline type='rss' text='The RailsNotes Newsletter' xmlUrl='https://railsnotes.xyz/feed.xml'/>
       <outline type='rss' text='This week in Rails' xmlUrl='https://rails-weekly.ongoodbits.com/feed'/>
