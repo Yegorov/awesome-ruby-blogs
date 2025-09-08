@@ -20,7 +20,7 @@
 * [RubyCademy's Newsletter](https://newsletter.rubycademy.com/)
 * [RubyFlow](https://rubyflow.com/) ([rss](https://rubyflow.com/rss))
 * [Rubyland](https://rubyland.news/) ([rss](https://rubyland.news/feed.rss))
-* [Short Ruby Newsletter](https://newsletter.shortruby.com/)
+* [Short Ruby Newsletter](https://newsletter.shortruby.com/) ([rss](https://feed.newsletter.shortruby.com))
 * [The Code Gardener](https://the.codegardener.com/) ([rss](https://the.codegardener.com/rss/))
 * [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter) ([rss](https://railsnotes.xyz/feed.xml))
 * [This week in Rails](https://rails-weekly.ongoodbits.com/) ([rss](https://rails-weekly.ongoodbits.com/feed))
