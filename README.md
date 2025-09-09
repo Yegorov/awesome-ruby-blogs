@@ -24,6 +24,7 @@
 * [The Code Gardener](https://the.codegardener.com/) ([rss](https://the.codegardener.com/rss/))
 * [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter) ([rss](https://railsnotes.xyz/feed.xml))
 * [This week in Rails](https://rails-weekly.ongoodbits.com/) ([rss](https://rails-weekly.ongoodbits.com/feed))
+* [Token Ruby](https://www.tokenruby.com/)
 * [Trailblazer newsletter](https://trailblazer.to/2.0/newsletter.html)
 * [Women On Rails Newsletter](https://womenonrailsinternational.substack.com/) ([rss](https://womenonrailsinternational.substack.com/feed))
 
