@@ -612,6 +612,7 @@
 * [Toptal](https://www.toptal.com/developers/blog/back-end)
 * [Tosbourn](https://tosbourn.com/ruby/) ([rss](https://tosbourn.com/feed.xml))
 * [Twilio](https://www.twilio.com/en-us/blog) ([rss](https://www.twilio.com/sitemap.xml))
+* [Unagi](https://unagisoftware.com/articles/?_taxonomy=ruby-on-rails)
 * [Varvet (Web archive)](https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/)
 * [Vector Logic](https://www.vector-logic.com/blog/posts) ([rss](https://www.vector-logic.com/blog/posts.rss))
 * [Visuality](https://www.visuality.pl/posts)

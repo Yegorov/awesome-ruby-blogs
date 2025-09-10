@@ -321,6 +321,8 @@
 - name: Twilio
   url: https://www.twilio.com/en-us/blog
   rss: https://www.twilio.com/sitemap.xml
+- name: Unagi
+  url: https://unagisoftware.com/articles/?_taxonomy=ruby-on-rails
 - name: Varvet (Web archive)
   url: https://web.archive.org/web/20220314030350/https://www.varvet.com/tag/ruby/
 - name: Vector Logic
