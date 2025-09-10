@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Tue, 09 Sep 2025 20:40:36 +0200</dateModified>
+    <dateModified>Wed, 10 Sep 2025 14:46:54 +0530</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: personal'>
@@ -71,6 +71,7 @@
       <outline type='rss' text='David Colby' xmlUrl='https://colby.so/atom.xml'/>
       <outline type='rss' text='David Heinemeier Hansson' xmlUrl='https://world.hey.com/dhh/feed.atom'/>
       <outline type='rss' text='Dean DeHart' xmlUrl='https://deanin.com/wp-json/wp/v2/pages/175'/>
+      <outline type='rss' text='Deepak Mahakale' xmlUrl='https://deepakmahakale.com/blog/feed.xml'/>
       <outline type='rss' text='Denis Defreyne' xmlUrl='https://denisdefreyne.com/feeds/weeknotes.xml'/>
       <outline type='rss' text='Devanil' xmlUrl='https://devanil.dev/rss.xml'/>
       <outline type='rss' text='Dhaval Singh' xmlUrl='https://www.dsdev.in/rss.xml'/>

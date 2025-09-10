@@ -235,6 +235,9 @@
   rss: https://deanin.com/wp-json/wp/v2/pages/175
 - name: Dean Perry
   url: https://deanpcmad.com/blog/
+- name: Deepak Mahakale
+  url: https://deepakmahakale.com/blog/
+  rss: https://deepakmahakale.com/blog/feed.xml
 - name: Denis Defreyne
   url: https://denisdefreyne.com/contact/
   rss: https://denisdefreyne.com/feeds/weeknotes.xml
