@@ -43,6 +43,18 @@ File.open('README.md', 'wb') do |f|
 
     ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
 
+
+    ## Table of contents
+
+    - Blog Sections
+      - [Newsletter](#newsletter-)
+      - [Social News Aggregation](#social-news-aggregation-)
+      - [Community](#community-)
+      - [Personal](#personal-)
+      - [Company](#company-)
+      - [Other Awesome Ruby and Blogs Lists](#other-awesome-ruby-and-blogs-lists-)
+    - [Contribution Guidelines](#contribution-guidelines)
+
     ## Newsletter [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/newsletter.opml)
 
     %{newsletter}
