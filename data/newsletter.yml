@@ -38,6 +38,8 @@
 - name: Short Ruby Newsletter
   url: https://newsletter.shortruby.com/
   rss: https://feed.newsletter.shortruby.com
+- name: Static Ruby Monthly
+  url: https://static-ruby.eremin.eu/
 - name: The Code Gardener
   url: https://the.codegardener.com/
   rss: https://the.codegardener.com/rss/
