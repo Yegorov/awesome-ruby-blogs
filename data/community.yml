@@ -89,6 +89,9 @@
 - name: Ronin
   url: https://ronin-rb.dev/blog/
   rss: https://ronin-rb.dev/blog/atom.xml
+- name: ROR Tips
+  url: https://ror.tips
+  rss: https://ror.tips/feed.xml
 - name: RorVsWild
   url: https://www.rorvswild.com/blog
   rss: https://www.rorvswild.com/blog.rss

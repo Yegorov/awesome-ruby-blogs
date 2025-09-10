@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Tue, 09 Sep 2025 20:40:36 +0200</dateModified>
+    <dateModified>Wed, 10 Sep 2025 14:46:54 +0530</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -29,6 +29,7 @@
       <outline type='rss' text='Rails Explained' xmlUrl='https://www.railsexplained.com/feed.xml'/>
       <outline type='rss' text='RailsNotes Blog' xmlUrl='https://railsnotes.xyz/feed.xml'/>
       <outline type='rss' text='Ronin' xmlUrl='https://ronin-rb.dev/blog/atom.xml'/>
+      <outline type='rss' text='ROR Tips' xmlUrl='https://ror.tips/feed.xml'/>
       <outline type='rss' text='RorVsWild' xmlUrl='https://www.rorvswild.com/blog.rss'/>
       <outline type='rss' text='RSpec' xmlUrl='http://rspec.info/blog/feed.xml'/>
       <outline type='rss' text='RubyCademy (Medium)' xmlUrl='https://medium.com/feed/rubycademy'/>
