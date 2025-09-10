@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Subscriptions</title>
+    <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
+    <dateModified>Thu, 11 Sep 2025 08:47:25 +1200</dateModified>
+  </head>
+  <body>
+    <outline text='Awesome Ruby Blogs: podcast'>
+      <outline type='rss' text='Dead Code' xmlUrl='https://feeds.acast.com/public/shows/dead-code'/>
+      <outline type='rss' text='Remote Ruby' xmlUrl='https://feeds.buzzsprout.com/2260490.rss'/>
+      <outline type='rss' text='Rooftop Ruby Podcast' xmlUrl='https://feeds.buzzsprout.com/2108545.rss'/>
+      <outline type='rss' text='Ruby Rogues' xmlUrl='https://www.spreaker.com/show/6102073/episodes/feed'/>
+      <outline type='rss' text='The Ruby on Rails Podcast' xmlUrl='https://www.therubyonrailspodcast.com/rss'/>
+    </outline>
+  </body>
+</opml>

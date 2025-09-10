@@ -621,6 +621,15 @@
 * [Wonolo](https://engineeringblog.wonolo.com/tag/ruby) ([rss](https://engineeringblog.wonolo.com/tag/ruby/rss.xml))
 
 
+## Podcast [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/podcast.opml)
+
+* [Dead Code](https://shows.acast.com/dead-code) ([rss](https://feeds.acast.com/public/shows/dead-code))
+* [Remote Ruby](https://www.remoteruby.com/) ([rss](https://feeds.buzzsprout.com/2260490.rss))
+* [Rooftop Ruby Podcast](https://www.rooftopruby.com/) ([rss](https://feeds.buzzsprout.com/2108545.rss))
+* [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) ([rss](https://www.spreaker.com/show/6102073/episodes/feed))
+* [The Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/) ([rss](https://www.therubyonrailspodcast.com/rss))
+
+
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
 
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby)
@@ -681,6 +690,7 @@ Choose the most appropriate category for your blog:
 * **`data/community.yml`** - Open source projects, frameworks, and community blogs
 * **`data/personal.yml`** - Individual developer blogs and personal sites
 * **`data/company.yml`** - Corporate engineering blogs and company publications
+* **`data/podcast.yml`** - Podcasts focused on Ruby and its ecosystem
 * **`data/other.yml`** - Lists and resources that don't fit other categories
 
 Note, Web archive and GitHub entries are permanently locked and never updated automatically
