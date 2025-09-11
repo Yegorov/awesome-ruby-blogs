@@ -1,0 +1,16 @@
+---
+- name: Dead Code
+  url: https://shows.acast.com/dead-code
+  rss: https://feeds.acast.com/public/shows/dead-code
+- name: Remote Ruby
+  url: https://www.remoteruby.com/
+  rss: https://feeds.buzzsprout.com/2260490.rss
+- name: Rooftop Ruby Podcast
+  url: https://www.rooftopruby.com/
+  rss: https://feeds.buzzsprout.com/2108545.rss
+- name: Ruby Rogues
+  url: https://topenddevs.com/podcasts/ruby-rogues/
+  rss: https://www.spreaker.com/show/6102073/episodes/feed
+- name: The Ruby on Rails Podcast
+  url: https://www.therubyonrailspodcast.com/
+  rss: https://www.therubyonrailspodcast.com/rss

@@ -32,6 +32,7 @@ File.open('README.md', 'wb') do |f|
     community:               build_links(yaml['data/community.yml']),
     personal:                build_links(yaml['data/personal.yml']),
     company:                 build_links(yaml['data/company.yml']),
+    podcast:                 build_links(yaml['data/podcast.yml']),
     other:                   build_links(yaml['data/other.yml']),
   }
 
@@ -62,6 +63,10 @@ File.open('README.md', 'wb') do |f|
     ## Company [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/company.opml)
 
     %{company}
+
+    ## Podcast [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/podcast.opml)
+
+    %{podcast}
 
     ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
 
@@ -108,6 +113,7 @@ File.open('README.md', 'wb') do |f|
     * **`data/community.yml`** - Open source projects, frameworks, and community blogs
     * **`data/personal.yml`** - Individual developer blogs and personal sites
     * **`data/company.yml`** - Corporate engineering blogs and company publications
+    * **`data/podcast.yml`** - Podcasts focused on Ruby and its ecosystem
     * **`data/other.yml`** - Lists and resources that don't fit other categories
 
     Note, Web archive and GitHub entries are permanently locked and never updated automatically

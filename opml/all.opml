@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Wed, 10 Sep 2025 07:46:21 -0300</dateModified>
+    <dateModified>Thu, 11 Sep 2025 08:47:25 +1200</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -432,6 +432,13 @@
       <outline type='rss' text='Yoshiki' xmlUrl='https://takagi.blog/tags/ruby/rss.xml'/>
       <outline type='rss' text='Youssef Boulkaid' xmlUrl='https://blog.yboulkaid.com/feed.xml'/>
       <outline type='rss' text='Владимир Мирошниченко' xmlUrl='https://gururuby.ru/atom.xml'/>
+    </outline>
+    <outline text='Awesome Ruby Blogs: podcast'>
+      <outline type='rss' text='Dead Code' xmlUrl='https://feeds.acast.com/public/shows/dead-code'/>
+      <outline type='rss' text='Remote Ruby' xmlUrl='https://feeds.buzzsprout.com/2260490.rss'/>
+      <outline type='rss' text='Rooftop Ruby Podcast' xmlUrl='https://feeds.buzzsprout.com/2108545.rss'/>
+      <outline type='rss' text='Ruby Rogues' xmlUrl='https://www.spreaker.com/show/6102073/episodes/feed'/>
+      <outline type='rss' text='The Ruby on Rails Podcast' xmlUrl='https://www.therubyonrailspodcast.com/rss'/>
     </outline>
     <outline text='Awesome Ruby Blogs: social_news_aggregation'>
       <outline type='rss' text='DevZone (Old Codeguida)' xmlUrl='https://devzone.org.ua/feed/tag/ruby'/>
