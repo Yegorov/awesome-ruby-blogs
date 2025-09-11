@@ -14,6 +14,7 @@
   - [Community](#community-)
   - [Personal](#personal-)
   - [Company](#company-)
+  - [Podcast](podcast-)
   - [Other Awesome Ruby and Blogs Lists](#other-awesome-ruby-and-blogs-lists-)
 - [Contribution Guidelines](#contribution-guidelines)
 
