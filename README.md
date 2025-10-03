@@ -514,6 +514,7 @@
 * [Appfolio Engineering](https://engineering.appfolio.com/) ([rss](https://engineering.appfolio.com/appfolio-engineering?format=rss))
 * [AppSignal](https://blog.appsignal.com/category/ruby-magic.html) ([rss](https://blog.appsignal.com/category/ruby-magic-feed.xml))
 * [Arkency](https://blog.arkency.com/) ([rss](https://blog.arkency.com/feed.xml))
+* [Avo](https://avohq.io/blog) ([rss](https://avohq.io/blog/rss))
 * [Bacancy](https://www.bacancytechnology.com/blog/ruby-on-rails/) ([rss](https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35))
 * [Bemi](https://blog.bemi.io/) ([rss](https://blog.bemi.io/rss/))
 * [BigBinary](https://www.bigbinary.com/blog) ([rss](https://www.bigbinary.com/blog/feed.xml))
