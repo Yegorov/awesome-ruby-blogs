@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Thu, 11 Sep 2025 11:14:41 +0300</dateModified>
+    <dateModified>Sat, 04 Oct 2025 19:43:42 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -55,6 +55,7 @@
       <outline type='rss' text='Appfolio Engineering' xmlUrl='https://engineering.appfolio.com/appfolio-engineering?format=rss'/>
       <outline type='rss' text='AppSignal' xmlUrl='https://blog.appsignal.com/category/ruby-magic-feed.xml'/>
       <outline type='rss' text='Arkency' xmlUrl='https://blog.arkency.com/feed.xml'/>
+      <outline type='rss' text='Avo' xmlUrl='https://avohq.io/blog/rss'/>
       <outline type='rss' text='Bacancy' xmlUrl='https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35'/>
       <outline type='rss' text='Bemi' xmlUrl='https://blog.bemi.io/rss/'/>
       <outline type='rss' text='BigBinary' xmlUrl='https://www.bigbinary.com/blog/feed.xml'/>
