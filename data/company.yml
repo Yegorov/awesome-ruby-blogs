@@ -29,6 +29,9 @@
 - name: Arkency
   url: https://blog.arkency.com/
   rss: https://blog.arkency.com/feed.xml
+- name: Avo
+  url: https://avohq.io/blog
+  rss: https://avohq.io/blog/rss
 - name: Bacancy
   url: https://www.bacancytechnology.com/blog/ruby-on-rails/
   rss: https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35
