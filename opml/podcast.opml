@@ -3,14 +3,21 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Sat, 04 Oct 2025 19:43:42 +0300</dateModified>
+    <dateModified>Mon, 06 Oct 2025 09:48:55 -0400</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: podcast'>
+      <outline type='rss' text='Code and the Coding Coders who Code it' xmlUrl='https://feeds.buzzsprout.com/1927628.rss'/>
+      <outline type='rss' text='Code with Jason' xmlUrl='https://feeds.buzzsprout.com/1878319.rss'/>
       <outline type='rss' text='Dead Code' xmlUrl='https://feeds.acast.com/public/shows/dead-code'/>
+      <outline type='rss' text='Friendly Show' xmlUrl='https://feeds.buzzsprout.com/2278525.rss'/>
+      <outline type='rss' text='IndieRails' xmlUrl='https://feeds.transistor.fm/indierails'/>
+      <outline type='rss' text='On Rails' xmlUrl='https://feeds.buzzsprout.com/2462975.rss'/>
       <outline type='rss' text='Remote Ruby' xmlUrl='https://feeds.buzzsprout.com/2260490.rss'/>
       <outline type='rss' text='Rooftop Ruby Podcast' xmlUrl='https://feeds.buzzsprout.com/2108545.rss'/>
       <outline type='rss' text='Ruby Rogues' xmlUrl='https://www.spreaker.com/show/6102073/episodes/feed'/>
+      <outline type='rss' text='The Bike Shed' xmlUrl='https://feeds.fireside.fm/bikeshed/rss'/>
+      <outline type='rss' text='The Ruby Gems Podcast' xmlUrl='https://feeds.buzzsprout.com/2509083.rss'/>
       <outline type='rss' text='The Ruby on Rails Podcast' xmlUrl='https://www.therubyonrailspodcast.com/rss'/>
     </outline>
   </body>

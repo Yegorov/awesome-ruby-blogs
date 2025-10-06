@@ -1,7 +1,22 @@
 ---
+- name: Code and the Coding Coders who Code it
+  url: https://podcast.drbragg.dev
+  rss: https://feeds.buzzsprout.com/1927628.rss
+- name: Code with Jason
+  url: https://www.codewithjason.com/podcast
+  rss: https://feeds.buzzsprout.com/1878319.rss
 - name: Dead Code
   url: https://shows.acast.com/dead-code
   rss: https://feeds.acast.com/public/shows/dead-code
+- name: Friendly Show
+  url: https://www.friendly.show
+  rss: https://feeds.buzzsprout.com/2278525.rss
+- name: IndieRails
+  url: https://www.indierails.com
+  rss: https://feeds.transistor.fm/indierails
+- name: On Rails
+  url: https://onrails.buzzsprout.com
+  rss: https://feeds.buzzsprout.com/2462975.rss
 - name: Remote Ruby
   url: https://www.remoteruby.com/
   rss: https://feeds.buzzsprout.com/2260490.rss
@@ -11,6 +26,12 @@
 - name: Ruby Rogues
   url: https://topenddevs.com/podcasts/ruby-rogues/
   rss: https://www.spreaker.com/show/6102073/episodes/feed
+- name: The Bike Shed
+  url: https://bikeshed.thoughtbot.com
+  rss: https://feeds.fireside.fm/bikeshed/rss
+- name: The Ruby Gems Podcast
+  url: https://www.buzzsprout.com/2509083
+  rss: https://feeds.buzzsprout.com/2509083.rss
 - name: The Ruby on Rails Podcast
   url: https://www.therubyonrailspodcast.com/
   rss: https://www.therubyonrailspodcast.com/rss
