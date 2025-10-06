@@ -21,6 +21,7 @@
 ## Newsletter [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/newsletter.opml)
 
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) ([rss](https://ruby.libhunt.com/newsletter/feed))
+* [Decoded Rails Newsletter](https://decoded-rails.beehiiv.com)
 * [FastRuby newsletter](https://www.fastruby.io/newsletter)
 * [Full Stack Ruby on Rails Weekly Bookmarks](https://dcyoungdev.substack.com/) ([rss](https://dcyoungdev.substack.com/feed))
 * [Joe Masilotti's newsletter](https://masilotti.com/newsletter/) ([rss](https://masilotti.com/feed.xml))
