@@ -2,6 +2,8 @@
 - name: Awesome Ruby Newsletter
   url: https://ruby.libhunt.com/newsletter
   rss: https://ruby.libhunt.com/newsletter/feed
+- name: Decoded Rails Newsletter
+  url: https://decoded-rails.beehiiv.com
 - name: FastRuby newsletter
   url: https://www.fastruby.io/newsletter
 - name: Full Stack Ruby on Rails Weekly Bookmarks
