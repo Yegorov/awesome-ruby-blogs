@@ -638,10 +638,17 @@
 
 ## Podcast [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/podcast.opml)
 
+* [Code and the Coding Coders who Code it](https://podcast.drbragg.dev) ([rss](https://feeds.buzzsprout.com/1927628.rss))
+* [Code with Jason](https://www.codewithjason.com/podcast) ([rss](https://feeds.buzzsprout.com/1878319.rss))
 * [Dead Code](https://shows.acast.com/dead-code) ([rss](https://feeds.acast.com/public/shows/dead-code))
+* [Friendly Show](https://www.friendly.show) ([rss](https://feeds.buzzsprout.com/2278525.rss))
+* [IndieRails](https://www.indierails.com) ([rss](https://feeds.transistor.fm/indierails))
+* [On Rails](https://onrails.buzzsprout.com) ([rss](https://feeds.buzzsprout.com/2462975.rss))
 * [Remote Ruby](https://www.remoteruby.com/) ([rss](https://feeds.buzzsprout.com/2260490.rss))
 * [Rooftop Ruby Podcast](https://www.rooftopruby.com/) ([rss](https://feeds.buzzsprout.com/2108545.rss))
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) ([rss](https://www.spreaker.com/show/6102073/episodes/feed))
+* [The Bike Shed](https://bikeshed.thoughtbot.com) ([rss](https://feeds.fireside.fm/bikeshed/rss))
+* [The Ruby Gems Podcast](https://www.buzzsprout.com/2509083) ([rss](https://feeds.buzzsprout.com/2509083.rss))
 * [The Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/) ([rss](https://www.therubyonrailspodcast.com/rss))
 
 
