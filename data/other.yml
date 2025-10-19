@@ -5,10 +5,16 @@
   url: https://github.com/zudochkin/awesome-newsletters#ruby
 - name: AwesomeRubyist/awesome_resource_list
   url: https://github.com/AwesomeRubyist/awesome_resource_list
+- name: ayarotsky/awesome-rails-with-postgres
+  url: https://github.com/ayarotsky/awesome-rails-with-postgres
+- name: Darhazer/awesome-rspec
+  url: https://github.com/Darhazer/awesome-rspec
 - name: dreikanter/ruby-bookmarks
   url: https://github.com/dreikanter/ruby-bookmarks
 - name: endymion1818/awesome-developer-blogs
   url: https://github.com/endymion1818/awesome-developer-blogs
+- name: fpsvogel/learn-ruby
+  url: https://github.com/fpsvogel/learn-ruby
 - name: gramantin/awesome-rails
   url: https://github.com/gramantin/awesome-rails
 - name: inputsh/awesome-blogs
