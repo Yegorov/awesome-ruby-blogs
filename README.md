@@ -15,6 +15,7 @@
   - [Personal](#personal-)
   - [Company](#company-)
   - [Podcast](#podcast-)
+  - [Screencast / Livestream](#screencast--livestream-)
   - [Other Awesome Ruby and Blogs Lists](#other-awesome-ruby-and-blogs-lists-)
 - [Contribution Guidelines](#contribution-guidelines)
 
@@ -652,6 +653,21 @@
 * [The Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/) ([rss](https://www.therubyonrailspodcast.com/rss))
 
 
+## Screencast / Livestream [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/screencast_livestream.opml)
+
+* [ChaelCodes](https://www.twitch.tv/ChaelCodes)
+* [CJ Avilla](https://www.youtube.com/@cjav_dev)
+* [Conner Jensen](https://www.youtube.com/@aiwithconner)
+* [Deanin](https://www.youtube.com/@Deanin)
+* [Higher Theory Dev](https://www.youtube.com/@HigherTheoryDev)
+* [Ken Greeff](https://www.youtube.com/@kengreeff)
+* [pushcx](https://push.cx/stream)
+* [SupeRails](https://www.youtube.com/@SupeRails)
+* [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff)
+* [TypeFast](https://www.youtube.com/@typefastco)
+* [Webcrunch](https://www.youtube.com/@Webcrunch)
+
+
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
 
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby)
@@ -716,6 +732,7 @@ Choose the most appropriate category for your blog:
 * **`data/personal.yml`** - Individual developer blogs and personal sites
 * **`data/company.yml`** - Corporate engineering blogs and company publications
 * **`data/podcast.yml`** - Podcasts focused on Ruby and its ecosystem
+* **`data/screencast_livestream.yml`** - Screencasts and livestreams
 * **`data/other.yml`** - Lists and resources that don't fit other categories
 
 Note, Web archive and GitHub entries are permanently locked and never updated automatically

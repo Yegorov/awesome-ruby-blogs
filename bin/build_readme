@@ -33,6 +33,7 @@ File.open('README.md', 'wb') do |f|
     personal:                build_links(yaml['data/personal.yml']),
     company:                 build_links(yaml['data/company.yml']),
     podcast:                 build_links(yaml['data/podcast.yml']),
+    screencast_livestream:   build_links(yaml['data/screencast_livestream.yml']),
     other:                   build_links(yaml['data/other.yml']),
   }
 
@@ -54,6 +55,7 @@ File.open('README.md', 'wb') do |f|
       - [Personal](#personal-)
       - [Company](#company-)
       - [Podcast](#podcast-)
+      - [Screencast / Livestream](#screencast--livestream-)
       - [Other Awesome Ruby and Blogs Lists](#other-awesome-ruby-and-blogs-lists-)
     - [Contribution Guidelines](#contribution-guidelines)
 
@@ -80,6 +82,10 @@ File.open('README.md', 'wb') do |f|
     ## Podcast [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/podcast.opml)
 
     %{podcast}
+
+    ## Screencast / Livestream [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/screencast_livestream.opml)
+
+    %{screencast_livestream}
 
     ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square&color=orange)](/opml/other.opml)
 
@@ -127,6 +133,7 @@ File.open('README.md', 'wb') do |f|
     * **`data/personal.yml`** - Individual developer blogs and personal sites
     * **`data/company.yml`** - Corporate engineering blogs and company publications
     * **`data/podcast.yml`** - Podcasts focused on Ruby and its ecosystem
+    * **`data/screencast_livestream.yml`** - Screencasts and livestreams
     * **`data/other.yml`** - Lists and resources that don't fit other categories
 
     Note, Web archive and GitHub entries are permanently locked and never updated automatically
