@@ -1002,6 +1002,9 @@
 - name: Victor Shepelev (zverok)
   url: https://zverok.space/writing/
   rss: https://zverok.space/feed.xml
+- name: Vinay Keerthi
+  url: https://tech.stonecharioteer.com/posts/
+  rss: https://tech.stonecharioteer.com/posts/index.xml
 - name: Vini Oyama
   url: https://vinioyama.com/blog/
   rss: https://vinioyama.com/feed/

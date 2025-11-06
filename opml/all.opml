@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Sun, 19 Oct 2025 00:16:01 -0400</dateModified>
+    <dateModified>Wed, 05 Nov 2025 22:52:01 -0500</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -421,6 +421,7 @@
       <outline type='rss' text='Vasily Polovnyov' xmlUrl='https://vasily.polovnyov.ru/feed.xml'/>
       <outline type='rss' text='Victor Afanasev' xmlUrl='https://vifreefly.github.io/feed.xml'/>
       <outline type='rss' text='Victor Shepelev (zverok)' xmlUrl='https://zverok.space/feed.xml'/>
+      <outline type='rss' text='Vinay Keerthi' xmlUrl='https://tech.stonecharioteer.com/posts/index.xml'/>
       <outline type='rss' text='Vini Oyama' xmlUrl='https://vinioyama.com/feed/'/>
       <outline type='rss' text='Vitalii Elenhaupt' xmlUrl='https://veelenga.github.io/feed.xml'/>
       <outline type='rss' text='Vladislav Kopylov' xmlUrl='https://medium.com/feed/@kopilov-vlad'/>

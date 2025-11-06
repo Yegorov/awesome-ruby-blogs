@@ -485,6 +485,7 @@
 * [Vasily Polovnyov](https://vasily.polovnyov.ru/) ([rss](https://vasily.polovnyov.ru/feed.xml))
 * [Victor Afanasev](https://vifreefly.github.io/) ([rss](https://vifreefly.github.io/feed.xml))
 * [Victor Shepelev (zverok)](https://zverok.space/writing/) ([rss](https://zverok.space/feed.xml))
+* [Vinay Keerthi](https://tech.stonecharioteer.com/posts/) ([rss](https://tech.stonecharioteer.com/posts/index.xml))
 * [Vini Oyama](https://vinioyama.com/blog/) ([rss](https://vinioyama.com/feed/))
 * [Vitalii Elenhaupt](https://veelenga.github.io/) ([rss](https://veelenga.github.io/feed.xml))
 * [Vito Botta (Web archive)](https://web.archive.org/web/20230803211048/https://vitobotta.com/tags/ruby/)
