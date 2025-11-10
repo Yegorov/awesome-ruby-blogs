@@ -151,3 +151,6 @@
 - name: With a Twist
   url: https://withatwist.dev/
   rss: https://withatwist.dev/feed.xml
+- name: Rubyist Magazine (Rubima)
+  url: https://magazine.rubyist.net/
+  rss: https://magazine.rubyist.net/feed.xml

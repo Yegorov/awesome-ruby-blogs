@@ -104,6 +104,7 @@
 * [RubyCademy (Medium)](https://medium.com/rubycademy) ([rss](https://medium.com/feed/rubycademy))
 * [RubyGems](https://blog.rubygems.org/) ([rss](https://blog.rubygems.org/atom.xml))
 * [RubyInside](https://medium.com/rubyinside) ([rss](https://medium.com/feed/rubyinside))
+* [Rubyist Magazine (Rubima)](https://magazine.rubyist.net/) ([rss](https://magazine.rubyist.net/feed.xml))
 * [RubyOnRails.BA](https://rubyonrails.ba/)
 * [RubyPigeon](https://www.rubypigeon.com/) ([rss](https://www.rubypigeon.com/feed.xml))
 * [RubyTapas](https://www.rubytapas.com/) ([rss](https://www.rubytapas.com/feed/))
