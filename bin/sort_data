@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+require "yaml"
+
+yaml = Dir.glob('data/**').each.with_object({}) do |file, data|
+  YAML.load_file(file).sort_by { |blog| blog['name'].to_s.downcase }.then do |data|
+    File.open(file, "wb") { |f| f.write data.to_yaml }
+  end
+end

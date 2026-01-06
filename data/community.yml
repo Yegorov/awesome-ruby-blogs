@@ -1,17 +1,19 @@
 ---
 - name: AnyCable
   url: https://anycable.io/blog/
+- name: Beautiful Ruby
+  url: https://beautifulruby.com/code
 - name: BestWeb Ventures
   url: https://blog.bestwebventures.in/archive
-- name: Bloggie 'ruby'
-  url: https://bloggie.io/community/ruby
+- name: Blog Yet
+  url: https://blogyet.com/categories/coding/blog_posts
 - name: Bloggie 'rails'
   url: https://bloggie.io/community/rails
+- name: Bloggie 'ruby'
+  url: https://bloggie.io/community/ruby
 - name: Blogging On Rails
   url: https://onrails.blog/
   rss: https://onrails.blog/feed/
-- name: Blog Yet
-  url: https://blogyet.com/categories/coding/blog_posts
 - name: Boring Rails
   url: https://boringrails.com/articles
   rss: https://boringrails.com/feed.xml
@@ -21,6 +23,9 @@
 - name: Bundler
   url: https://bundler.io/blog/
   rss: https://bundler.io/blog/feed.xml
+- name: Business Class Blog (Josef Strzibny)
+  url: https://businessclasskit.com/blog
+  rss: https://businessclasskit.com/blog/feed.xml
 - name: Code With Rails
   url: https://codewithrails.com/
   rss: https://codewithrails.com/rss.xml
@@ -32,6 +37,9 @@
 - name: Drifting Ruby
   url: https://www.driftingruby.com/episodes
   rss: https://www.driftingruby.com//episodes/feed.atom
+- name: Drifting Ruby Blog
+  url: https://blog.driftingruby.com/
+  rss: https://blog.driftingruby.com/rss/
 - name: dry-rb
   url: https://dry-rb.org/news/
   rss: https://dry-rb.org/feed.xml
@@ -62,12 +70,12 @@
 - name: Practicing Ruby
   url: https://practicingruby.com/
   rss: https://practicingruby.com/feed.xml
+- name: Programming Zen (Antonio Cangiano)
+  url: https://programmingzen.com/category/programming/
+  rss: https://programmingzen.com/category/programming/feed/
 - name: Rails
   url: https://rubyonrails.org/blog/
   rss: https://rubyonrails.org/feed.xml
-- name: RailsApps
-  url: https://blog.railsapps.org/
-  rss: https://blog.railsapps.org/rss
 - name: Rails at Scale
   url: https://railsatscale.com/
   rss: https://railsatscale.com/feed.xml
@@ -79,11 +87,17 @@
   rss: https://www.railsexplained.com/feed.xml
 - name: Rails Insights
   url: https://railsinsights.com/
+- name: Rails Runner
+  url: https://therailsrunner.com/
+- name: RailsApps
+  url: https://blog.railsapps.org/
+  rss: https://blog.railsapps.org/rss
+- name: RailsGrowth
+  url: https://railsgrowth.com/
+  rss: https://railsgrowth.com/rss/
 - name: RailsNotes Blog
   url: https://railsnotes.xyz
   rss: https://railsnotes.xyz/feed.xml
-- name: Rails Runner
-  url: https://therailsrunner.com/
 - name: ROM
   url: https://rom-rb.org/blog/
 - name: Ronin
@@ -98,17 +112,24 @@
 - name: RSpec
   url: http://rspec.info/blog/
   rss: http://rspec.info/blog/feed.xml
+- name: Ruby Job Board (Web archive)
+  url: https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog
+- name: Ruby Tutorial (Web archive)
+  url: https://web.archive.org/web/20231230055220/https://rubytutorial.io/
 - name: RubyCademy (Medium)
   url: https://medium.com/rubycademy
   rss: https://medium.com/feed/rubycademy
+- name: RubyEnv
+  url: https://rubyenv.app/blog
 - name: RubyGems
   url: https://blog.rubygems.org/
   rss: https://blog.rubygems.org/atom.xml
 - name: RubyInside
   url: https://medium.com/rubyinside
   rss: https://medium.com/feed/rubyinside
-- name: Ruby Job Board (Web archive)
-  url: https://web.archive.org/web/20230204025503/https://www.rubyjobboard.com/blog
+- name: Rubyist Magazine (Rubima)
+  url: https://magazine.rubyist.net/
+  rss: https://magazine.rubyist.net/feed.xml
 - name: RubyOnRails.BA
   url: https://rubyonrails.ba/
 - name: RubyPigeon
@@ -117,8 +138,6 @@
 - name: RubyTapas
   url: https://www.rubytapas.com/
   rss: https://www.rubytapas.com/feed/
-- name: Ruby Tutorial (Web archive)
-  url: https://web.archive.org/web/20231230055220/https://rubytutorial.io/
 - name: RubyWorks
   url: http://rubyworks.github.io/index.html
 - name: SciRuby
@@ -126,6 +145,9 @@
   rss: http://sciruby.com/atom.xml
 - name: Sequel
   url: http://sequel.jeremyevans.net/blog.html
+- name: Short Ruby Email Courses
+  url: https://learn.shortruby.com/blog
+  rss: https://learn.shortruby.com/blog/feed
 - name: Sinatra
   url: https://sinatrarb.com/blog.html
   rss: https://sinatrarb.com/sinatra.github.com/feed.xml
@@ -135,6 +157,9 @@
 - name: Taylor (Sean Earle)
   url: https://taylormadetech.dev/blog/
   rss: https://taylormadetech.dev/feed.xml
+- name: Test Driving Rails Blog (Josef Strzibny)
+  url: https://testdrivingrails.com/blog
+  rss: https://testdrivingrails.com/blog/feed.xml
 - name: The JRuby Blog
   url: https://blog.jruby.org/
   rss: https://blog.jruby.org/feed
@@ -146,36 +171,11 @@
 - name: Thnk And Grow
   url: https://blog.thnkandgrow.com/
   rss: https://blog.thnkandgrow.com/feed/
-- name: With a Twist
-  url: https://withatwist.dev/
-  rss: https://withatwist.dev/feed.xml
-- name: Rubyist Magazine (Rubima)
-  url: https://magazine.rubyist.net/
-  rss: https://magazine.rubyist.net/feed.xml
-- name: Programming Zen (Antonio Cangiano)
-  url: https://programmingzen.com/category/programming/
-  rss: https://programmingzen.com/category/programming/feed/
 - name: Webcrunch
   url: https://webcrunch.com/posts
   rss: https://webcrunch.com/feed.rss
-- name: Short Ruby Email Courses
-  url: https://learn.shortruby.com/blog
-  rss: https://learn.shortruby.com/blog/feed
-- name: Drifting Ruby Blog
-  url: https://blog.driftingruby.com/
-  rss: https://blog.driftingruby.com/rss/
-- name: Business Class Blog (Josef Strzibny)
-  url: https://businessclasskit.com/blog
-  rss: https://businessclasskit.com/blog/feed.xml
-- name: Test Driving Rails Blog (Josef Strzibny)
-  url: https://testdrivingrails.com/blog
-  rss: https://testdrivingrails.com/blog/feed.xml
-- name: RailsGrowth
-  url: https://railsgrowth.com/
-  rss: https://railsgrowth.com/rss/
-- name: RubyEnv
-  url: https://rubyenv.app/blog
 - name: Why Ruby?
   url: https://whyruby.info/
-- name: Beautiful Ruby
-  url: https://beautifulruby.com/code
+- name: With a Twist
+  url: https://withatwist.dev/
+  rss: https://withatwist.dev/feed.xml

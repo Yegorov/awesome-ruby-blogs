@@ -38,6 +38,9 @@
 - name: Bemi
   url: https://blog.bemi.io/
   rss: https://blog.bemi.io/rss/
+- name: BetaCraft
+  url: https://betacraft.com/category/ruby/
+  rss: https://betacraft.com/feed/
 - name: BigBinary
   url: https://www.bigbinary.com/blog
   rss: https://www.bigbinary.com/blog/feed.xml
@@ -51,6 +54,9 @@
   rss: http://brainspec.com/blog/atom.xml
 - name: Carbonfive
   url: https://web.archive.org/web/20240907200053/https://blog.carbonfive.com/category/ruby/
+- name: Carmatec
+  url: https://www.carmatec.com/blog/
+  rss: https://www.carmatec.com/feed/
 - name: Census
   url: https://census.dev/
   rss: https://census.dev/blog?format=rss
@@ -96,16 +102,19 @@
 - name: Evil Martians
   url: https://evilmartians.com/chronicles
   rss: https://evilmartians.com/chronicles.atom
-- name: Faster Than Light
-  url: https://fasterthanlight.me/blog
 - name: Fast Ruby
   url: https://www.fastruby.io/blog
   rss: https://fastruby.io/blog/rss.xml
+- name: Faster Than Light
+  url: https://fasterthanlight.me/blog
 - name: Featurist
   url: https://archive.featurist.co.uk/blog/
 - name: FireHydrant
   url: https://firehydrant.com/blog/
   rss: https://firehydrant.com/rss.xml
+- name: Flagrant
+  url: https://www.beflagrant.com/blog/
+  rss: https://www.beflagrant.com/feed.xml
 - name: Fly.io
   url: https://fly.io/ruby-dispatch/
   rss: https://fly.io/ruby-dispatch/feed.xml
@@ -169,9 +178,14 @@
 - name: Knapsack Pro
   url: https://docs.knapsackpro.com/blog/
   rss: https://docs.knapsackpro.com/feed.xml
+- name: Kolosek
+  url: https://kolosek.com/tag/ruby-on-rails/
+  rss: https://kolosek.com/blog/rss/
 - name: Learnetto
   url: https://learnetto.com/blog
   rss: https://learnetto.com/blog/rss
+- name: Los Angeles AI Apps
+  url: https://losangelesaiapps.com/blog/
 - name: Lunar Logic
   url: https://lunarlogic.com/blog
 - name: ManageIQ
@@ -250,6 +264,9 @@
 - name: Ruby & Elixir MobiDev Team Blog
   url: https://ruby.mobidev.biz/posts/
   rss: https://ruby.mobidev.biz/posts/index.xml
+- name: Ruby Elders
+  url: https://rubyelders.com/writings.html
+  rss: https://rubyelders.com/writings.atom
 - name: RubyGarage
   url: https://rubygarage.org/blog
   rss: https://rubygarage.org/blog.rss
@@ -279,6 +296,9 @@
   rss: https://www.simplethread.com/feed/
 - name: SINAPTIA
   url: https://sinaptia.dev/blog/
+- name: Skylight
+  url: https://blog.skylight.io/
+  rss: https://blog.skylight.io/rss/
 - name: Sloboda Studio
   url: https://sloboda-studio.com/
   rss: https://sloboda-studio.com/feed/rdf/
@@ -296,6 +316,8 @@
 - name: Square
   url: https://developer.squareup.com/blog/archive/tags/ruby/
   rss: https://developer.squareup.com/blog/rss.xml
+- name: Storm
+  url: https://stormconsultancy.co.uk/blog/
 - name: Super Good Software
   url: https://supergood.software/blog/
   rss: https://supergood.software/rss.xml
@@ -316,6 +338,8 @@
   rss: https://www.thedevpost.com/feed/
 - name: thoughtbot
   url: https://thoughtbot.com/blog
+- name: Tight
+  url: https://tight.no/
 - name: Toptal
   url: https://www.toptal.com/developers/blog/back-end
 - name: Tosbourn
@@ -324,6 +348,9 @@
 - name: Twilio
   url: https://www.twilio.com/en-us/blog
   rss: https://www.twilio.com/sitemap.xml
+- name: Ubicloud
+  url: https://www.ubicloud.com/blog/
+  rss: https://www.ubicloud.com/rss/rss.xml
 - name: Unagi
   url: https://unagisoftware.com/articles/?_taxonomy=ruby-on-rails
 - name: Varvet (Web archive)
@@ -333,35 +360,8 @@
   rss: https://www.vector-logic.com/blog/posts.rss
 - name: Visuality
   url: https://www.visuality.pl/posts
+- name: VisualMode
+  url: https://www.visualmode.dev/blog
 - name: Wonolo
   url: https://engineeringblog.wonolo.com/tag/ruby
   rss: https://engineeringblog.wonolo.com/tag/ruby/rss.xml
-- name: Tight
-  url: https://tight.no/
-- name: Skylight
-  url: https://blog.skylight.io/
-  rss: https://blog.skylight.io/rss/
-- name: Kolosek
-  url: https://kolosek.com/tag/ruby-on-rails/
-  rss: https://kolosek.com/blog/rss/
-- name: Los Angeles AI Apps
-  url: https://losangelesaiapps.com/blog/
-- name: BetaCraft
-  url: https://betacraft.com/category/ruby/
-  rss: https://betacraft.com/feed/
-- name: Ruby Elders
-  url: https://rubyelders.com/writings.html
-  rss: https://rubyelders.com/writings.atom
-- name: Ubicloud
-  url: https://www.ubicloud.com/blog/
-  rss: https://www.ubicloud.com/rss/rss.xml
-- name: Carmatec
-  url: https://www.carmatec.com/blog/
-  rss: https://www.carmatec.com/feed/
-- name: Flagrant
-  url: https://www.beflagrant.com/blog/
-  rss: https://www.beflagrant.com/feed.xml
-- name: Storm
-  url: https://stormconsultancy.co.uk/blog/
-- name: VisualMode
-  url: https://www.visualmode.dev/blog

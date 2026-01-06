@@ -3,24 +3,28 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Mon, 10 Nov 2025 16:50:05 +0300</dateModified>
+    <dateModified>Tue, 06 Jan 2026 17:25:43 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: newsletter'>
       <outline type='rss' text='Awesome Ruby Newsletter' xmlUrl='https://ruby.libhunt.com/newsletter/feed'/>
       <outline type='rss' text='Full Stack Ruby on Rails Weekly Bookmarks' xmlUrl='https://dcyoungdev.substack.com/feed'/>
+      <outline type='rss' text='Hotwire Native Weekly' xmlUrl='https://newsletter.masilotti.com/feed'/>
+      <outline type='rss' text='Hotwire Weekly' xmlUrl='https://www.hotwireweekly.com/rss.xml'/>
       <outline type='rss' text='Joe Masilotti&apos;s newsletter' xmlUrl='https://masilotti.com/feed.xml'/>
       <outline type='rss' text='One Ruby Thing' xmlUrl='https://andycroll.com/index.xml'/>
       <outline type='rss' text='Ruby Biscuit' xmlUrl='https://www.rubybiscuit.fr/feed'/>
       <outline type='rss' text='Ruby Daily' xmlUrl='https://rubydaily.org/feeds_subdomain/RubyDaily/'/>
-      <outline type='rss' text='RubyFlow' xmlUrl='https://rubyflow.com/rss'/>
-      <outline type='rss' text='Rubyland' xmlUrl='https://rubyland.news/feed.rss'/>
       <outline type='rss' text='Ruby on Rails - Monthly' xmlUrl='https://sajjadumar.substack.com/feed'/>
       <outline type='rss' text='Ruby Weekly' xmlUrl='https://rubyweekly.com/rss/'/>
+      <outline type='rss' text='RubyFlow' xmlUrl='https://rubyflow.com/rss'/>
+      <outline type='rss' text='Rubyland' xmlUrl='https://rubyland.news/feed.rss'/>
       <outline type='rss' text='Short Ruby Newsletter' xmlUrl='https://feed.newsletter.shortruby.com'/>
+      <outline type='rss' text='Sustainable Development and More' xmlUrl='https://buttondown.com/davetron5000/rss'/>
       <outline type='rss' text='The Code Gardener' xmlUrl='https://the.codegardener.com/rss/'/>
       <outline type='rss' text='The RailsNotes Newsletter' xmlUrl='https://railsnotes.xyz/feed.xml'/>
       <outline type='rss' text='This week in Rails' xmlUrl='https://rails-weekly.ongoodbits.com/feed'/>
+      <outline type='rss' text='Token Ruby' xmlUrl='https://tokenruby.com/rss'/>
       <outline type='rss' text='Women On Rails Newsletter' xmlUrl='https://womenonrailsinternational.substack.com/feed'/>
     </outline>
   </body>

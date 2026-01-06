@@ -19,17 +19,17 @@
 - name: pushcx
   url: https://push.cx/stream
   rss: https://push.cx/feed.xml
+- name: Ruby Australia
+  url: https://www.youtube.com/@RubyAustralia
+  rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCr38SHAvOKMDyX3-8lhvJHA
+- name: SupeRails
+  url: https://www.youtube.com/@SupeRails
+  rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCyr6ZTmztFW3FB4qG_97FoA
 - name: TenderlovesCoolStuff
   url: https://www.youtube.com/@TenderlovesCoolStuff
   rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCCwuRBRF-IPihV4bob3Ko2w
 - name: TypeFast
   url: https://www.youtube.com/@typefastco
-- name: SupeRails
-  url: https://www.youtube.com/@SupeRails
-  rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCyr6ZTmztFW3FB4qG_97FoA
 - name: Webcrunch
   url: https://www.youtube.com/@Webcrunch
   rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCzePijHDYnVHIXW6HYTL4dg
-- name: Ruby Australia
-  url: https://www.youtube.com/@RubyAustralia
-  rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCr38SHAvOKMDyX3-8lhvJHA

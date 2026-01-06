@@ -21,7 +21,7 @@
   rss: https://medium.com/sitemap/sitemap.xml
 - name: Reddit Ruby
   url: https://www.reddit.com/r/ruby/
-- name: RubyNews
-  url: https://ruby.news/
 - name: RoboRuby (Ruby AI News)
   url: https://rubyai.beehiiv.com/
+- name: RubyNews
+  url: https://ruby.news/

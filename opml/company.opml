@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Mon, 10 Nov 2025 16:50:05 +0300</dateModified>
+    <dateModified>Tue, 06 Jan 2026 17:25:43 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: company'>
@@ -18,9 +18,11 @@
       <outline type='rss' text='Avo' xmlUrl='https://avohq.io/blog/rss'/>
       <outline type='rss' text='Bacancy' xmlUrl='https://www.bacancytechnology.com/blog/wp-json/wp/v2/categories/35'/>
       <outline type='rss' text='Bemi' xmlUrl='https://blog.bemi.io/rss/'/>
+      <outline type='rss' text='BetaCraft' xmlUrl='https://betacraft.com/feed/'/>
       <outline type='rss' text='BigBinary' xmlUrl='https://www.bigbinary.com/blog/feed.xml'/>
       <outline type='rss' text='BoTree Technologies' xmlUrl='https://www.botreetechnologies.com/blog/feed/'/>
       <outline type='rss' text='Brainspec' xmlUrl='http://brainspec.com/blog/atom.xml'/>
+      <outline type='rss' text='Carmatec' xmlUrl='https://www.carmatec.com/feed/'/>
       <outline type='rss' text='Census' xmlUrl='https://census.dev/blog?format=rss'/>
       <outline type='rss' text='Codemancers' xmlUrl='https://www.codemancers.com/rss.xml'/>
       <outline type='rss' text='Codeminer 42' xmlUrl='https://blog.codeminer42.com/feed/'/>
@@ -34,6 +36,7 @@
       <outline type='rss' text='Evil Martians' xmlUrl='https://evilmartians.com/chronicles.atom'/>
       <outline type='rss' text='Fast Ruby' xmlUrl='https://fastruby.io/blog/rss.xml'/>
       <outline type='rss' text='FireHydrant' xmlUrl='https://firehydrant.com/rss.xml'/>
+      <outline type='rss' text='Flagrant' xmlUrl='https://www.beflagrant.com/feed.xml'/>
       <outline type='rss' text='Fly.io' xmlUrl='https://fly.io/ruby-dispatch/feed.xml'/>
       <outline type='rss' text='FreeAgent' xmlUrl='https://engineering.freeagent.com/feed/'/>
       <outline type='rss' text='Getaround' xmlUrl='https://getaround.tech/feed.xml'/>
@@ -51,6 +54,7 @@
       <outline type='rss' text='Judoscale' xmlUrl='https://judoscale.com/rss.xml'/>
       <outline type='rss' text='Kiprosh' xmlUrl='https://blog.kiprosh.com/rss/'/>
       <outline type='rss' text='Knapsack Pro' xmlUrl='https://docs.knapsackpro.com/feed.xml'/>
+      <outline type='rss' text='Kolosek' xmlUrl='https://kolosek.com/blog/rss/'/>
       <outline type='rss' text='Learnetto' xmlUrl='https://learnetto.com/blog/rss'/>
       <outline type='rss' text='ManageIQ' xmlUrl='http://manageiq.org/feed.xml'/>
       <outline type='rss' text='Mintbit' xmlUrl='https://www.mintbit.com/feed.xml'/>
@@ -68,11 +72,13 @@
       <outline type='rss' text='Rebased' xmlUrl='https://blog.rebased.pl/feed.xml'/>
       <outline type='rss' text='RNDSOFT' xmlUrl='https://blog.rnds.pro/data/rss'/>
       <outline type='rss' text='Ruby &amp; Elixir MobiDev Team Blog' xmlUrl='https://ruby.mobidev.biz/posts/index.xml'/>
+      <outline type='rss' text='Ruby Elders' xmlUrl='https://rubyelders.com/writings.atom'/>
       <outline type='rss' text='RubyGarage' xmlUrl='https://rubygarage.org/blog.rss'/>
       <outline type='rss' text='Rubyroid Labs' xmlUrl='https://rubyroidlabs.com/blog/feed/'/>
       <outline type='rss' text='Saeloun' xmlUrl='https://blog.saeloun.com/feed.xml'/>
       <outline type='rss' text='SerpApi' xmlUrl='https://serpapi.com/blog/rss/'/>
       <outline type='rss' text='Simple Thread' xmlUrl='https://www.simplethread.com/feed/'/>
+      <outline type='rss' text='Skylight' xmlUrl='https://blog.skylight.io/rss/'/>
       <outline type='rss' text='Sloboda Studio' xmlUrl='https://sloboda-studio.com/feed/rdf/'/>
       <outline type='rss' text='Snyk' xmlUrl='https://snyk.io/blog/feed/'/>
       <outline type='rss' text='Splitwise' xmlUrl='https://blog.splitwise.com/feed/'/>
@@ -82,6 +88,7 @@
       <outline type='rss' text='The Dev Post (Truemark)' xmlUrl='https://www.thedevpost.com/feed/'/>
       <outline type='rss' text='Tosbourn' xmlUrl='https://tosbourn.com/feed.xml'/>
       <outline type='rss' text='Twilio' xmlUrl='https://www.twilio.com/sitemap.xml'/>
+      <outline type='rss' text='Ubicloud' xmlUrl='https://www.ubicloud.com/rss/rss.xml'/>
       <outline type='rss' text='Vector Logic' xmlUrl='https://www.vector-logic.com/blog/posts.rss'/>
       <outline type='rss' text='Wonolo' xmlUrl='https://engineeringblog.wonolo.com/tag/ruby/rss.xml'/>
     </outline>

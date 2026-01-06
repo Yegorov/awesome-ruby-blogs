@@ -53,7 +53,7 @@ def feedsearch(url)
   site_host = URI(url).host
   # Reject feed urls that are captured but from another site than the url
   # provided and returns the first rss url found
-  Feedbag.find(url).select do |feed_url|
+  Feedbag.find(url, { open_timeout: 5, read_timeout: 5 }).select do |feed_url|
     url.include? URI(feed_url).host
   end.first
 end

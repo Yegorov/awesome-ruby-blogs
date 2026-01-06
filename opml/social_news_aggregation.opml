@@ -3,12 +3,13 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Mon, 10 Nov 2025 16:50:05 +0300</dateModified>
+    <dateModified>Tue, 06 Jan 2026 17:25:43 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: social_news_aggregation'>
       <outline type='rss' text='DevZone (Old Codeguida)' xmlUrl='https://devzone.org.ua/feed/tag/ruby'/>
       <outline type='rss' text='Habr Ruby' xmlUrl='https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru'/>
+      <outline type='rss' text='Hashnode rubyonrails' xmlUrl='https://hashnode.com/n/rubyonrails/rss'/>
       <outline type='rss' text='Medium Ruby' xmlUrl='https://medium.com/sitemap/sitemap.xml'/>
     </outline>
   </body>

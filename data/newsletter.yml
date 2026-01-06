@@ -9,24 +9,26 @@
 - name: Full Stack Ruby on Rails Weekly Bookmarks
   url: https://dcyoungdev.substack.com/
   rss: https://dcyoungdev.substack.com/feed
+- name: Hotwire Native Weekly
+  url: https://newsletter.masilotti.com/
+  rss: https://newsletter.masilotti.com/feed
+- name: Hotwire Weekly
+  url: https://www.hotwireweekly.com/
+  rss: https://www.hotwireweekly.com/rss.xml
 - name: Joe Masilotti's newsletter
   url: https://masilotti.com/newsletter/
   rss: https://masilotti.com/feed.xml
 - name: One Ruby Thing
   url: https://andycroll.com/ruby
   rss: https://andycroll.com/index.xml
+- name: Ruby Around the World Newsletter
+  url: https://rubyaroundtheworld.com/
 - name: Ruby Biscuit
   url: https://www.rubybiscuit.fr/
   rss: https://www.rubybiscuit.fr/feed
 - name: Ruby Daily
   url: https://rubydaily.org/
   rss: https://rubydaily.org/feeds_subdomain/RubyDaily/
-- name: RubyFlow
-  url: https://rubyflow.com/
-  rss: https://rubyflow.com/rss
-- name: Rubyland
-  url: https://rubyland.news/
-  rss: https://rubyland.news/feed.rss
 - name: Ruby on Rails - Monthly
   url: https://sajjadumar.substack.com/
   rss: https://sajjadumar.substack.com/feed
@@ -35,11 +37,20 @@
   rss: https://rubyweekly.com/rss/
 - name: Ruby weekly newsletter (discu.eu)
   url: https://discu.eu/weekly/ruby/
+- name: RubyFlow
+  url: https://rubyflow.com/
+  rss: https://rubyflow.com/rss
+- name: Rubyland
+  url: https://rubyland.news/
+  rss: https://rubyland.news/feed.rss
 - name: Short Ruby Newsletter
   url: https://newsletter.shortruby.com/
   rss: https://feed.newsletter.shortruby.com
 - name: Static Ruby Monthly
   url: https://static-ruby.eremin.eu/
+- name: Sustainable Development and More
+  url: https://buttondown.com/davetron5000
+  rss: https://buttondown.com/davetron5000/rss
 - name: The Code Gardener
   url: https://the.codegardener.com/
   rss: https://the.codegardener.com/rss/
@@ -49,22 +60,11 @@
 - name: This week in Rails
   url: https://rails-weekly.ongoodbits.com/
   rss: https://rails-weekly.ongoodbits.com/feed
+- name: Token Ruby
+  url: https://www.tokenruby.com/
+  rss: https://tokenruby.com/rss
 - name: Trailblazer newsletter
   url: https://trailblazer.to/2.0/newsletter.html
 - name: Women On Rails Newsletter
   url: https://womenonrailsinternational.substack.com/
   rss: https://womenonrailsinternational.substack.com/feed
-- name: Token Ruby
-  url: https://www.tokenruby.com/
-  rss: https://tokenruby.com/rss
-- name: Sustainable Development and More
-  url: https://buttondown.com/davetron5000
-  rss: https://buttondown.com/davetron5000/rss
-- name: Hotwire Weekly
-  url: https://www.hotwireweekly.com/
-  rss: https://www.hotwireweekly.com/rss.xml
-- name: Hotwire Native Weekly
-  url: https://newsletter.masilotti.com/
-  rss: https://newsletter.masilotti.com/feed
-- name: Ruby Around the World Newsletter
-  url: https://rubyaroundtheworld.com/
