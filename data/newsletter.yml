@@ -18,8 +18,6 @@
 - name: Ruby Biscuit
   url: https://www.rubybiscuit.fr/
   rss: https://www.rubybiscuit.fr/feed
-- name: RubyCademy's Newsletter
-  url: https://newsletter.rubycademy.com/
 - name: Ruby Daily
   url: https://rubydaily.org/
   rss: https://rubydaily.org/feeds_subdomain/RubyDaily/
@@ -58,3 +56,15 @@
   rss: https://womenonrailsinternational.substack.com/feed
 - name: Token Ruby
   url: https://www.tokenruby.com/
+  rss: https://tokenruby.com/rss
+- name: Sustainable Development and More
+  url: https://buttondown.com/davetron5000
+  rss: https://buttondown.com/davetron5000/rss
+- name: Hotwire Weekly
+  url: https://www.hotwireweekly.com/
+  rss: https://www.hotwireweekly.com/rss.xml
+- name: Hotwire Native Weekly
+  url: https://newsletter.masilotti.com/
+  rss: https://newsletter.masilotti.com/feed
+- name: Ruby Around the World Newsletter
+  url: https://rubyaroundtheworld.com/

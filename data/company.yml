@@ -173,7 +173,7 @@
   url: https://learnetto.com/blog
   rss: https://learnetto.com/blog/rss
 - name: Lunar Logic
-  url: https://blog.lunarlogic.com/tags/ruby/
+  url: https://lunarlogic.com/blog
 - name: ManageIQ
   url: https://www.manageiq.org/blog/tags/ruby/
   rss: http://manageiq.org/feed.xml
@@ -197,7 +197,7 @@
 - name: Netskin
   url: https://www.netskin.com/posts
 - name: Nopio
-  url: https://www.nopio.com/category/ruby-on-rails/
+  url: https://www.nopio.com/blog/category/ruby-on-rails/
 - name: Olio
   url: https://tech.olioex.com/
   rss: https://tech.olioex.com/feed.xml
@@ -237,7 +237,7 @@
   url: https://blog.rebased.pl/
   rss: https://blog.rebased.pl/feed.xml
 - name: Red Hat
-  url: https://developers.redhat.com/topics/ruby/all
+  url: https://developers.redhat.com/blog
 - name: Reintech
   url: https://reintech.io/blog?technology=ruby
 - name: Reinteractive
@@ -264,7 +264,7 @@
 - name: Scriptday
   url: https://scriptday.com/blog/
 - name: Selleo
-  url: https://selleo.com/blog/tag/ruby
+  url: https://selleo.com/blog
 - name: Semaphore
   url: https://semaphoreci.com/blog
 - name: SerpApi
@@ -336,3 +336,32 @@
 - name: Wonolo
   url: https://engineeringblog.wonolo.com/tag/ruby
   rss: https://engineeringblog.wonolo.com/tag/ruby/rss.xml
+- name: Tight
+  url: https://tight.no/
+- name: Skylight
+  url: https://blog.skylight.io/
+  rss: https://blog.skylight.io/rss/
+- name: Kolosek
+  url: https://kolosek.com/tag/ruby-on-rails/
+  rss: https://kolosek.com/blog/rss/
+- name: Los Angeles AI Apps
+  url: https://losangelesaiapps.com/blog/
+- name: BetaCraft
+  url: https://betacraft.com/category/ruby/
+  rss: https://betacraft.com/feed/
+- name: Ruby Elders
+  url: https://rubyelders.com/writings.html
+  rss: https://rubyelders.com/writings.atom
+- name: Ubicloud
+  url: https://www.ubicloud.com/blog/
+  rss: https://www.ubicloud.com/rss/rss.xml
+- name: Carmatec
+  url: https://www.carmatec.com/blog/
+  rss: https://www.carmatec.com/feed/
+- name: Flagrant
+  url: https://www.beflagrant.com/blog/
+  rss: https://www.beflagrant.com/feed.xml
+- name: Storm
+  url: https://stormconsultancy.co.uk/blog/
+- name: VisualMode
+  url: https://www.visualmode.dev/blog

@@ -101,8 +101,6 @@
 - name: RubyCademy (Medium)
   url: https://medium.com/rubycademy
   rss: https://medium.com/feed/rubycademy
-- name: RubyCademy
-  url: https://www.rubycademy.com/blog
 - name: RubyGems
   url: https://blog.rubygems.org/
   rss: https://blog.rubygems.org/atom.xml
@@ -154,3 +152,30 @@
 - name: Rubyist Magazine (Rubima)
   url: https://magazine.rubyist.net/
   rss: https://magazine.rubyist.net/feed.xml
+- name: Programming Zen (Antonio Cangiano)
+  url: https://programmingzen.com/category/programming/
+  rss: https://programmingzen.com/category/programming/feed/
+- name: Webcrunch
+  url: https://webcrunch.com/posts
+  rss: https://webcrunch.com/feed.rss
+- name: Short Ruby Email Courses
+  url: https://learn.shortruby.com/blog
+  rss: https://learn.shortruby.com/blog/feed
+- name: Drifting Ruby Blog
+  url: https://blog.driftingruby.com/
+  rss: https://blog.driftingruby.com/rss/
+- name: Business Class Blog (Josef Strzibny)
+  url: https://businessclasskit.com/blog
+  rss: https://businessclasskit.com/blog/feed.xml
+- name: Test Driving Rails Blog (Josef Strzibny)
+  url: https://testdrivingrails.com/blog
+  rss: https://testdrivingrails.com/blog/feed.xml
+- name: RailsGrowth
+  url: https://railsgrowth.com/
+  rss: https://railsgrowth.com/rss/
+- name: RubyEnv
+  url: https://rubyenv.app/blog
+- name: Why Ruby?
+  url: https://whyruby.info/
+- name: Beautiful Ruby
+  url: https://beautifulruby.com/code

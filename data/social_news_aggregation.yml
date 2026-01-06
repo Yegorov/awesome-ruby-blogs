@@ -13,6 +13,7 @@
   url: https://hashnode.com/n/ruby
 - name: Hashnode rubyonrails
   url: https://hashnode.com/n/rubyonrails
+  rss: https://hashnode.com/n/rubyonrails/rss
 - name: Mastodon ruby.social
   url: https://ruby.social/explore
 - name: Medium Ruby
@@ -22,3 +23,5 @@
   url: https://www.reddit.com/r/ruby/
 - name: RubyNews
   url: https://ruby.news/
+- name: RoboRuby (Ruby AI News)
+  url: https://rubyai.beehiiv.com/

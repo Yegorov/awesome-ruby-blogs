@@ -28,7 +28,7 @@
   rss: https://www.spreaker.com/show/6102073/episodes/feed
 - name: The Bike Shed
   url: https://bikeshed.thoughtbot.com
-  rss: https://feeds.fireside.fm/bikeshed/rss
+  rss: https://bikeshed.thoughtbot.com/rss
 - name: The Ruby Gems Podcast
   url: https://www.buzzsprout.com/2509083
   rss: https://feeds.buzzsprout.com/2509083.rss

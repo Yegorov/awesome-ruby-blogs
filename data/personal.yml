@@ -2,8 +2,9 @@
 - name: Aaron Patterson
   url: https://tenderlovemaking.com/
   rss: https://tenderlovemaking.com/atom.xml
-- name: Aaron Sumner (Everyday Rails)
-  url: https://everydayrails.com/archives.html
+- name: Aaron Sumner (Left of the Dev (formerly Everyday Rails))
+  url: https://leftofthe.dev/
+  rss: https://leftofthe.dev/atom.xml
 - name: Abhay Nikam
   url: https://www.abhaynikam.me/
   rss: https://www.abhaynikam.me/rss.xml
@@ -23,6 +24,7 @@
   rss: https://aonemd.com/index.xml
 - name: Ahmed Nadar (hashnode)
   url: https://ahmednadar.hashnode.dev
+  rss: https://ahmednadar.hashnode.dev/rss.xml
 - name: Ahmed Nadar (Web archive)
   url: https://web.archive.org/web/20240719180311/http://www.ahmednadar.com/posts
 - name: Akshay Birajdar
@@ -79,6 +81,7 @@
   rss: https://ankane.org/feed.rss
 - name: Andrey Eremin
   url: https://www.eremin.eu/tags/ruby/page
+  rss: https://www.eremin.eu/feed/blog/feed.xml
 - name: Andrii Konchyn
   url: https://andrykonchin.github.io/
   rss: https://andrykonchin.github.io/feed.xml
@@ -111,8 +114,8 @@
 - name: Aristóteles Coutinho
   url: https://aristotelescoutinho.com.br/
 - name: Augusts Bautra
-  url: http://epigene.github.io/
-  rss: http://epigene.github.io/feed.xml
+  url: https://epigene.github.io/
+  rss: https://epigene.github.io/feed.xml
 - name: Avdi Grimm
   url: https://avdi.codes/blog/
   rss: https://avdi.codes/feed/
@@ -253,6 +256,7 @@
   rss: https://www.dsdev.in/rss.xml
 - name: Dick Davis
   url: https://dick.codes/
+  rss: https://dick.codes/feed.xml
 - name: Dimiter Petrov
   url: https://dimiterpetrov.com/blog
   rss: https://dimiterpetrov.com/blog/feed.xml
@@ -392,8 +396,6 @@
   url: https://ivoanjo.me/
   rss: https://ivoanjo.me/feed.xml
 - name: Jake Worth
-  url: https://jakeworth.com/blog/
-- name: Jake Worth
   url: https://www.jakeworth.com/posts/
   rss: https://jakeworth.com/posts/index.xml
 - name: Jake Zimmerman
@@ -448,12 +450,14 @@
   url: https://jbhannah.net/
 - name: Jesus Castello
   url: https://www.rubyguides.com/ruby-post-index/
-- name: Jimmy Chao
-  url: http://neethack.com/tags/ruby/
+  rss: https://www.rubyguides.com/feed/
+- name: Jimmy Chao (Web archive)
+  url: https://web.archive.org/web/20241013050343/http://neethack.com/tags/ruby/
 - name: Jim Weirich (Web archive)
   url: https://web.archive.org/web/20241013050338/https://www.onestepback.org/articles/index.html
 - name: Joel Drapper
-  url: https://www.namingthings.org/archive
+  url: https://joel.drapper.me/
+  rss: https://joel.drapper.me/rss.xml
 - name: Joe Masilotti
   url: https://masilotti.com/articles/
   rss: https://masilotti.com/feed.xml
@@ -539,7 +543,7 @@
 - name: Karol Galanciak
   url: https://karolgalanciak.com/blog/
   rss: https://karolgalanciak.com/feed.xml
-- name: Kasper Timm Hansen
+- name: Kasper Timm Hansen (buttondown)
   url: https://buttondown.com/kaspth/archive/
   rss: https://buttondown.com/kaspth/rss
 - name: Kevin Glowacz
@@ -594,6 +598,7 @@
   rss: https://medium.com/feed/@luanotes
 - name: Luca Guidi
   url: https://lucaguidi.com/
+  rss: https://lucaguidi.com/rss.xml
 - name: Lucas Dohmen
   url: https://lucas.dohmen.io/
   rss: https://lucas.dohmen.io/feed.xml
@@ -657,10 +662,10 @@
 - name: Michael Grosser
   url: https://grosser.it/
   rss: https://grosser.it/feed/
-- name: Michael Nelson
-  url: http://nelsonware.com/ruby.html
-- name: Michael Wallbaum
-  url: https://mwallba.io/
+- name: Michael Nelson (Web archive)
+  url: https://web.archive.org/web/20241004080114/http://nelsonware.com/ruby.html
+- name: Michael Wallbaum (Web archive)
+  url: https://web.archive.org/web/20251111112151/https://mwallba.io/
 - name: Michal Kazmierczak
   url: https://mkaz.me/blog/
 - name: Michal Papis (Web archive)
@@ -713,9 +718,12 @@
 - name: Nick Hammond
   url: https://www.fromthekeyboard.com/
   rss: https://www.fromthekeyboard.com/rss/
-- name: Nick Schwaderer
+- name: Nick Schwaderer (schwad.github.io)
   url: https://schwad.github.io/
   rss: https://schwad.github.io/feed.xml
+- name: Nick Schwaderer (blog.schwad.org)
+  url: https://blog.schwad.org/
+  rss: https://blog.schwad.org/feed
 - name: Nick Sutterer
   url: https://apotonick.wordpress.com/
   rss: https://apotonick.wordpress.com/feed/
@@ -740,8 +748,6 @@
 - name: Nolan Phillips
   url: https://blog.nolanphillips.com/
   rss: https://blog.nolanphillips.com/rss.xml
-- name: Olly Headey
-  url: https://headey.net/archive/
 - name: Owais
   url: https://owaiskhan.me/blog
 - name: Pat Allan
@@ -761,13 +767,11 @@
 - name: Paweł Świątkowski
   url: https://katafrakt.me/posts/
   rss: https://katafrakt.me/feed.xml
-- name: Peter Keogh
-  url: http://keoghpe.github.io/
-  rss: http://keoghpe.github.io/feed.xml
 - name: Peter Ohler
   url: http://www.ohler.com/dev/index.html
 - name: Peter Solnica
-  url: https://solnic.dev/archive
+  url: https://solnic.dev/
+  rss: https://solnic.dev/rss/
 - name: Peter Zhu
   url: https://blog.peterzhu.ca/
   rss: https://blog.peterzhu.ca/feed.xml
@@ -800,10 +804,10 @@
 - name: Radan Skorić
   url: https://radanskoric.com/tags/ruby/
   rss: https://radanskoric.com/feed.xml
-- name: Radoslav Stankov
+- name: Radoslav Stankov (Rado's Tips)
   url: https://tips.rstankov.com/archive
   rss: https://tips.rstankov.com/feed
-- name: Radoslav Stankov
+- name: Radoslav Stankov (Rado's Blog)
   url: https://blog.rstankov.com/tag/ruby/
   rss: https://blog.rstankov.com/rss/
 - name: Rafael Montas
@@ -841,7 +845,7 @@
   url: https://rosenfeld.page/articles/tags/ruby
   rss: https://rosenfeld.page/articles/tags/ruby/atom
 - name: Roland Lopez
-  url: https://rolandsoftwares.com/posts/
+  url: https://rolandsoftwares.com/content/
 - name: Roland Studer
   url: https://rstuder.ch/
   rss: https://rstuder.ch/feed.xml
@@ -859,7 +863,7 @@
   rss: https://joyofrails.com/feed
 - name: Ruslan Gafurov
   url: https://gafur.me/blog/
-- name: Rustam A. Gasanov
+- name: Rustam A. Gasanov (Web archive)
   url: http://web.archive.org/web/20220503193002/http://rustamagasanov.com/
 - name: Ryan Bates
   url: https://rbates.dev/
@@ -896,6 +900,7 @@
   rss: https://www.seancdavis.com/feed.xml
 - name: Seb Wilgosz
   url: https://swilgosz.hashnode.dev/
+  rss: https://swilgosz.hashnode.dev/rss.xml
 - name: Shayon Mukherjee
   url: https://www.shayon.dev/post/
   rss: https://www.shayon.dev/post/index.xml
@@ -1043,9 +1048,231 @@
   rss: https://takagi.blog/tags/ruby/rss.xml
 - name: Younes SERRAJ
   url: https://younes.codes/
+  rss: https://younes.codes/posts.rss
 - name: Youssef Boulkaid
   url: https://blog.yboulkaid.com/blog
   rss: https://blog.yboulkaid.com/feed.xml
 - name: Владимир Мирошниченко
   url: https://gururuby.ru/
   rss: https://gururuby.ru/atom.xml
+- name: Jamis Buck
+  url: https://weblog.jamisbuck.org/archives.html
+  rss: https://feeds.feedburner.com/buckblog
+- name: Peter Keogh
+  url: https://keoghpe.github.io/
+  rss: https://keoghpe.github.io/feed.xml
+- name: Olly Headey
+  url: https://olly.world/archive
+  rss: https://olly.world/feed.xml
+- name: Dirk Jonker
+  url: https://dirkjonker.bearblog.dev/
+  rss: https://dirkjonker.bearblog.dev/feed/
+- name: Gergő Sulymosi
+  url: https://gergo.dev/
+  rss: https://gergo.dev/atom.xml
+- name: William Kennedy
+  url: https://williamkennedy.ninja/posts/
+  rss: https://williamkennedy.ninja/feed.xml
+- name: Sulman Baig
+  url: https://sulmanweb.com/
+  rss: https://sulmanweb.com/rss.xml
+- name: Mark Godwin (railscraft)
+  url: https://railscraft.hashnode.dev/
+  rss: https://railscraft.hashnode.dev/rss.xml
+- name: Marco Roth
+  url: https://marcoroth.dev/blog
+  rss: https://marcoroth.dev/feed.xml
+- name: David Morales (DevelClan)
+  url: https://develclan.com/
+  rss: https://develclan.com/rss.xml
+- name: Jakob Skjerning
+  url: https://mentalized.net/
+  rss: https://mentalized.net/journal/entries.xml
+- name: Thomas Hurst
+  url: https://hur.st/
+- name: Tristan Dunn
+  url: https://tristandunn.com
+  rss: https://tristandunn.com/feed
+- name: Charles Oliver Nutter
+  url: https://blog.headius.com/
+  rss: https://blog.headius.com/feed.xml
+- name: Giménez Silva Germán Alberto
+  url: https://rubystacknews.com/
+  rss: https://rubystacknews.com/feed/
+- name: Pablo Enoc
+  url: https://enocc.com/
+  rss: https://enocc.com/feed.xml
+- name: Donn Felker
+  url: https://www.donnfelker.com/blog/
+  rss: https://www.donnfelker.com/feed/
+- name: Adam Tomeček
+  url: https://blog.tmck.cz/
+  rss: https://blog.tmck.cz/feed.xml
+- name: Andrei Maxim
+  url: https://andreimaxim.com/
+  rss: https://andreimaxim.com/feed.xml
+- name: James Golick
+  url: https://www.jamesgolick.com/
+  rss: http://feeds.feedburner.com/JamesOnSoftware
+- name: Martin Emde
+  url: https://martinemde.com/
+  rss: https://martinemde.com/rss.xml
+- name: Lucian Ghinda (Notes)
+  url: https://notes.ghinda.com/
+  rss: https://notes.ghinda.com/feed.atom
+- name: Henry Maddocks
+  url: https://henry.bearblog.dev/blog/
+  rss: https://henry.bearblog.dev/about/feed/?type=rss
+- name: Иван Шихалев
+  url: https://shikhalev.github.io/tech/programming/ruby/
+  rss: https://shikhalev.github.io/feed.xml
+- name: Tom Mango
+  url: https://sleepingpotato.com/
+  rss: https://sleepingpotato.com/rss/
+- name: Darius Pirvulescu
+  url: https://organicdarius.com/blog/
+  rss: https://organicdarius.com/blog/feed.xml
+- name: Scott Werner
+  url: https://worksonmymachine.substack.com/
+  rss: https://worksonmymachine.substack.com/feed
+- name: Kuba Suder
+  url: https://journal.mackuba.eu/archive/
+  rss: https://journal.mackuba.eu/feed.xml
+- name: Clayton Lengel-Zigich
+  url: https://railsboilerplate.com/articles
+- name: Andy Waite
+  url: https://andywaite.com/
+  rss: https://andywaite.com/feed.xml
+- name: Yuri Bocharov
+  url: https://blog.yuribocharov.dev/
+  rss: https://blog.yuribocharov.dev/feed.xml
+- name: Zacharias Dyna Knudsen
+  url: https://za.chari.as/
+- name: Benjamin Fleischer
+  url: https://www.benjaminfleischer.com/
+  rss: https://www.benjaminfleischer.com/atom.xml
+- name: Jacob Swanner
+  url: https://jacobswanner.com/development/
+  rss: https://jacobswanner.com/atom.xml
+- name: Carmine Paolino
+  url: https://paolino.me/
+  rss: https://paolino.me/feed.xml
+- name: Linas Juškevičius
+  url: https://kaukas.mataroa.blog/
+  rss: https://kaukas.mataroa.blog/rss/
+- name: Jason Fleetwood-Bold
+  url: https://jasonfleetwoodboldt.com/topics/programming/
+  rss: https://jasonfleetwoodboldt.com/feed/
+- name: Chen Kinnrot
+  url: https://kinnrot.github.io/
+  rss: https://kinnrot.github.io/feed.xml
+- name: Josh Thompson
+  url: https://www.intermediateruby.com/articles
+  rss: https://www.intermediateruby.com/atom.xml
+- name: Prateek Choudhary
+  url: https://www.prateekcodes.dev/
+- name: Kasper Timm Hansen
+  url: https://kaspth.com/posts
+  rss: https://kaspth.com/posts_feed
+- name: Ben Koshy
+  url: https://benkoshy.github.io/
+  rss: https://benkoshy.github.io/feed.xml
+- name: Austin Ziegler
+  url: https://www.halostatue.ca/
+  rss: https://www.halostatue.ca/index.xml
+- name: Giovanni Panasiti
+  url: https://www.panasiti.me/blog/
+  rss: https://www.panasiti.me/feed.xml
+- name: Amir Sharif
+  url: https://www.amirsharif.com/
+  rss: https://www.amirsharif.com/feed.rss
+- name: Cassey Lottman
+  url: https://cassey.dev/
+  rss: https://cassey.dev/rss/
+- name: Robby Russell
+  url: https://robbyonrails.com/
+  rss: https://robbyonrails.com/feed.xml
+- name: Ben Pickles
+  url: https://www.benpickles.com/articles
+  rss: https://www.benpickles.com/articles.atom
+- name: Lovro Bikić
+  url: https://lovro-bikic.github.io/
+  rss: https://lovro-bikic.github.io/feed.xml
+- name: Yatish Mehta
+  url: https://yatishmehta.com/blog
+- name: Jens Eickmeyer
+  url: https://scratchpad.blog/
+  rss: https://scratchpad.blog/feed.xml
+- name: Felipe Contreras
+  url: https://felipec.wordpress.com/category/development/
+  rss: https://felipec.wordpress.com/feed/
+- name: Tony Ennis
+  url: https://www.tonyennis.com/dev
+- name: Javier Cervantes
+  url: https://www.rubynewbie.org/
+  rss: https://www.rubynewbie.org/feed.xml
+- name: Alessandro Rodi
+  url: https://coorasse.com/
+  rss: https://coorasse.com/feed.xml
+- name: Robert
+  url: https://0x1eef.github.io/posts/
+- name: Carl Wiedemann
+  url: https://carlwiedemann.github.io/
+  rss: https://carlwiedemann.github.io/feed.xml
+- name: Dennis Paagman
+  url: https://paagman.dev/articles/
+  rss: https://paagman.dev/feed.xml
+- name: Rahoul Baruah
+  url: https://theartandscienceofruby.com/
+  rss: https://theartandscienceofruby.com/rss/
+- name: Vicente Reig
+  url: https://oss.vicente.services/dspy.rb/blog/
+- name: Gregg Kellogg
+  url: https://greggkellogg.net/categories/ruby/
+- name: Victor Wynne
+  url: https://victorwynne.com/vault/
+  rss: https://victorwynne.com/feed.xml
+- name: Ryan Johnston
+  url: https://ryjo.codes/
+- name: Tristan Penman
+  url: https://tristanpenman.com/blog/
+  rss: https://tristanpenman.com/feed.xml
+- name: Florent Guilleux
+  url: https://www.florentguilleux.fr/
+  rss: https://www.florentguilleux.fr/rss.xml
+- name: Stuart Yamartino
+  url: https://stuyam.com/blog
+- name: Mateus Pereira
+  url: https://pearprogramming.blog/posts/
+- name: Leandro Proença
+  url: https://leandronsp.com/?tag=ruby
+- name: Shivam Chahar
+  url: https://www.shivamchahar.com/posts
+  rss: https://www.shivamchahar.com/feed.xml
+- name: Michael Dominick
+  url: https://dominickm.com/tag/ruby/
+  rss: https://dominickm.com/feed/
+- name: Dennis Martinez
+  url: https://dev-tester.com/
+  rss: https://dev-tester.com/rss/
+- name: Juliana Dias
+  url: https://blog.juliana.dev/blog
+  rss: https://blog.juliana.dev/feed.xml
+- name: Dan Croak
+  url: https://dancroak.com/
+- name: Felice Forby
+  url: https://feliceforby.com/
+  rss: https://feliceforby.com/posts_feed
+- name: David Silva
+  url: https://davidslv.uk/
+  rss: https://davidslv.uk/feed.xml
+- name: Tëma Bolshakov
+  url: https://blog.bolshakov.dev/
+  rss: https://blog.bolshakov.dev/feed.xml
+- name: Justin Gordon
+  url: http://www.railsonmaui.com/
+- name: Peter Morgenstern
+  url: https://www.petergundel.de/
+- name: Andrew Nesbitt
+  url: https://nesbitt.io/posts/
+  rss: https://nesbitt.io/feed.xml
