@@ -44,12 +44,12 @@
   rss: https://albertoalmagro.com/feed/
 - name: Aleksandr Ulanov
   url: https://ualeks.dev/posts/
-- name: Alessandro Rodi (Medium)
-  url: https://medium.com/@coorasse
-  rss: https://medium.com/feed/@coorasse
 - name: Alessandro Rodi
   url: https://coorasse.com/
   rss: https://coorasse.com/feed.xml
+- name: Alessandro Rodi (Medium)
+  url: https://medium.com/@coorasse
+  rss: https://medium.com/feed/@coorasse
 - name: Alex Piechowski
   url: https://piechowski.io/post/
 - name: Alex Taylor
