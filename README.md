@@ -56,6 +56,7 @@
 * [Habr Ruby](https://habr.com/ru/hubs/ruby/articles/) ([rss](https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru))
 * [Hashnode ruby](https://hashnode.com/n/ruby)
 * [Hashnode rubyonrails](https://hashnode.com/n/rubyonrails) ([rss](https://hashnode.com/n/rubyonrails/rss))
+* [Human Coders News Ruby](https://news.humancoders.com/t/ruby) ([rss](https://news.humancoders.com/t/ruby/items/feed))
 * [Mastodon ruby.social](https://ruby.social/explore)
 * [Medium Ruby](https://medium.com/tag/ruby) ([rss](https://medium.com/sitemap/sitemap.xml))
 * [Reddit Ruby](https://www.reddit.com/r/ruby/)
