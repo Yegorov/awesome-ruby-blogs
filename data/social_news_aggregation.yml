@@ -14,6 +14,9 @@
 - name: Hashnode rubyonrails
   url: https://hashnode.com/n/rubyonrails
   rss: https://hashnode.com/n/rubyonrails/rss
+- name: Human Coders News Ruby
+  url: https://news.humancoders.com/t/ruby
+  rss: https://news.humancoders.com/t/ruby/items/feed
 - name: Mastodon ruby.social
   url: https://ruby.social/explore
 - name: Medium Ruby
