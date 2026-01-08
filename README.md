@@ -191,6 +191,7 @@
 * [Axel Kee](https://rubyyagi.com/) ([rss](https://rubyyagi.com/feed.xml))
 * [Ayush Newatia](https://binarysolo.blog/) ([rss](https://binarysolo.blog/feed.xml))
 * [Balázs Kutil](https://balazs.kutilovi.cz/) ([rss](https://balazs.kutilovi.cz/index.xml))
+* [Bamchi](https://bamchi.me) ([rss](https://bamchi.me/en/feed))
 * [Ben Koshy](https://benkoshy.github.io/) ([rss](https://benkoshy.github.io/feed.xml))
 * [Ben Pickles](https://www.benpickles.com/articles) ([rss](https://www.benpickles.com/articles.atom))
 * [Ben Sheldon](https://island94.org/archives) ([rss](https://island94.org/feed.xml))

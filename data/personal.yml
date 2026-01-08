@@ -152,6 +152,9 @@
 - name: Balázs Kutil
   url: https://balazs.kutilovi.cz/
   rss: https://balazs.kutilovi.cz/index.xml
+- name: Bamchi
+  url: https://bamchi.me
+  rss: https://bamchi.me/en/feed
 - name: Ben Koshy
   url: https://benkoshy.github.io/
   rss: https://benkoshy.github.io/feed.xml
