@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Wed, 07 Jan 2026 13:51:21 +0300</dateModified>
+    <dateModified>Thu, 08 Jan 2026 13:05:49 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: personal'>
@@ -20,8 +20,8 @@
       <outline type='rss' text='Akshay Khot (Write Software, Well)' xmlUrl='https://www.writesoftwarewell.com/rss/'/>
       <outline type='rss' text='Akshay Mohite' xmlUrl='https://www.rubyinrails.com/feed.xml'/>
       <outline type='rss' text='Alberto Almagro' xmlUrl='https://albertoalmagro.com/feed/'/>
-      <outline type='rss' text='Alessandro Rodi (Medium)' xmlUrl='https://medium.com/feed/@coorasse'/>
       <outline type='rss' text='Alessandro Rodi' xmlUrl='https://coorasse.com/feed.xml'/>
+      <outline type='rss' text='Alessandro Rodi (Medium)' xmlUrl='https://medium.com/feed/@coorasse'/>
       <outline type='rss' text='Alex Taylor' xmlUrl='https://alextaylor.ca/atom.xml'/>
       <outline type='rss' text='Alexander Butt-Piercey' xmlUrl='https://apiercey.github.io/posts/index.xml'/>
       <outline type='rss' text='Alexandre Barret' xmlUrl='https://alexbarret.com/feed.xml'/>
@@ -52,6 +52,7 @@
       <outline type='rss' text='Axel Kee' xmlUrl='https://rubyyagi.com/feed.xml'/>
       <outline type='rss' text='Ayush Newatia' xmlUrl='https://binarysolo.blog/feed.xml'/>
       <outline type='rss' text='Balázs Kutil' xmlUrl='https://balazs.kutilovi.cz/index.xml'/>
+      <outline type='rss' text='Bamchi' xmlUrl='https://bamchi.me/en/feed'/>
       <outline type='rss' text='Ben Koshy' xmlUrl='https://benkoshy.github.io/feed.xml'/>
       <outline type='rss' text='Ben Pickles' xmlUrl='https://www.benpickles.com/articles.atom'/>
       <outline type='rss' text='Ben Sheldon' xmlUrl='https://island94.org/feed.xml'/>
