@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Thu, 08 Jan 2026 13:05:49 +0300</dateModified>
+    <dateModified>Wed, 04 Feb 2026 22:31:28 +0000</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -384,6 +384,7 @@
       <outline type='rss' text='Maciej Litwiniuk' xmlUrl='https://maciej.litwiniuk.net/index.xml'/>
       <outline type='rss' text='Maciej Mensfeld' xmlUrl='https://mensfeld.pl/feed/'/>
       <outline type='rss' text='Marc Busqué' xmlUrl='https://waiting-for-dev.github.io/feed.xml'/>
+      <outline type='rss' text='Marcin Ostrowski (rubyonai.com)' xmlUrl='https://rubyonai.com/rss/'/>
       <outline type='rss' text='Marco Roth' xmlUrl='https://marcoroth.dev/feed.xml'/>
       <outline type='rss' text='Mario Alberto Chávez Cárdenas' xmlUrl='https://mariochavez.io/feed.xml'/>
       <outline type='rss' text='Mark Godwin (railscraft)' xmlUrl='https://railscraft.hashnode.dev/rss.xml'/>
