@@ -412,6 +412,7 @@
 * [Mahbub Zaman](https://mahbub.ninja/blog)
 * [Manuel Farez](https://manufarez.com/)
 * [Marc Busqué](https://waiting-for-dev.github.io/) ([rss](https://waiting-for-dev.github.io/feed.xml))
+* [Marcin Ostrowski (rubyonai.com)](https://rubyonai.com/) ([rss](https://rubyonai.com/rss/))
 * [Marco Roth](https://marcoroth.dev/blog) ([rss](https://marcoroth.dev/feed.xml))
 * [Mario Alberto Chávez Cárdenas](https://mariochavez.io/) ([rss](https://mariochavez.io/feed.xml))
 * [Mark Godwin (railscraft)](https://railscraft.hashnode.dev/) ([rss](https://railscraft.hashnode.dev/rss.xml))

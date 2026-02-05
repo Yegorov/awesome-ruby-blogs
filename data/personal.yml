@@ -770,6 +770,9 @@
 - name: Marc Busqué
   url: https://waiting-for-dev.github.io/
   rss: https://waiting-for-dev.github.io/feed.xml
+- name: Marcin Ostrowski (rubyonai.com)
+  url: https://rubyonai.com/
+  rss: https://rubyonai.com/rss/
 - name: Marco Roth
   url: https://marcoroth.dev/blog
   rss: https://marcoroth.dev/feed.xml
