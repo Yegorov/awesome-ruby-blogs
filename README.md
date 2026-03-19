@@ -594,6 +594,7 @@
 * [Youssef Boulkaid](https://blog.yboulkaid.com/blog) ([rss](https://blog.yboulkaid.com/feed.xml))
 * [Yuri Bocharov](https://blog.yuribocharov.dev/) ([rss](https://blog.yuribocharov.dev/feed.xml))
 * [Zacharias Dyna Knudsen](https://za.chari.as/)
+* [Zil Norvilis](https://norvilis.com) ([rss](https://norvilis.com/feed.xml)
 * [Владимир Мирошниченко](https://gururuby.ru/) ([rss](https://gururuby.ru/atom.xml))
 * [Иван Шихалев](https://shikhalev.github.io/tech/programming/ruby/) ([rss](https://shikhalev.github.io/feed.xml))
 
