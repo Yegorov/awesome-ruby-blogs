@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Wed, 04 Feb 2026 22:31:28 +0000</dateModified>
+    <dateModified>Mon, 23 Mar 2026 10:38:52 +0300</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: community'>
@@ -526,6 +526,7 @@
       <outline type='rss' text='Younes SERRAJ' xmlUrl='https://younes.codes/posts.rss'/>
       <outline type='rss' text='Youssef Boulkaid' xmlUrl='https://blog.yboulkaid.com/feed.xml'/>
       <outline type='rss' text='Yuri Bocharov' xmlUrl='https://blog.yuribocharov.dev/feed.xml'/>
+      <outline type='rss' text='Zil Norvilis' xmlUrl='https://norvilis.com/feed.xml'/>
       <outline type='rss' text='Владимир Мирошниченко' xmlUrl='https://gururuby.ru/atom.xml'/>
       <outline type='rss' text='Иван Шихалев' xmlUrl='https://shikhalev.github.io/feed.xml'/>
     </outline>
