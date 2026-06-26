@@ -10,6 +10,9 @@
 - name: Deanin
   url: https://www.youtube.com/@Deanin
   rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCRQv-3VvPT9mArF5RfrlpKQ
+- name: FoobaraFlix
+  url: https://www.youtube.com/@FoobaraFlix
+  rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCwpI2lfRYt557-WmWUtmTBQ
 - name: Higher Theory Dev
   url: https://www.youtube.com/@HigherTheoryDev
   rss: https://www.youtube.com/feeds/videos.xml?channel_id=UCJeItdDBizxD7-BXnSSrE9w
