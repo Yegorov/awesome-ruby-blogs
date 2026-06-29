@@ -3,7 +3,7 @@
   <head>
     <title>Subscriptions</title>
     <dateCreated>Sat, 30 Aug 2025 11:45:00 +1200</dateCreated>
-    <dateModified>Mon, 23 Mar 2026 10:38:52 +0300</dateModified>
+    <dateModified>Thu, 25 Jun 2026 18:20:04 -0700</dateModified>
   </head>
   <body>
     <outline text='Awesome Ruby Blogs: personal'>
@@ -248,6 +248,7 @@
       <outline type='rss' text='Mike Perham' xmlUrl='https://mikeperham.com/index.xml'/>
       <outline type='rss' text='Mike Wilson' xmlUrl='https://www.mikewilson.dev/feed.xml'/>
       <outline type='rss' text='Mikhail Klimenko' xmlUrl='https://blog.klimenko.site/feed.xml'/>
+      <outline type='rss' text='Miles Georgi' xmlUrl='https://miles.georgi.foo/rss.xml'/>
       <outline type='rss' text='Miles Woodroffe' xmlUrl='https://mileswoodroffe.com/feed.xml'/>
       <outline type='rss' text='Mohammad A. Ali' xmlUrl='https://oldmoe.blog/feed/'/>
       <outline type='rss' text='Mohit Sindhwani' xmlUrl='https://notepad.onghu.com/feed.xml'/>

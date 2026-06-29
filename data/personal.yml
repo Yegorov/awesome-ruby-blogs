@@ -850,6 +850,9 @@
 - name: Mikhail Klimenko
   url: https://blog.klimenko.site/
   rss: https://blog.klimenko.site/feed.xml
+- name: Miles Georgi
+  url: https://miles.georgi.foo/
+  rss: https://miles.georgi.foo/rss.xml
 - name: Miles Woodroffe
   url: https://mileswoodroffe.com/tags/rails
   rss: https://mileswoodroffe.com/feed.xml
