@@ -640,6 +640,7 @@
 * [Doximity](https://technology.doximity.com/sitemaps)
 * [Engine Yard](https://www.engineyard.com/blog/tag/ruby-on-rails/) ([rss](https://www.engineyard.com/blog/tag/ruby-on-rails/feed/))
 * [Evil Martians](https://evilmartians.com/chronicles) ([rss](https://evilmartians.com/chronicles.atom))
+* [FASCINATION•works](https://fascination.works/posts/) ([rss](https://fascination.works/feed.xml))
 * [Fast Ruby](https://www.fastruby.io/blog) ([rss](https://fastruby.io/blog/rss.xml))
 * [Faster Than Light](https://fasterthanlight.me/blog)
 * [Featurist](https://archive.featurist.co.uk/blog/)

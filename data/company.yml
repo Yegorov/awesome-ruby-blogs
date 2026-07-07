@@ -102,6 +102,9 @@
 - name: Evil Martians
   url: https://evilmartians.com/chronicles
   rss: https://evilmartians.com/chronicles.atom
+- name: FASCINATION•works
+  url: https://fascination.works/posts/
+  rss: https://fascination.works/feed.xml
 - name: Fast Ruby
   url: https://www.fastruby.io/blog
   rss: https://fastruby.io/blog/rss.xml
