@@ -182,6 +182,7 @@
 * [Anna Gavrilova](https://kotogavr.vercel.app/blog)
 * [Anthony Drake](https://www.t27duck.com/posts) ([rss](https://www.t27duck.com/posts.xml))
 * [Anton Davydov](https://www.davydovanton.com/blog/) ([rss](https://www.davydovanton.com/atom.xml))
+* [Anton Kopylov](https://www.kopylov.net/blog.html) ([rss](https://www.kopylov.net/blog/feed.xml))
 * [Aotokitsuruya](https://blog.aotoki.me/en/) ([rss](https://blog.aotoki.me/en/index.xml))
 * [Aristóteles Coutinho](https://aristotelescoutinho.com.br/)
 * [Augusts Bautra](https://epigene.github.io/) ([rss](https://epigene.github.io/feed.xml))
