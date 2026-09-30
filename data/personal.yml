@@ -126,6 +126,9 @@
 - name: Anton Davydov
   url: https://www.davydovanton.com/blog/
   rss: https://www.davydovanton.com/atom.xml
+- name: Anton Kopylov
+  url: https://www.kopylov.net/blog.html
+  rss: https://www.kopylov.net/blog/feed.xml
 - name: Aotokitsuruya
   url: https://blog.aotoki.me/en/
   rss: https://blog.aotoki.me/en/index.xml
